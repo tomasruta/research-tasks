@@ -60,13 +60,13 @@ These companies build infrastructure where the AI agent is explicitly the custom
 | [**Agentic Fabriq**](https://www.agenticfabriq.com) | Fall 2025 | Okta for Agents |
 
 ### Safety, Governance & Guardrails (5)
-| Company | Batch | One-Liner |
-|---------|-------|-----------|
-| [**Salus**](https://www.usesalus.ai/) | Winter 2026 | Guardrails to validate agent actions before they execute |
-| [**truthsystems**](https://www.truthsystems.ai) | Summer 2025 | Real-time governance agents blocking risky behavior |
-| [**TectoAI**](https://www.tecto.ai/) | Summer 2025 | AI Governance for regulated industries |
-| [**General Analysis**](https://generalanalysis.com) | S24 | Automated AI safety and red teaming for agentic AI |
-| [**Galini**](https://www.galini.ai/) | F24 | Compliance guardrails-as-a-service |
+| Company                                             | Batch       | One-Liner                                                |
+| --------------------------------------------------- | ----------- | -------------------------------------------------------- |
+| [**Salus**](https://www.usesalus.ai/)               | Winter 2026 | Guardrails to validate agent actions before they execute |
+| [**truthsystems**](https://www.truthsystems.ai)     | Summer 2025 | Real-time governance agents blocking risky behavior      |
+| [**TectoAI**](https://www.tecto.ai/)                | Summer 2025 | AI Governance for regulated industries                   |
+| [**General Analysis**](https://generalanalysis.com) | S24         | Automated AI safety and red teaming for agentic AI       |
+| [**Galini**](https://www.galini.ai/)                | F24         | Compliance guardrails-as-a-service                       |
 
 ### Execution & Sandbox (7)
 | Company | Batch | One-Liner |
@@ -145,67 +145,67 @@ These companies build infrastructure where the AI agent is explicitly the custom
 
 These are potential **customers** of Agent LLC infrastructure — they build AI agents that do jobs.
 
-| Company | Batch | Domain |
-|---------|-------|--------|
-| [Mantle](https://www.mantle.work) | Fall 2025 | Back-office automation |
-| [Trace](http://tracetec.co) | W25 | Voice AI for financial CS |
-| [Sphinx](https://sphinxlabs.ai/) | F24 | Compliance for banks |
-| [Egress Health](https://tryegress.com) | W25 | Dental insurance automation |
-| [Veritus](https://www.veritus.com) | Summer 2025 | Consumer lending agents |
-| [careCycle](https://www.careCycle.ai) | W25 | Voice AI for Medicare |
-| [FirstWork](https://firstwork.com) | S24 | HR for seasonal workers |
-| [14.ai](https://14.ai) | Winter 2024 | B2C customer service |
-| [Conduit](https://www.conduit.app/) | W24 | Support and sales agents |
-| [Conduit](https://conduit.ai) | Winter 2024 | Support and sales agents |
-| [Eloquent AI](https://www.eloquentai.co/) | X25 | Financial services AI |
-| [Quantstruct](https://quantstruct.com) | W25 | Documentation engineer |
-| [Plexe](https://plexe.ai) | X25 | ML model builder agent |
-| [Rulebase](https://rulebase.co) | F24 | Fraud detection agents |
-| [Kastle](https://kastle.ai/) | S24 | Mortgage servicing agents |
-| [Synthetic Sciences](https://syntheticsciences.ai/) | Winter 2026 | AI co-scientists |
-| [Corelayer](https://www.corelayer.com) | Winter 2026 | AI on-call engineer |
-| [Bolna AI](https://bolna.ai) | Fall 2025 | Voice AI for India |
-| [Moby Analytics](https://www.mobyanalytics.com/) | Spring 2025 | AI financial auditors |
-| [Cotool](https://cotool.ai) | Spring 2025 | SecOps agents |
-| [Asteroid](https://asteroid.ai) | W25 | Browser agents for regulated industries |
-| [Fira](https://firaresearch.com/) | W25 | Investment research agents |
-| [Trava](https://www.usetrava.com/) | Winter 2025 | Trade compliance agents |
-| [Luthor](https://luthor.ai) | F24 | Marketing compliance agents |
-| [Arva AI](https://www.arva.ai) | S24 | AML/KYB compliance agents |
-| [Seals AI](https://www.hireseals.ai/) | S24 | AI employees for wholesale |
-| [Patientdesk.ai](https://patientdesk.ai/) | Winter 2026 | Dental booking agents |
-| [Tensol](https://www.tensol.ai) | Winter 2026 | Managed AI employees |
-| [Sonarly](https://sonarly.com) | Winter 2026 | AI production debugger |
-| [Guardian AI](https://www.withguardian.ai/) | S24 | Healthcare insurance denials |
-| [Zimi](https://www.withzimi.com) | S24 | E-commerce post-purchase |
-| [PathPilot](https://www.getpathpilot.com/) | S24 | CX platform |
-| [Stilta](https://stilta.com) | Winter 2026 | Patent practitioner AI |
-| [OneGrep](https://www.onegrep.dev) | W24 | DevOps automation agent |
-| [CommodityAI](https://commodityai.io/) | W24 | Commodity operations AI |
-| [Tower](https://withtower.com) | W24 | Legal due diligence AI |
-| [Markprompt](https://markprompt.com) | W24 | Customer support AI |
-| [Handled](https://www.itshandled.ai) | Summer 2024 | E-commerce ops automation |
-| [Platus](https://www.platus.com) | F24 | Legal infrastructure agents |
-| [Cardboard](https://usecardboard.com) | Winter 2026 | Agentic video editor |
-| [Scott AI](https://tryscott.ai) | Fall 2025 | Engineering alignment agent |
-| [Clicks](https://goclicks.ai/) | Fall 2025 | Back-office computer use agents |
-| [Hypercubic](https://www.hypercubic.ai/) | Fall 2025 | COBOL modernization agents |
-| [MarkIt](https://markittrade.com) | Fall 2025 | Trade compliance agents |
-| [MOVEdot](https://www.movedot.ai/) | Fall 2025 | Hardware testing agents |
-| [Unisson](https://www.unisson.ai) | Winter 2026 | Customer-facing team agents |
-| [Jinba](https://jinba.io) | Winter 2026 | Enterprise workflow agents |
-| [StarSling](https://www.starsling.dev/) | Spring 2025 | DevOps agents |
-| [datafruit](https://datafruit.dev/) | Summer 2025 | System integrator agents |
-| [Orange Slice](https://orangeslice.ai) | Summer 2025 | Sales enrichment agents |
-| [Risely AI](https://www.risely.ai/) | Summer 2025 | College admin agents |
-| [Locata](https://www.locatahealth.com/) | Summer 2025 | Healthcare referral agents |
-| [Perspectives Health](https://perspectiveshealth.ai/) | Summer 2025 | Behavioral health admin |
-| [Fluidize](https://fluidize.ai) | Summer 2025 | Scientific computing agents |
-| [Promptless](https://gopromptless.ai/) | W25 | Documentation update agents |
-| [Tire Swing](https://gettireswing.com) | W25 | Healthcare compliance agents |
-| [VortexifyAI](https://www.vortexify.ai) | Fall 2024 | Supply chain AI |
-| [F2](http://f2.ai) | Summer 2025 | Private markets AI |
-| [Ruma Care](https://rumacare.com) | Winter 2026 | Biologics access automation |
+| Company                                               | Batch       | Domain                                  |
+| ----------------------------------------------------- | ----------- | --------------------------------------- |
+| [Mantle](https://www.mantle.work)                     | Fall 2025   | Back-office automation                  |
+| [Trace](http://tracetec.co)                           | W25         | Voice AI for financial CS               |
+| [Sphinx](https://sphinxlabs.ai/)                      | F24         | Compliance for banks                    |
+| [Egress Health](https://tryegress.com)                | W25         | Dental insurance automation             |
+| [Veritus](https://www.veritus.com)                    | Summer 2025 | Consumer lending agents                 |
+| [careCycle](https://www.careCycle.ai)                 | W25         | Voice AI for Medicare                   |
+| [FirstWork](https://firstwork.com)                    | S24         | HR for seasonal workers                 |
+| [14.ai](https://14.ai)                                | Winter 2024 | B2C customer service                    |
+| [Conduit](https://www.conduit.app/)                   | W24         | Support and sales agents                |
+| [Conduit](https://conduit.ai)                         | Winter 2024 | Support and sales agents                |
+| [Eloquent AI](https://www.eloquentai.co/)             | X25         | Financial services AI                   |
+| [Quantstruct](https://quantstruct.com)                | W25         | Documentation engineer                  |
+| [Plexe](https://plexe.ai)                             | X25         | ML model builder agent                  |
+| [Rulebase](https://rulebase.co)                       | F24         | Fraud detection agents                  |
+| [Kastle](https://kastle.ai/)                          | S24         | Mortgage servicing agents               |
+| [Synthetic Sciences](https://syntheticsciences.ai/)   | Winter 2026 | AI co-scientists                        |
+| [Corelayer](https://www.corelayer.com)                | Winter 2026 | AI on-call engineer                     |
+| [Bolna AI](https://bolna.ai)                          | Fall 2025   | Voice AI for India                      |
+| [Moby Analytics](https://www.mobyanalytics.com/)      | Spring 2025 | AI financial auditors                   |
+| [Cotool](https://cotool.ai)                           | Spring 2025 | SecOps agents                           |
+| [Asteroid](https://asteroid.ai)                       | W25         | Browser agents for regulated industries |
+| [Fira](https://firaresearch.com/)                     | W25         | Investment research agents              |
+| [Trava](https://www.usetrava.com/)                    | Winter 2025 | Trade compliance agents                 |
+| [Luthor](https://luthor.ai)                           | F24         | Marketing compliance agents             |
+| [Arva AI](https://www.arva.ai)                        | S24         | AML/KYB compliance agents               |
+| [Seals AI](https://www.hireseals.ai/)                 | S24         | AI employees for wholesale              |
+| [Patientdesk.ai](https://patientdesk.ai/)             | Winter 2026 | Dental booking agents                   |
+| [Tensol](https://www.tensol.ai)                       | Winter 2026 | Managed AI employees                    |
+| [Sonarly](https://sonarly.com)                        | Winter 2026 | AI production debugger                  |
+| [Guardian AI](https://www.withguardian.ai/)           | S24         | Healthcare insurance denials            |
+| [Zimi](https://www.withzimi.com)                      | S24         | E-commerce post-purchase                |
+| [PathPilot](https://www.getpathpilot.com/)            | S24         | CX platform                             |
+| [Stilta](https://stilta.com)                          | Winter 2026 | Patent practitioner AI                  |
+| [OneGrep](https://www.onegrep.dev)                    | W24         | DevOps automation agent                 |
+| [CommodityAI](https://commodityai.io/)                | W24         | Commodity operations AI                 |
+| [Tower](https://withtower.com)                        | W24         | Legal due diligence AI                  |
+| [Markprompt](https://markprompt.com)                  | W24         | Customer support AI                     |
+| [Handled](https://www.itshandled.ai)                  | Summer 2024 | E-commerce ops automation               |
+| [Platus](https://www.platus.com)                      | F24         | Legal infrastructure agents             |
+| [Cardboard](https://usecardboard.com)                 | Winter 2026 | Agentic video editor                    |
+| [Scott AI](https://tryscott.ai)                       | Fall 2025   | Engineering alignment agent             |
+| [Clicks](https://goclicks.ai/)                        | Fall 2025   | Back-office computer use agents         |
+| [Hypercubic](https://www.hypercubic.ai/)              | Fall 2025   | COBOL modernization agents              |
+| [MarkIt](https://markittrade.com)                     | Fall 2025   | Trade compliance agents                 |
+| [MOVEdot](https://www.movedot.ai/)                    | Fall 2025   | Hardware testing agents                 |
+| [Unisson](https://www.unisson.ai)                     | Winter 2026 | Customer-facing team agents             |
+| [Jinba](https://jinba.io)                             | Winter 2026 | Enterprise workflow agents              |
+| [StarSling](https://www.starsling.dev/)               | Spring 2025 | DevOps agents                           |
+| [datafruit](https://datafruit.dev/)                   | Summer 2025 | System integrator agents                |
+| [Orange Slice](https://orangeslice.ai)                | Summer 2025 | Sales enrichment agents                 |
+| [Risely AI](https://www.risely.ai/)                   | Summer 2025 | College admin agents                    |
+| [Locata](https://www.locatahealth.com/)               | Summer 2025 | Healthcare referral agents              |
+| [Perspectives Health](https://perspectiveshealth.ai/) | Summer 2025 | Behavioral health admin                 |
+| [Fluidize](https://fluidize.ai)                       | Summer 2025 | Scientific computing agents             |
+| [Promptless](https://gopromptless.ai/)                | W25         | Documentation update agents             |
+| [Tire Swing](https://gettireswing.com)                | W25         | Healthcare compliance agents            |
+| [VortexifyAI](https://www.vortexify.ai)               | Fall 2024   | Supply chain AI                         |
+| [F2](http://f2.ai)                                    | Summer 2025 | Private markets AI                      |
+| [Ruma Care](https://rumacare.com)                     | Winter 2026 | Biologics access automation             |
 
 ---
 
