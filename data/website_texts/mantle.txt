@@ -1,0 +1,91 @@
+Backed by 
+Automate your back office with one prompt 
+Mantle connects to your CRM, Mail, Calendar, Payments, Product Analytics, and more. Create internal agents that handle reports, updates, and routine tasks automatically. They run in the background, react to changes in real time, follow a schedule, or work when you chat with them. 
+ Book a demo 
+
+How it works 
+Connect everything. Build agents. Skip the admin. 
+
+1 
+Connect your tools 
+One click to connect your CRM, mail, calendar, payments, and analytics. No setup. Your data stays where it is. 
+
+ HubSpot, Stripe, Gmail, Linear, Slack, or any tool 
+
+ Your data stays in your tools 
+
+ Understands your company context 
+
+ Mantle 
+
+ new-agent.txt 
+
+ 1 
+
+2 
+One prompt, live agent 
+Write what you want once. Your agent runs on a schedule, on change, or when you chat. 
+
+✓ Works in plain English 
+
+✓ Runs on schedule or on events 
+
+✓ Understands your business 
+
+3 
+Let agents handle the busywork 
+Reports get sent. Drafts appear in your email. Pre‑meeting briefs show up in your calendar. You focus on the work that matters. 
+
+ Meeting brief ready 
+
+ Prospect 2 
+
+ Qualified 0 
+
+ Proposal 1 
+
+Acme Corp 
+sarah@acme.co $15k 
+Enterprise 
+
+Globex Inc 
+hank@globex.io $22k 
+
+Initech 
+bill@initech.com $8k 
+
+Back office on autopilot 
+Real agents handling real work. 
+
+Automated customer 
+Pre‑meeting research 
+Follow ups 
+
+Automated customer health reports 
+Know who needs attention before they churn by getting regular reports to your email every day. 
+
+And anything else you can think of 
+If you can describe it, Mantle can automate it 
+
+ 0 1 
+Automated customer health reports 
+Know who needs attention before they churn by getting regular reports to your email every day. 
+
+ 0 2 
+Pre‑meeting research in your calendar 
+Personalized research that tells you who they are and why the meeting matters in your context 
+
+ 0 3 
+Follow ups drafted for you 
+Every email in your inbox will have the perfect email with relevant context. 
+
+And anything else you can think of 
+If you can describe it, Mantle can automate it 
+
+Automated customer health reports 
+Know who needs attention before they churn by getting regular reports to your email every day. 
+
+You didn't start up to stay stuck in admin. 
+Turn your company AI‑native with Mantle. Build agents in seconds and automate the rest. Book a demo 
+
+ Contact

@@ -1,0 +1,269 @@
+Inference Platform: Deploy AI models in Production | Pipeshift 
+
+Platform 
+
+Platform 
+
+MAGIC 
+
+MAGIC 
+
+Blog 
+
+Blog 
+
+Contact sales 
+
+Contact sales 
+
+Platform 
+
+Platform 
+
+MAGIC 
+
+MAGIC 
+
+Blog 
+
+Blog 
+
+Contact sales 
+
+Contact sales 
+
+Platform 
+
+Platform 
+
+MAGIC 
+
+MAGIC 
+
+Blog 
+
+Blog 
+
+Contact 
+
+Contact 
+
+Powered by magic 
+
+Inference for real-time workloads 
+
+Inference for real-time workloads 
+
+Model runtimes optimized to meet your inference performance SLAs, with orchestration to scale real-time production workloads across clouds and regions. 
+
+Low Latency 
+
+High Throughput 
+
+Fast cold-starts 
+
+99.99% uptime 
+
+Talk to an engineer 
+
+Talk to an engineer 
+
+Talk to an engineer 
+
+Talk to an engineer 
+
+INFERENCE 2.0 
+
+Your SLAs should be defined by you, not an API provider 
+
+Stop letting your shared API provider control your agent’s SLAs. Make the inference stack your own. 
+
+INFERENCE 1.0 
+
+Inference you get 
+
+ Unreliable blackbox API endpoints 
+
+Shared APIs offering zero privacy 
+
+Peak hour latency spikes + errors 
+
+Unstable + regular API downtimes 
+
+Uncontrolled cost creeps at scale 
+
+INFERENCE 1.0 
+
+Inference you get 
+
+ Unreliable blackbox API endpoints 
+
+Shared APIs offering zero privacy 
+
+Peak hour latency spikes + errors 
+
+Unstable + regular API downtimes 
+
+Uncontrolled cost creeps at scale 
+
+INFERENCE 2.0 
+
+Inference you deserve 
+
+SLA-tuned dedicated deployments 
+
+100% single tenant deployments 
+
+Custom API SLAs defined by you 
+
+99.99% uptime for all your models 
+
+Predictable costs when scaling 
+
+INFERENCE 2.0 
+
+Inference you deserve 
+
+SLA-tuned dedicated deployments 
+
+100% single tenant deployments 
+
+Custom API SLAs defined by you 
+
+99.99% uptime for all your models 
+
+Predictable costs when scaling 
+
+INFERENCE 2.0 
+
+Your SLAs should be defined by you, not an API provider 
+
+Stop letting your shared API provider control your agent’s SLAs. Make the inference stack your own. 
+
+INFERENCE 1.0 
+
+Inference you get 
+
+ Unreliable blackbox API endpoints 
+
+Shared APIs offering zero privacy 
+
+Peak hour latency spikes + errors 
+
+Unstable + regular API downtimes 
+
+Uncontrolled cost creeps at scale 
+
+INFERENCE 2.0 
+
+Inference you deserve 
+
+SLA-tuned dedicated deployments 
+
+100% single tenant deployments 
+
+Custom API SLAs defined by you 
+
+99.99% uptime for all your models 
+
+Predictable costs when scaling 
+
+PLATFORM 
+
+The platform for high-performance inference 
+
+Serve open-source, custom, and fine-tuned AI models on infra purpose-built for high-performance inference at massive scale. 
+
+Fast, Scalable
+Inference 
+
+Serve models at SoTA speeds, low latency out-of-the-box. 
+
+Model API 
+Sandbox 
+
+Sandbox APIs to test models and prototype your products. 
+
+Infrastructure 
+Observability 
+
+Track model API metrics, costs, GPU/CPU metrics and more. 
+
+Forward Deployed Engineers 
+
+Our FDEs help build, optimize and scale your models. 
+
+Auto-scaling + Scale-to-zero 
+
+Custom SLA-based auto-scaling to manage GPU resources. 
+
+Blazing fast cold-starts 
+
+Rapid model readiness ensures responsiveness in any scenario. 
+
+Increased GPU utilization 
+
+Maximize compute utilization with our scheduling + bin-packing pipelines. 
+
+Unparalleled DevEx 
+
+Deploy, optimize, and manage your models with Pipeshift's platform. 
+
+PLATFORM 
+
+The platform for high-performance inference 
+
+Serve open-source, custom, and fine-tuned AI models on infra purpose-built for high-performance inference at massive scale. 
+
+Fast, Scalable
+Inference 
+
+Serve models at SoTA speeds, low latency out-of-the-box. 
+
+Model API 
+Sandbox 
+
+Sandbox APIs to test models and prototype your products. 
+
+Infrastructure 
+Observability 
+
+Track model API metrics, costs, GPU/CPU metrics and more. 
+
+Forward Deployed Engineers 
+
+Our FDEs help build, optimize and scale your models. 
+
+Auto-scaling + Scale-to-zero 
+
+Custom SLA-based auto-scaling to manage GPU resources. 
+
+Blazing fast cold-starts 
+
+Rapid model readiness ensures responsiveness in any scenario. 
+
+Increased GPU utilization 
+
+Maximize compute utilization with our scheduling + bin-packing pipelines. 
+
+Unparalleled DevEx 
+
+Deploy, optimize, and manage your models with Pipeshift's platform. 
+
+INFRASTRUCTURE 
+
+Inference is more than just GPUs 
+
+Pipeshift delivers the infrastructure, tooling, and expertise needed to bring the most performant AI products to market—fast. 
+
+Built with SoTA inference optimizations and research 
+
+Our team implements SoTA performance research with custom kernels, the latest decoding methods, alongside advanced caching, all powering the excellence of MAGIC. 
+
+Production ready infrastructure orchestrastion 
+
+With Pipeshift’s custom-built infrastructure orchestration - load balancers, schedulers and auto scalers - you are able to scale any model workload with consistent concurrency while maintaining SLAs. 
+
+MAGIC helps adapt the inference stack in real-time 
+
+Our proprietary framework - Modular Architecture for GPU Inference Clusters (MAGIC) allows us to modify each layer of inference infrastructure as per the unique needs

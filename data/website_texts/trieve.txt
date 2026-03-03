@@ -1,0 +1,204 @@
+Trieve 
+
+Trieve
+
+Products
+
+ Ecommerce 
+ AI-native discovery for winning brands 
+
+ Sitesearch 
+ Modern AI and search experiences for websites 
+
+ Developer API 
+ For performance-critical and complex applications 
+
+ See Trieve in Action! 
+ Discover how Trieve products can transform your business 
+Integrations
+
+ Shopify 
+ Install state-of-the-art AI in two minutes 
+
+ Judge.Me 
+ Amazon Rufus for your store injecting social proof into AI responses 
+
+ Vapi 
+ The performance enterprise KB solution for voice agents 
+
+ See Trieve in Action! 
+ Discover how Trieve products can transform your business Pricing
+
+Resources
+
+ About Trieve 
+ Learn about our mission, team, and story 
+
+ Blog 
+ We write articles real humans enjoy reading! 
+
+ Developer Documentation 
+ Comprehensive guides and references for developers. 
+
+ API Reference 
+ Detailed API documentation for integrating with Trieve. 
+ Login 
+Request demo
+
+ Request demo 
+ Trieve is being acquired by Mintlify, and we are excited to continue empowering developers to build amazing applications. 
+See what's new 
+
+Products
+
+ Ecommerce 
+ AI-native discovery for winning brands 
+
+ Sitesearch 
+ Modern AI and search experiences for websites 
+
+ Developer API 
+ For performance-critical and complex applications 
+
+See Trieve in Action! 
+Discover how Trieve products can transform your business 
+
+Integrations
+
+ Shopify 
+ Install state-of-the-art AI in two minutes 
+
+ Judge.Me 
+ Amazon Rufus for your store injecting social proof into AI responses 
+
+ Vapi 
+ The performance enterprise KB solution for voice agents 
+
+ See Trieve in Action! 
+ Discover how Trieve products can transform your business 
+
+Pricing
+
+View Pricing Plans 
+
+Explore our flexible pricing options for businesses of all sizes
+
+Resources
+
+ About Trieve 
+ Learn about our mission, team, and story 
+
+ Blog 
+ We write articles real humans enjoy reading! 
+
+ Developer Documentation 
+ Comprehensive guides and references for developers. 
+
+ API Reference 
+ Detailed API documentation for integrating with Trieve. 
+
+Login
+
+Request Demo
+
+ Thank you for all of the searches!
+
+ Trieve is being sunset on November 1st and the license changed to MIT open source as part of the acquisition by Mintlify. See more details on our blog. 
+
+ See the Announcement 
+
+ Powering 30,000+ discovery experiences worldwide 
+
+The Everything Platform for AI
+
+ Conversational AI 
+ State-of-the-Art Search 
+ Dynamic Recommendations 
+ Comprehensive Analytics 
+ Athletic API 
+
+Conversational AI 
+Code? Camping gear? Deliver AI-powered answers that delight your users and drive conversions. 
+
+State-of-the-Art Search 
+Boost satisfaction and sales with discovery that continuously optimizes and understands intent to always deliver the right results front and center. 
+
+Dynamic Recommendations 
+Guide users to what they need next-seamlessly-with an AI personalization engine that understands your business. 
+
+Comprehensive Analytics 
+Insightful analytics for even the most demanding of product, marketing, and sales teams. 
+
+Athletic API 
+A robust 72-endpoint API productionizing the latest in AI so teams can focus on shipping tomorrow’s breakthroughs-today. 
+
+Trieve Coordinates so You Can Scale
+
+Use the Best Model for the Job 
+Built-in support for open-source embeddings and secure LLMs, plus BYO model support with your keys. 
+
+Self-Hostable 
+Sensitive data? Need maximum performance? Host Trieve yourself with terraform templates and no external dependencies. 
+
+“Trieve has been more than a vendor to us; they've been a true partner in helping us realize our AI aspirations. We were actually able to roll out our new AI-driven features well ahead of schedule. For any company looking to add AI features into their product, Trieve is the go-to expert you can trust.”
+
+ Karen Suhaka, Founder & CEO 
+Read the case study
+
+“Incredible product. Been using and relying on Trieve for our entire search and chat experience and it's been nothing but incredible.”
+
+ Han Wang, Co-Founder @ Mintlify 
+Read the case study
+
+“The founders, Nick and Denzel, are amazing. Super responsive and helped us get our RAG up and running super quickly!
+”
+
+ Tae Hoon Kim, CTO @ Spark 
+Read the case study
+
+“Trieve brings so much valuable knowledge to the table. They don't just onboard you onto their product, they advise you on how to build your RAG application from the ground up. Super fast response times, highly recommend!”
+
+ Jeff An 
+
+“Have loved working with Trieve, grateful they exist!”
+
+ Nikhil Gupta, CEO 
+
+Find out why valuable
+brands choose Trieve
+
+ Start Free Request a Demo 
+
+Trieve 
+
+ SOC2 Type 2
+Compliant 
+ HIPAA
+Compliant 
+
+Support 
+ +1628-222-490 
+ humans@trieve.ai 
+ Slack 
+ Matrix 
+ Discord 
+
+Company 
+ About Trieve 
+ Dashboard 
+ Privacy Policy 
+ Terms of Service 
+ Trust Center 
+ GitHub 
+
+Product 
+ Pricing 
+ Developer Documentation 
+ Typescript SDK 
+ Status Page 
+
+Comparisons 
+ vs Algolia 
+ bi:slack bi:twitter-x bi:github simple-icons:matrix bi:discord bi:rss 
+
+© 2025 Trieve.ai. All rights reserved.

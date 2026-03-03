@@ -1,0 +1,139 @@
+Vibrant Labs 
+
+Blog 
+
+About 
+
+Contact us 
+
+Blog 
+
+About 
+
+Contact us 
+
+Blog 
+
+About 
+
+Contact us 
+
+ Simulation environments 
+ for AI agents 
+
+ W h e r e a g e n t s l e a r n , f a i l , a n d i m p r o v e . 
+
+Contact us 
+
+ Benchmark what exists. 
+ Train what’s next. 
+
+ Benchmark and diagnose agents in simulated environments 
+
+ Test your agents through complex, safe, and reproducible worlds that challenge long-horizon reasoning, recovery, and planning. See where they break, how they adapt, and what it takes to improve them. 
+
+ Train & Align AI Agents in RL Environments 
+
+ RL-ready simulation environments to teach agents long-horizon goals, recovery behaviors, and alignment objectives. 
+
+ The traditional way of evaluating and training AI agents has hit a wall. Simulations are the future. 
+
+ Simulation environments 
+ for long-horizon agents 
+
+Browser Agents 
+
+for automated web-based tasks 
+
+Customer Experience Agents 
+
+for successful interactions 
+
+Coding Agents 
+
+for automated coding and infrastructure 
+
+Brighten up our week — Book a meeting 
+
+ Simulation environments 
+ for long-horizon agents 
+
+Browser Agents 
+
+for automated web-based tasks 
+
+Customer Experience Agents 
+
+for successful interactions 
+
+Coding Agents 
+
+for automated coding and infrastructure 
+
+Book a meeting 
+
+10K 
+
+1B 
+
+Evaluations 
+
+Born from Ragas 
+
+Ragas has emerged as the most popular AI evaluation framework and is used by 80% of the Fortune 100, solving a critical AI problem today. Vibrant Labs is passionate about solving the next one. 
+
+ragas.io 
+
+ Resources 
+
+Blog 
+
+Insights on AI benchmarking, agent training, and simulation environments. 
+
+Featured 
+
+Hello World 
+
+Blog 
+
+Insights on AI benchmarking, agent training, and simulation environments. 
+
+Featured 
+
+Hello World 
+
+Join Discord 
+
+Connect with our community of AI engineers and researchers building the future. 
+
+Join now 
+
+Join Discord 
+
+Connect with our community of AI engineers and researchers building the future. 
+
+Join now 
+
+Book a Meeting 
+
+Let's discuss how Vibrant Labs can help you build better AI agents. 
+
+Schedule a call 
+
+Book a Meeting 
+
+Let's discuss how Vibrant Labs can help you build better AI agents. 
+
+Schedule a call 
+
+Vibrant Labs is proudly backed by 
+
+© 2026 Exploding Gradinents Inc. All rights reserved. 
+
+Vibrant Labs is proudly backed by 
+
+© 2026 Exploding Gradinents Inc. All rights reserved. 
+
+Vibrant Labs is proudly backed by 
+
+© 2026 Exploding Gradinents Inc. All rights reserved.

@@ -1,0 +1,290 @@
+Flott HQ: Reduce cost and boost revenues by backing each business decision with complete fleet data 
+
+ Flott HQ 
+ Products Features Industries Blog 
+
+ EN FR Toggle theme Get started 
+ Flott HQ 
+ Products Features Industries Blog 
+
+ EN FR Toggle theme Get started 
+ Flott HQ 
+
+ Backed By Y Combinator 
+Manage your fleet operations with more accurate and complete data 
+The only fleet management platform that helps you decide with confidence using the most accurate and complete fleet data. 
+ Cut costs and boost revenues 
+ Secure your assets easily 
+ Unified visibility across your operations and platforms 
+ Get started Request demo 
+
+ Loading Bay 3 TRK-2847 • Docking In Progress 
+
+ Tractor JD-7830 4.5hrs today • 120L fuel Maintenance Due 
+
+ Fleet Status 7 of 8 vehicles ready 
+
+ Dispatch Queue 
+ Live 
+
+Truck 
+Route 
+Status 
+ETA 
+
+ WM-201 
+Zone A-12 
+ On Route 
+ 08:45 
+
+ WM-187 
+Zone B-05 
+ Loading 
+ 09:15 
+
+ WM-334 
+Zone C-08 
+ On Route 
+ 09:30 
+
+ WM-412 
+Zone A-03 
+ Assigned 
+ NEW 
+
+ WM-528 
+Zone B-11 
+ Idle 
+ 10:00 
+
+ AI Assistant 
+ Online 
+
+Show trucks near Paris 
+
+3 trucks found • WM-201 closest 
+
+Assign WM-201 to pickup 
+
+Done! WM-201 assigned. ETA: 12 min. 
+
+ Road ticket -5 pts 
+
+Trusted by Leading Operational Teams 
+
+Products 
+Connect, enrich, and automate your fleet operations 
+Flott connects your telematics and business systems, enriches raw signals into operational events and exceptions, and powers workflows across fleet, equipment, and sites 
+
+Fleet Management 
+Track your entire fleet in real-time. Monitor utilization, maintenance readiness, and operating costs simply. 
+
+Unified Visibility 
+One view across vehicles, drivers, sites, and systems; so exceptions and bottlenecks are visible immediately. 
+
+Enrichment Engine 
+
+Connected 
+
+Billing Accuracy 
+ $200 extras 
+
+Vehicle 
+Mileage 
+Extras 
+
+VH-2847 
+12,450 km 
+ generating... 
+
+VH-1923 
+8,230 km 
+ $200 
+
+VH-3156 
+
+ $12 
+
+VH-4521 
+15,780 km 
+ $35 
+
+Equipment Monitoring 
+Monitor health, hours, and service intervals to prevent downtime, and improve utilization 
+
+AI Enrichment and automation 
+Automatically turn raw data into operational insights around business processes. Save 100s of hours of manual work and reduce errors 
+ Discover all integrations and templates 
+
+Features 
+
+Make every operational decision with enriched, complete data 
+ Unify signals from telematics, TMS/ERP, and external sources into one operational model. 
+ Create operational logic once and apply it everywhere: exceptions, thresholds, SLAs, and workflows across teams 
+ Use the AI assistant to build views, flag exceptions, and answer operational questions in seconds. 
+
+Dispatching 
+
+Vehicle 
+Driver 
+Distance 
+$/km 
+Status 
+Load 
+HOS 
+Fill empty load 
+
+ + 
+ add new column 
+
+TRK-2847 
+M. Johnson 
+1,363 km 
+$1.82 
+ in-transit 
+18,500 lbs 
+ 6h 45m 
+ $4.2k (Dallas → Phoenix) 
+
+TRK-1923 
+R. Davis 
+1,980 km 
+$1.65 
+ delivered 
+0 lbs 
+ 1h 30m 
+ $5.1k (Austin → LA) 
+
+TRK-3156 
+K. Smith 
+
+ loading 
+22,000 lbs 
+ 9h 15m 
+ searching load... 
+
+TRK-4521 
+J. Wilson 
+3,380 km 
+$1.74 
+ available 
+0 lbs 
+ 0h 45m 
+ searching load... 
+
+TRK-8734 
+S. Brown 
+905 km 
+$1.91 
+ in-transit 
+15,200 lbs 
+ 4h 20m 
+ $3.8k (Chicago → ATL) 
+
+TRK-6291 
+L. Martinez 
+
+ loading 
+19,800 lbs 
+ 7h 00m 
+ searching load... 
+
+TRK-9452 
+T. Anderson 
+2,543 km 
+$1.68 
+ in-transit 
+21,200 lbs 
+ 5h 10m 
+ $6.2k (Miami → NYC) 
+
+TRK-3847 
+P. Garcia 
+
+ loading 
+
+ 8h 30m 
+ searching load... 
+
+TRK-7128 
+D. Lee 
+1,578 km 
+
+ in-transit 
+16,400 lbs 
+ 2h 15m 
+ $4.8k (Seattle → Denver) 
+
+TRK-5063 
+A. Thompson 
+
+ available 
+0 lbs 
+ 10h 00m 
+ searching load... 
+
+Example: Enriched dispatch view — status + HOS + cost + availability in one table 
+
+Manage your fleet without the complexity 
+ Track utilization, maintenance, and costs in a simple table, powered by enriched and reconciled fleet data. 
+ Start with proven templates, then customize fields, rules, and workflows to match how you operate. 
+ Use our AI assistant to surface exceptions, answer operational questions, and generate reports faster than ever. 
+
+ Fleet Utilization 
+
+ Target 75 % Last 30 days 
+
+ Jan Feb Mar Apr 
+
+See bottlenecks across fleet, drivers, and sites automatically 
+ Understand what’s happening across your vehicles, drivers, and sites with enriched signals and automated context. 
+ Automatically track dwell, queue time, idle, cycle time, and the drivers behind delays. 
+ Combine telematics + driver inputs + site signals + external data into one operational view for faster decisions. 
+
+ Live Map 
+
+Sites Monitoring 7 active 
+
+Site 
+Location 
+Queue Time 
+Queue 
+
+Warehouse A 
+Phoenix, AZ 
+ 45m 
+2 trucks 
+
+Warehouse B 
+Austin, TX 
+ 1h 20m 
+3 trucks 
+
+Warehouse C 
+Denver, CO 
+ 55m 
+1 trucks 
+
+Warehouse N9 
+Seattle, WA 
+ 2h 05m 
+5 trucks 
+
+Depot Central 
+Chicago, IL 
+ 3h 30m 
+7 trucks 
+
+Hub West 
+LA, CA 
+ 1h 10m 
+4 trucks 
+
+ Factory 
+Dallas, TX 
+ 2h 15m 
+ 6 trucks 
+Sites Monitoring: real-time queue time + active vehicles by location 
+
+Industries 
+High value use cases made simple and custom

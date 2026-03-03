@@ -1,0 +1,112 @@
+Outerport - Make every diagram, CAD, and document queryable. 
+
+ Careers Blog About Us Request Access 
+
+ Make every diagram, drawing, and document queryable. 
+Extract structured data from documents, tables, P&ID diagrams, process flow diagrams, GD&T drawings, electrical CAD, and more. Build AI agents with tools that help them understand and measure the world. 
+
+ Request Access 
+
+COMPONENT_SELECTOR_v2.1 
+MODULAR_ASSEMBLY 
+
+P&ID 
+01 
+
+Documents & Tables 
+02 
+
+DWG: PID -001 
+REV: C 
+SCALE: 1:1 
+
+METADATA_PANEL_v2.1 
+COMPONENT_DATA 
+
+📋 
+No Selection 
+Click on a component
+to view metadata 
+
+META_VIEWER_v1.0 
+
+CLIENT_VALIDATION_v1.0 
+
+Trusted by Fortune 500 enterprises and leading startups. 
+
+ VALIDATED 
+• REF: F500_ENTERPRISES, STARTUPS 
+• SECTORS: BANKING + MFG + AEC + MEP 
+
+REV 1.0 
+Our Services 
+
+OUTERPORT_SYSTEMS_VALUE_PROPS_v1.0 
+SERVICES 
+
+SERVICE- 01 
+
+Digitize your legacy documents 
+Our parsing API can convert documents and diagrams into LLM-readable formats like text and code, at a higher accuracy than typical vision-language models. In addition to our API, we offer human-assisted document conversion services. 
+
+SPECIFICATIONS 
+
+ deployment : Cloud + On-Premise / VPC 
+ integration : REST API + SDK + Services 
+
+SERVICE- 02 
+
+Vision-powered tools for AI agents 
+Ground your agents with structured visual understanding (bounding boxes, metadata, etc) through our vision model APIs. No more hallucinations. 
+
+SPECIFICATIONS 
+
+ deployment : Cloud + On-Premise / VPC 
+ integration : REST API + SDK 
+
+SERVICE- 03 
+
+Build reliable search systems 
+Technical documents often contain references to other documents (e.g. an assembly drawing pointing to a part, or a P&ID symbol referencing a table). Our vision models help surface these links and integrate into RAG or LLM-based agentic search systems. 
+
+SPECIFICATIONS 
+
+ deployment : Cloud + On-Premise / VPC 
+ integration : Search APIs + RAG 
+
+SERVICE- 04 
+
+Forward-deployed customization 
+We work with our clients directly to curate data, fine-tune custom models, and build specialized applications and agents. Stay tuned for our enterprise case-studies. 
+
+SPECIFICATIONS 
+
+ deployment : On-site engineering 
+ integration : Bespoke solutions 
+
+DRAWING NO: VP-001 • SCALE: N/A • DATE: 2026 
+
+Book a demo.
+
+Trusted by Fortune 500 enterprises and financial institutions to build internal search systems, compliance automations, and document generation.
+
+Built by AI engineers and research scientists from NVIDIA, Meta, LinkedIn, and more.
+
+Contact us at: info@outerport.com 
+ Name 
+ Business Email 
+ Company / Affiliation 
+ Job Title 
+ Reason for Interest (Optional) Submit 
+
+© 2024 Genban, Inc. 2261 Market Street STE 22838
+San Francisco, CA 94114 
+
+Legal 
+ Terms of Service Privacy Policy 
+
+Company 
+ About Us Contact Blog 
+
+Connect 
+ Y Combinator Twitter LinkedIn GitHub

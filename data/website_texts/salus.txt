@@ -1,0 +1,64 @@
+Salus - Block Incorrect Agent Actions 
+
+ Salus Book a Demo 
+
+ Backed by 
+
+Validate all your agent's actions before they execute 
+
+Block incorrect actions at runtime and provide immediate feedback to guide retries. 
+ Book a Demo 
+
+Our Product 
+
+01 
+Runtime Guardrails 
+Intercept and validate every tool call at execution time. Block actions that violate policy or aren't grounded in evidence before they execute. 
+
+02 
+Self-Repair 
+When an action is blocked, Salus returns structured feedback explaining exactly what failed, enabling the agent to self-correct and retry. 
+
+03 
+Full Visibility 
+Watch every agent interaction stream in real-time. Full traces, token usage, and latency breakdowns. 
+
+04 
+Evals 
+Generate thousands of adversarial and realistic scenarios to measure tool-call correctness before deployment. 
+
+ pip install salus-ai 
+ from salus import Session, PreflightBlockedError 
+ from openai import OpenAI 
+
+ client = OpenAI() 
+ session = Session( enforce = True ) 
+
+ @session.protect ( produces_evidence = True ) 
+ def lookup_order (order_id: str ): 
+ return db.get_order(order_id) 
+
+ @session.protect ( is_commit = True , requires =[ "lookup_order" ]) 
+ def issue_refund (order_id: str , amount: float ): 
+ return payments.refund(order_id, amount) 
+
+Easily Integrate 
+One decorator per tool call. That's it. 
+Works with OpenAI, Anthropic, LangChain, LangGraph, and CrewAI. 
+
+Ready to secure your AI agents? 
+Book a 30 minute live demo with our team to learn how Salus can protect your business from costly mistakes. 
+ Book a Demo 
+Got questions? Reach out to us anytime: founders@usesalus.ai 
+
+Security 
+Report a Security Issue 
+Customers can report vulnerabilities or security concerns directly to our security team. 
+
+ Trust Center 
+Email: security@usesalus.ai 
+Support: support@usesalus.ai 
+Reports are triaged and tracked in our internal ticketing system. 
+
+Salus 2026. All rights reserved 
+Security: security@usesalus.ai | Support: support@usesalus.ai | Legal: Terms of Service

@@ -1,0 +1,58 @@
+Quantstruct Quantstruct 
+
+ Quantstruct 
+ How It Works Learn More FAQs Login 
+
+Test, verify, update your docs - automatically 
+Connect Quantstruct to where you work, get documentation improvements 24𝗑7, and ask it for new docs! 
+ Talk to the founders 
+
+How Quantstruct Works 
+
+Research across all your tools 
+Quantstruct can search across all your software tools and events, gathering necessary context for your documentation updates. 
+
+Refine Interactively 
+Iterate on suggested documentation by providing feedback and asking for adjustments in a conversational thread (e.g., via Slack). 
+
+Integrates With Your Workflow 
+Connects with GitHub, Slack, and your software tools to fit into your existing development and communication processes. 
+
+Generate & Publish Docs Automatically 
+Quantstruct listens to events across your codebase, project management tools, support tickets, and more, and creates high quality drafts for you to review and publish. 
+
+See Quantstruct in Action 
+
+Read our case study, or schedule a demo with the founders to see Quantstruct in action. 
+
+Vapi Case Study 
+Learn how Vapi creates evergreen docs for its developer and partner ecosystem with Quantstruct 
+
+Frequently Asked Questions 
+
+What is Quantstruct? 
+
+Quantstruct is an agentic workflow platform for technical documentation. It helps teams maintain accurate, up-to-date technical docs. It automatically detects changes in your product across source code, customer conversations, and suggests relevant docs updates. 
+
+How does Quantstruct work? 
+
+Quantstruct integrates with your GitHub repositories and Slack workspace. When code changes are detected, our AI analyzes the changes and automatically generates documentation updates. These updates are then sent for review through GitHub pull requests or Slack notifications. 
+
+Is Quantstruct suitable for my team? 
+
+Quantstruct is ideal for software development teams of any size who want to maintain high-quality documentation without the manual overhead. It's especially valuable for teams working on APIs, SDKs, or any software product with a developer community. 
+
+How accurate are Quantstruct's updates? 
+
+Quantstruct's AI uses prompts and finetuned models that comprise high quality technical documentation and code samples. All generated content goes through multiple validation steps and is presented for human review before being published. Our system also learns from your team's feedback to improve accuracy over time. 
+
+What integrations does Quantstruct support? 
+
+Quantstruct integrates with Git-based documentation management platforms (Mintlify, Fern, GitBook, Docusaurus, Nextra, etc.), ReadMe, and dozens of platforms where your team and customers live (Slack, Jira, Linear, Zendesk, Discord, etc.), and popular documentation platforms. We can generally support new integrations based on your feedback in a few days. 
+
+How do I get started? 
+
+Getting started is easy! Sign up above, connect your GitHub repository and other sources where your teams work, and our team will guide you through the setup process. We offer personalized onboarding to ensure you get the most value from Quantstruct. 
+
+© Quantstruct, Inc. 2025 
+ Privacy Policy Terms of Service LinkedIn X (Twitter) Talk to the founders Email

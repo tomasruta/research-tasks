@@ -1,0 +1,135 @@
+Castari - Build & Deploy AI Agents 
+
+ Castari 
+
+ Get Started 
+ Home Contact Careers 
+ Home Contact Careers 
+
+ The deployment platform for 
+ Claude agents 
+Deploy Claude Agent SDK to production in seconds. 
+ Beta Castari is now in public beta 
+
+One command to production cast deploy 
+
+Partnered with 
+
+ Ship Claude agents Ship Claude Agent SDK with one command 
+
+ 1. IMPORT YOUR PROJECT 2. ONE CLICK DEPLOY 3. ITERATE 
+
+Import Your Project 
+
+Import a Claude Agent SDK project from GitHub or generate a new agent from a prompt or template. 
+
+One click deploy 
+
+Click deploy or run cast deploy . Your agent runs in an auto-scaling sandbox with built-in logging and observability. 
+
+Iterate 
+
+View tool traces, inspect output logs, and refine your agent using real production data. Infrastructure scales automatically. 
+
+ The easiest way to deploy agents with the Claude Agent SDK 
+
+100+ 
+Agents Deployed 
+
+<150ms 
+Cold Start 
+
+Secure 
+Isolated Runtime 
+
+Deploy your
+first agent in
+seconds 
+
+ Deploy automatically from git or with our CLI 
+
+ Isolated sandboxes for every agent execution 
+
+ Observability for every run 
+
+ Secure by default with isolated runtimes 
+
+Research Agents 
+
+Code Agents 
+
+DevOps Agents 
+
+Data Agents 
+
+Finance Agents 
+
+Customer Support Agents 
+
+Features 
+
+Long running, auto-scaling sandboxes 
+Deploy agents that run for hours or days in isolated sandboxes. Infrastructure scales on demand so you can focus on building, not babysitting. 
+
+Deploy agents that run for hours or days in isolated sandboxes. Infrastructure scales on demand so you can focus on building, not babysitting. 
+
+MCP gateway 
+Skip the integration spaghetti. Our MCP gateway gives agents access to any tool or API while you control permissions from a single dashboard. 
+
+Skip the integration spaghetti. Our MCP gateway gives agents access to any tool or API while you control permissions from a single dashboard. 
+
+One click deploy 
+One click. Your Claude agent is live. Castari manages provisioning, versioning, and execution behind the scenes. 
+
+One click. Your Claude agent is live. Castari manages provisioning, versioning, and execution behind the scenes. 
+
+Agent observability 
+Full visibility into every agent decision. Trace tool calls, inspect outputs, and debug in real time—not after something breaks in production. 
+
+Full visibility into every agent decision. Trace tool calls, inspect outputs, and debug in real time—not after something breaks in production. 
+
+Model router 
+Use any model with the Claude Agent SDK—OpenAI, xAI, GLM, and more. Keep your agent code, swap the model. No rewrites required. 
+
+Use any model with the Claude Agent SDK—OpenAI, xAI, GLM, and more. Keep your agent code, swap the model. No rewrites required. 
+
+Start building
+powerful agents Get Started 
+
+FAQs 
+
+What is Castari? 
+
+Castari is a deployment platform for Claude Agent SDK agents. Import your project, run cast deploy, and your agent is live with auto-scaling, logging, and observability built in. 
+
+Do I need to modify my code to use Castari? 
+
+No. Castari works with standard Claude Agent SDK code without modification. You keep full ownership of your codebase with zero vendor lock-in—if you ever want to self-host, your agents will run anywhere. We simply provide the infrastructure layer. 
+
+Why use Castari instead of deploying myself? 
+
+Deploying agents yourself means managing containers, configuring secure environments, handling scaling logic, and monitoring execution. Castari handles all of this out of the box with production-grade infrastructure and no DevOps overhead. 
+
+How do you handle security and isolation? 
+
+Every agent runs in an isolated sandbox environment. We use a variety of sandbox providers to ensure security and performance. The ability to select your own sandbox provider is coming soon. 
+
+How much does Castari cost? 
+
+Castari is free during our private beta. When we launch publicly, we'll use usage-based pricing—you'll pay only for the compute your agents use, not per seat or per agent. 
+
+Which AI models does Castari support? 
+
+Castari supports any model with the Claude Agent SDK—not just Claude. Use OpenAI, xAI, open source models, or any provider you prefer. Your agent code stays the same. 
+
+How do I get started with Castari? 
+
+Getting started takes less than 5 minutes. Install the CLI with npm install -g @castari/cli, authenticate with cast login, and deploy your Claude Agent SDK agent using cast deploy. Your agent will immediately be accessible via REST API or our SDK. 
+
+Push less. Deploy more. 
+ Get Started 
+
+Features Sandboxes MCP gateway Agent observability One click deploy Model router 
+
+Company Docs Careers Contact us Privacy policy Terms of service 
+ Castari

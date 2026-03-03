@@ -1,0 +1,200 @@
+RunAnywhere: On-Device AI for Mobile & Edge 
+
+RunAnywhere 
+ Documentation Blog News 
+
+Download APP 
+
+10.1K 
+
+ Login Book a Demo 
+
+ Backed by Y Combinator 
+ RunAnywhere : On-Device AI for Mobile & Edge 
+Deploy fast, private AI models across iOS, Android, and edge devices — with just a few lines of code. 
+ Start Integrating Open Source SDK Join our Community 
+
+Smartphone 
+
+One SDK. Infinite Inference. 
+
+Services 
+
+LLM 
+Language 
+
+STT 
+Speech 
+
+TTS 
+Voice 
+ Soon 
+VLM 
+Vision 
+
+ Swift KMP React Native Flutter 
+
+ 1 import RunAnywhere 
+ 2 let response = try await RunAnywhere.chat("Explain quantum computing") 
+ 3 print(response) 
+ 4 // Streaming: RunAnywhere.generateStream(prompt) 
+
+Explain quantum computing in simple terms 
+
+LLM 
+Quantum computing uses quantum mechanics to process information in fundamentally different ways than classical computers, enabling exponentially faster calculations for specific problems. 
+
+Cost-effective AI 
+
+3-minute setup 
+
+Privacy-focused 
+
+How it Works 
+Deploy AI models to any device with a single SDK. Manage your entire fleet from one dashboard with real-time analytics and OTA updates. 
+
+Integrate Our SDK 
+Push AI models directly to user devices. Our platform automatically optimizes. 
+
+Deploy Models On-Device 
+Add RunAnywhere SDK to your app in less than 5 lines of code. 
+
+Manage & Monitor 
+Control your entire AI fleet from a single dashboard. Real-time analytics. 
+
+ SDK Integration 
+
+ <> import RunAnywhere 
+RunAnywhere.initialize() 
+
+ <> 
+
+SDK Integrated Successfully 
+
+How it Works 
+Deploy AI models to any device with a single SDK. Manage your entire fleet from one dashboard with real-time analytics and OTA updates. 
+
+Integrate Our SDK 
+Push AI models directly to user devices. Our platform automatically optimizes. 
+
+ SDK Integration 
+
+ <> import RunAnywhere 
+RunAnywhere.initialize() 
+
+ <> 
+
+SDK Integrated Successfully 
+
+Deploy Models On-Device 
+Add RunAnywhere SDK to your app in less than 5 lines of code. 
+
+Mobile 
+
+Web 
+
+Desktop 
+
+Edge 
+
+Watch 
+
+Glasses 
+
+Deployed successfully 
+
+Manage & Monitor 
+Control your entire AI fleet from a single dashboard. Real-time analytics. 
+
+ Analytics 
+ Devices 
+
+Weekly Analytics 
+Live 
+
+ Mon 
+
+ Tue 
+
+ Wed 
+
+ Thu 
+
+ Fri 
+
+ Sat 
+
+ Sun 
+
+ 1,234 devices +18% vs last week 
+
+ Real-time Updates 
+
+ Model v21 deployed 
+
+ 5 new devices connected 
+
+ Analytics updated 
+
+ Coming Soon 
+ Control Plane 
+Manage your on-device AI fleet at scale. Deploy models, monitor performance, and update policies — all from a single dashboard. 
+
+Fleet Management Dashboard 
+Monitor your on-device AI fleet in real-time. Track device status, model versions, and health metrics across all deployments. 
+
+OTA Model Updates 
+Update models without App Store releases. Push new model versions directly to devices with differential updates. 
+
+Policy-Based Routing 
+Route between on-device and cloud based on custom rules. Set fallback policies for low-memory or complex queries. 
+
+Usage Analytics 
+Track inference patterns, latency metrics, and model performance. Gain insights without compromising user privacy. 
+ Join Waitlist for Early Access 
+
+Frequently Asked Questions 
+Everything you need to know about deploying on-device AI with RunAnywhere. Can't find your answer? Reach out to our team. 
+
+What SDKs are available? 
+
+What AI models are supported? 
+
+What runtimes and formats are supported? 
+
+Does it work completely offline? 
+
+How does on-device inference compare to cloud APIs? 
+
+Is there a web console or dashboard? 
+
+How do I handle model updates? 
+
+Is my user data secure? 
+
+Is RunAnywhere free? 
+
+Can I use my own fine-tuned models? 
+
+Still have questions? Contact our team 
+
+Built by engineers who've scaled products for millions at 
+ Try Voice Demo Demo 
+
+RunAnywhere 
+Connect with developers, share ideas, get support, and stay updated on the latest features. Our Discord community is the heart of everything we build. 
+
+Product 
+
+Documentation 
+Book Demo 
+
+Company 
+
+Contact 
+
+Legal 
+
+Privacy Policy 
+
+Copyright © 2025 RunAnywhere, Inc.

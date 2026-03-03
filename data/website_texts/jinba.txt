@@ -1,0 +1,319 @@
+Jinba - Automate Any Workflow Instantly Through Chat 
+
+ Blog 
+ Use Cases 
+
+ By Industry 
+
+ Banking 
+ Loan Screening Remittance Validation 
+See More
+
+ Insurance 
+ Underwriting Automation Claims Processing 
+See More
+
+ Manufacturing 
+ AI Workflow Automation Knowledge Management 
+See More
+
+ Cross-Industry 
+
+ Legal 
+ Contract Review Contract Analysis 
+See More
+
+ Sales 
+ Quote Generation Quotation Automation 
+See More
+
+ Across Industries 
+ Meeting Scheduling Procurement Automation HR Intake Workflows 
+See More
+ Pricing Careers Docs 
+
+ EN 
+ EN JP 
+ Login 
+
+ Jinba Flow 
+ Build and automate workflows 
+
+ Jinba App 
+ Execute workflows instantly svg]:h-[1.2em]"> Blog svg]:h-[1.2em]"> Pricing svg]:h-[1.2em]"> Careers svg]:h-[1.2em]"> Docs svg]:h-[1.2em]"> Use Cases 
+
+ Login Jinba Flow Build and automate workflows Jinba App Execute workflows instantly svg]:h-[1.2em]"> Get a demo 
+ Language 
+
+EN
+
+JP
+
+ Prompt to Production 
+ Prompt to Production 
+ Describe any workflow in plain English. Jinba builds it, connects your tools, and deploys it instantly — as an API, webhook, MCP server, Slack bot, or scheduled job. 
+ Sign up free Contact Sales 
+ Backed by Combinator 
+
+ Trusted by enterprises who value control and scalability. 
+ See how leading organizations are transforming their workflows with Jinba. 
+
+"Quick integration with existing MCPs and the ability to deploy agents on the Jinba App help streamline biomedical data analysis, even for users with little programming knowledge."
+
+ Haruo Mizutani (Ph.D.) Senior Specialist 
+
+"Our engineering team loves the flexibility. Developers use YAML, designers use the visual interface, and managers use natural language. Everyone is productive from day one."
+
+ Ryuya Yoshioka Executive Officer, COO 
+
+ Enterprise Ready 
+ Control, security, and support for large organizations. 
+
+ On-Prem 
+
+ Jinba 
+
+ Private 
+
+ On-premises or private cloud hosting 
+ Run Jinba in your own environment with full data control. 
+
+ Team Permissions 128 Active 
+
+ Sarah Chen Engineering Lead 
+
+ Workflows 
+
+ Michael Ross Product Manager 
+
+ Analytics 
+
+ Guest User External Auditor 
+
+ Admin Access 
+
+ SSO Enforced Updated 2m ago 
+
+ Advanced access control 
+ Role-based permissions and SSO integration. 
+
+ audit_stream.log 
+
+ 1 
+ [200] 09:14:22 GET /api/v1/health_check 
+ 2 
+ [INFO] 09:14:23 Worker node_04 connected 
+ 3 
+ [AUTH] 09:15:01 User admin@corp verified 
+ 4 
+ [AUDIT] 09:15:02 Role assignment update 
+ 5 
+ // Syncing to edge... 
+ 6 
+ [200] 09:15:08 Config updated 
+
+ Audit logging 
+ Complete compliance and security oversight tracking. 
+
+ Marketing 
+
+RESTRICTED
+
+ HR 
+
+ALLOWED
+
+ Screening 
+ Automation 
+
+ Organization management 
+ Spaces, roles, and approvals for your team. 
+
+ OpenAI 
+
+ Gmail 
+
+ Slack 
+
+ HubSpot 
+
+ Salesforce 
+
+ Notion 
+
+ Linear 
+
+ GitHub 
+
+ Teams 
+
+ Dropbox 
+
+ OpenAI 
+
+ Gmail 
+
+ Slack 
+
+ HubSpot 
+
+ Salesforce 
+
+ Notion 
+
+ Linear 
+
+ GitHub 
+
+ Teams 
+
+ Dropbox 
+
+ Pre-built & custom integrations 
+ 100+ pre-built integrations plus custom connectors for your internal systems. 
+
+ Alice 10:42 AM 
+
+We need a connector for our internal CRM. Is this possible?
+
+ James 10:43 AM 
+
+Sure! Can you share the API spec?
+
+ crm_api_spec.pdf 
+
+Got it. I'll have the connector ready by tomorrow.
+
+ James Next day 
+ Connector is live! 
+
+Thank you!
+
+ Dedicated Engineer Support 
+ Work side-by-side with our engineers to remove blockers and accelerate your workflow development. 
+
+ AWS Bedrock Claude 3.5 Sonnet 
+
+ Azure OpenAI GPT-4 Turbo 
+
+ Meta Llama 3 Self-hosted 70B 
+
+ Private model hosting 
+ Use Bedrock, Azure AI, or your own models securely. 
+
+ On-Prem 
+
+ Jinba 
+
+ Private 
+
+ On-premises or private cloud hosting 
+ Run Jinba in your own environment with full data control. 
+
+ Team Permissions 128 Active 
+
+ Sarah Chen Engineering Lead 
+
+ Workflows 
+
+ Michael Ross Product Manager 
+
+ Analytics 
+
+ Guest User External Auditor 
+
+ Admin Access 
+
+ SSO Enforced Updated 2m ago 
+
+ Advanced access control 
+ Role-based permissions and SSO integration. 
+
+ audit_stream.log 
+
+ 1 
+ [200] 09:14:22 GET /api/v1/health_check 
+ 2 
+ [INFO] 09:14:23 Worker node_04 connected 
+ 3 
+ [AUTH] 09:15:01 User admin@corp verified 
+ 4 
+ [AUDIT] 09:15:02 Role assignment update 
+ 5 
+ // Syncing to edge... 
+ 6 
+ [200] 09:15:08 Config updated 
+
+ Audit logging 
+ Complete compliance and security oversight tracking. 
+
+ Marketing 
+
+RESTRICTED
+
+ HR 
+
+ALLOWED
+
+ Screening 
+ Automation 
+
+ Organization management 
+ Spaces, roles, and approvals for your team. 
+
+ OpenAI 
+
+ Gmail 
+
+ Slack 
+
+ HubSpot 
+
+ Salesforce 
+
+ Notion 
+
+ Linear 
+
+ GitHub 
+
+ Teams 
+
+ Dropbox 
+
+ OpenAI 
+
+ Gmail 
+
+ Slack 
+
+ HubSpot 
+
+ Salesforce 
+
+ Notion 
+
+ Linear 
+
+ GitHub 
+
+ Teams 
+
+ Dropbox 
+
+ Pre-built & custom integrations 
+ 100+ pre-built integrations plus custom connectors for your internal systems. 
+
+ Alice 10:42 AM 
+
+We need a connector for our internal CRM. Is this possible?
+
+ James 10:43 AM 
+
+Sure! Can you share the API spec?
+
+ crm_api_spec.pdf 
+
+Got it. I'll have the connector ready by tomorrow.
+
+ Jam

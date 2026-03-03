@@ -1,0 +1,246 @@
+BrowserBook | The Browser Automation IDE 
+
+ Features Pricing Demo Blog 
+ Resources 
+
+ Download 
+
+ Backed by 
+The Browser Automation IDE 
+The definitive AI-enabled environment to develop and run deterministic browser automations 
+
+ Download Now 
+
+ Book a Demo 
+
+ Why BrowserBook ? 
+
+Web automation is hard. BrowserBook makes it easy. 
+Scripts are deterministic but brittle; agents are flexible but unreliable and prone to prompt injection attacks. 
+BrowserBook delivers speed, stability, and savings with an AI-powered IDE for building, maintaining, and deploying deterministic automations. 
+
+Deterministic by default. 
+Use AI to write code, not stumble through your workflow. Build fast, reliable, automations that run 10x cheaper than browser agents. 
+
+Build, test, and ship faster. 
+Context-aware AI enables you to automate in a fraction of the time. Move from idea to production workflow in minutes, not weeks. 
+
+Authentication made simple. 
+Use our secure authentication framework to safely store and manage credentials for authenticated workflows. 
+
+Seamless API integration. 
+Trigger workflows via API and leverage global proxies to bypass bot detection, ensuring automations remain reliable at scale. 
+
+Use Cases 
+Deliver automation across any industry. 
+
+ AI Agents 
+
+Give your agent reliable access to the web. 
+BrowserBook lets you design deterministic browser automations your AI agents can depend on, combining the creativity of AI with the precision of scripted execution for truly end-to-end workflows. Find out how → 
+ Healthcare 
+
+ Finance 
+
+ Web Scraping 
+
+ UI Testing 
+
+ AI Agents Healthcare Finance Web Scraping UI Testing 
+
+Give your agent reliable access to the web. 
+BrowserBook lets you design deterministic browser automations your AI agents can depend on, combining the creativity of AI with the precision of scripted execution for truly end-to-end workflows. 
+ Find out how → 
+
+Features 
+Everything you need to design, deploy, and scale deterministic browser automations. 
+
+Coding Agent 
+Built-in AI Agent with access to DOM context for rapid development. 
+
+Managed Auth 
+Secure credential storage with 2FA handling out-of-the-box. 
+
+Data Extraction 
+Built-ins for simplified data extraction & full-page screenshots. 
+
+API Deployment 
+Deploy as API endpoints to access programmatically or via agents. 
+
+Hosted Browsers 
+Reliable, scalable cloud-based browser sessions. 
+
+Proxy Control 
+Route browser traffic through custom proxies for geo-targeting and IP rotation. 
+
+Compliance-Ready 
+SOC 2 compliance & HIPAA BAA available for healthcare use cases. 
+
+Scheduled Runs 
+Set up recurring automation runs with flexible scheduling. 
+
+Coming Soon 
+
+Self-Healing 
+Automations that adapt to UI changes and fix themselves. 
+
+Coding Agent 
+Built-in AI Agent with access to DOM context for rapid development. 
+
+Managed Auth 
+Secure credential storage with 2FA handling out-of-the-box. 
+
+Data Extraction 
+Built-ins for simplified data extraction & full-page screenshots. 
+
+API Deployment 
+Deploy as API endpoints to access programmatically or via agents. 
+
+Hosted Browsers 
+Reliable, scalable cloud-based browser sessions. 
+
+Proxy Control 
+Route browser traffic through custom proxies for geo-targeting and IP rotation. 
+
+Compliance-Ready 
+SOC 2 compliance & HIPAA BAA available for healthcare use cases. 
+
+Scheduled Runs 
+Set up recurring automation runs with flexible scheduling. 
+
+Coming Soon 
+
+Self-Healing 
+Automations that adapt to UI changes and fix themselves. 
+
+Enterprise Privacy & Security 
+Enterprise-grade security and compliance standards you can rely on. 
+HIPAA compliant and SOC 2 Type II certified infrastructure. Find out more at our Trust Center . 
+
+HIPAA 
+Trusted protection for sensitive health data Compliant 
+
+SOC 2 Type II 
+Enterprise-grade security standards Compliant 
+
+Pricing 
+Choose the plan that fits your automation needs. Start free and scale as you grow. 
+
+Feature / Limits 
+
+Free 
+ $0 /month 
+
+ 7-day free trial 
+Developer 
+ $29 /month 
+
+ 7-day free trial 
+Team 
+ $99 /month 
+
+Enterprise 
+ Custom 
+ Contact us 
+
+Notebooks 
+
+Local notebook execution 
+
+ Included in Free 
+
+ Included in Developer 
+
+ Included in Team 
+
+ Included in Enterprise 
+
+Hosted notebook execution 
+
+ Not included in Free 
+
+ Included in Developer 
+
+ Included in Team 
+
+ Included in Enterprise 
+
+Managed auth 
+
+ Not included in Free 
+
+ Included in Developer 
+
+ Included in Team 
+
+ Included in Enterprise 
+
+Self-healing automations 
+coming soon 
+
+ Not included in Free 
+
+ Not included in Developer 
+
+ Included in Team 
+
+ Included in Enterprise 
+
+Notebook limits 
+
+3 
+
+10 
+
+30 
+
+Unlimited 
+
+Coding Agent 
+
+Coding agent 
+
+ Included in Free 
+
+ Included in Developer 
+
+ Included in Team 
+
+ Included in Enterprise 
+
+Agent budget 
+per month 
+
+$3 
+
+$10 
+
+$30 
+
+Custom 
+
+Browser Usage 
+
+Inline IDE browser 
+free, unlimited usage 
+
+ Included in Free 
+
+ Included in Developer 
+
+ Included in Team 
+
+ Included in Enterprise 
+
+Concurrent browsers 
+API-based execution 
+
+- 
+
+3 
+
+10 
+
+Custom 
+
+Brow

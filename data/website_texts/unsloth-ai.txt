@@ -1,0 +1,134 @@
+Unsloth AI - Open Source Fine-tuning & RL for LLMs 
+
+ unsloth 
+ Models Blog Community Documentation 
+
+ Easily fine-tune & train LLMs . 
+Get faster with unsloth . 
+
+ Join our Discord Start for free 
+
+Sign up to our newsletter We'll share important news & more! 
+
+ Submit Subscribe now 
+
+Unsloth is trusted by teams at 
+
+Latest News 
+
+ Qwen3.5 is here! Feb 24, 2026 
+
+ Faster MoE Training Feb 10, 2026 
+
+ Embedding Fine-tuning Jan 22, 2026 
+
+ 7x Longer Context GRPO Jan 15, 2026 View more news 
+
+Train your own custom model in 24 hrs , not 30 days. 
+
+ 30x faster than FA2 + 30% accuracy 
+
+ 90% less memory usage than FA2 
+
+ TTS, BERT, FFT & more support 
+
+ How are we faster? 
+ By manually deriving all compute heavy maths steps and handwriting GPU kernels, Unsloth magically makes training faster without any hardware changes. 
+ Find out more 
+
+ 1 GPU or 100 GPUs 
+ 10x faster on a single GPU and up to 30x faster on multiple GPU systems compared to Flash Attention 2 (FA2).
+We support NVIDIA GPUs from Tesla T4 to H100, and we’re portable to AMD and Intel GPUs. 
+ Contact us Find out more 
+
+ Don’t believe us? 
+ Why not try our fully free open source version? Finetune 2X faster on a single NVIDIA GPU for free on Google Colab or Kaggle Notebooks. 
+ Get access now 
+
+The details 
+We're making AI training easier for everyone 
+
+ Find out more 
+ Unsloth makes everything greener 
+ As hardware costs rise and performance gains plateau, we use our math and coding skills to make AI LLMs and training run smarter and faster. 
+
+ Want lightning fast inference? We’re working on it! Contact us 
+
+ Don't forget to join our newsletter! 
+
+ Submit By registering you agree to unsloth's Terms of Service and Privacy Policy , Subscribe now 
+
+ MultiGPU Docs 
+Even better multiGPU in the works! 
+
+ Don't forget to join our newsletter! Subscribe 
+
+Pricing 
+
+ Free 
+Freeware of our standard version of unsloth Get started 
+
+ Open-source 
+
+ Supports Mistral, Gemma 
+
+ Supports LLama 1, 2, 3 
+
+ MultiGPU - coming soon 
+
+ Supports 4 bit, 16 bit LoRA 
+
+ unsloth Pro 
+2.5x faster training + 20% less VRAM Contact us 
+
+ 2.5x number of GPUs faster than FA2 
+
+ 20% less memory than OSS 
+
+ Enhanced MultiGPU support 
+
+ Up to 8 GPUS support 
+
+ For any usecase 
+
+ unsloth Enterprise 
+Unlock 30x faster training + multi-node support + 30% accuracy Contact us 
+
+ 32x number of GPUs faster than FA2 
+
+ up to +30% accuracy 
+
+ 5x faster inference 
+
+ Supports full training 
+
+ All Pro plan features 
+
+ Multi-node support 
+
+ Customer support 
+
+ Ready to use unsloth? 
+ Get started for free 
+
+Company About 📰 Newsletter Privacy Policy Terms of Service 
+
+Product Introduction 🐋 Docker Download Documentation 🦥 Models 
+
+Community 
+
+ Twitter (X) 
+
+ Reddit 
+
+ Hugging Face 
+
+ Discord 
+
+ LinkedIn 
+
+ unsloth [email protected] 
+
+© 2026 unsloth. All rights reserved. 
+
+Join Our Discord

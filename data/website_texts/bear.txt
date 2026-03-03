@@ -1,0 +1,141 @@
+The Marketing Stack for AI Agents | Bear AI 
+
+ Home Blog Pricing 
+ Sign In Get Started 
+
+ Backed by 
+The marketing stack for AI agents 
+Built for marketing and growth teams to generate revenue from AI Agents 
+ Get Started Book a Demo 
+
+Trusted by 
+
+Analyze traffic from all major LLMs. 
+See how AI agents are discovering your brand and optimize visibility to boost traffic. 
+
+See How AI Talks About You 
+Get real visibility into when and how AI agents recommend your brand across ChatGPT, Claude, Google AI Overviews & more. 
+
+ Trending Prompts (23) 
+
+ What are the best business credit cards? High-volume 
+ Best credit card for small businesses High-volume 
+ Credit cards with the best rewards High-volume 
+
+See What Users Ask AI Agents About Your Brand 
+Find the most-searched prompts across AI platforms so you can align your content with what people are actually asking. 
+
+Turn AI traffic into revenue. 
+Bear offers the tools to convert traffic from AI Agents into customers. 
+
+Lead Generation 
+Turn AI Traffic Into Leads 
+Bear helps you identify users coming from ChatGPT and other AI sources allowing you to convert their high-intent visits. 
+
+ New leads (23) 
+
+Rick Deckard 
+CEO, Polarbear AI 
+
+Niander Wallace 
+CEO, Wallace Corporation 
+
+Alina Ward 
+Head of Marketing, Leno 
+
+Kevin Nguyen 
+CEO, Tyrell Corp 
+
+Content Optimization 
+Create Content that AI Agents Crawl 
+Generate structured, AI-ready content designed to be easily ingested, cited, and recommended by LLMs. 
+
+ Blog Agent 
+
+Found 49 URLs to analyze for brand voice 16m 33s 
+
+Scraping existing blogs (20%) 16m 33s 
+
+Fetching competitors (30%) 17m 7s 
+
+Querying knowledge base (35%) 17m 8s 
+
+Analyzing brand voice (40%) 17m 9s 
+
+Outreach Workflow 
+Automate PR 
+Find the third party and UGC sources cited by LLMs and get mentioned on them automatically. 
+
+ Forbes 
+
+forbes.com/business/thth7a… 
+254 citations Outreach 
+
+ Reddit 
+
+reddit.com/r/aeo/why-is… 
+312 citations Outreach 
+
+ LinkedIn 
+
+linkedin.com/pulse/how… 
+133 mentions Outreach 
+
+ YouTube 
+
+youtube.com/watch?v=Ja8Ld5… 
+121 mentions Outreach 
+
+How brands use Bear. 
+See how real companies are using Bear to appear on AI search. 
+
+Case Study | Nov 25, 2025 
+How Blee Used Bear to Generate Pipeline from AI Search 
+
+Simple pricing plans. 
+We've designed our pricing to maximize your ROI. 
+
+Basic 
+Perfect for small businesses. 
+$100/m 
+
+ Track GPT-5 
+ Track up to 30 prompts 
+ Generate 2 blogs/month with blog agent 
+ Access to email outreach workflow Get Started 
+
+Enterprise Most Popular 
+For organizations that need custom GTM solutions at scale. 
+Custom 
+
+ Track GPT-5, Google AI, Claude, Gemini and Perplexity 
+ Unlimited prompt tracking and blog agent content generation 
+ Access to lead generation and automated PR 
+ Access to seats 
+ Priority Slack support 
+ Custom integrations Book a Demo 
+
+Frequently asked questions. 
+Everything you need to know about Bear and GEO. 
+
+ What is Generative Engine Optimization (GEO)? + 
+
+GEO is the practice of optimizing your brand's visibility in AI-powered search engines and assistants like ChatGPT, Google AI Overviews, Claude, and Perplexity. Unlike traditional SEO which focuses on ranking in Google's blue links, GEO ensures AI agents accurately recommend and cite your brand when users ask relevant questions. 
+ How does Bear track AI mentions of my brand? + 
+
+Bear monitors responses from major AI platforms — including ChatGPT, Google AI Mode, Claude, Gemini, and Perplexity — for mentions of your brand across thousands of relevant prompts. You get a real-time dashboard showing when, where, and how AI agents talk about you. 
+ How is GEO different from traditional SEO? + 
+
+SEO optimizes for search engine result pages (SERPs) and link-based ranking. GEO optimizes for AI-generated answers where there are no links to click — the AI either recommends you or it doesn't. Bear helps you influence what AI agents say about your brand by optimizing your content, building citations on third-party sources, and tracking your visibility across AI platforms. 
+ Which AI platforms does Bear monitor? + 
+
+Bear tracks GPT-5, Google AI Mode, Google AI Overviews, Claude, Gemini, and Perplexity. We're constantly adding new platforms as the AI search landscape evolves. 
+ How long does it take to see results? + 
+
+Most customers see measurable improvements in AI visibility within 4–6 weeks. Bear's blog agent and PR outreach tools start building AI-optimized content and third-party citations immediately, and our analytics dashboard lets you track progress from day one. 
+ What does the blog agent do? + 
+
+Bear's blog agent generates structured, AI-ready content designed to be easily ingested and cited by LLMs. It creates blog posts optimized for the prompts your target audience is asking AI agents, helping your brand surface in AI-generated recommendations. 
+ Can I track how competitors show up in AI search? + 
+
+Yes. Bear lets you monitor competitor mentions across AI platforms so you can see how often they're recommen

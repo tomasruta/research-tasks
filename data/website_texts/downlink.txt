@@ -1,0 +1,132 @@
+downlink. | The turbo button for AI 
+
+ login 
+
+ Downlink is a platform that continuously improves your AI.
+
+Boost rate limits, slash latency, and raise accuracy.
+
+All through one simple API.
+
+ REQUEST ACCESS 
+ ↗ 
+
+Boost performance by 20% or more 
+
+ Expand rate limits, lower response times, and reduce costs without sacrificing accuracy.
+
+Made for busy AI engineers 
+
+ Downlink helps manage latency so you can spend more time shipping.
+
+Keep your architecture simple 
+
+ Build AI apps with less complexity. Reduce technical debt and maintenance burden with a simple API.
+
+Fine-tune without
+the fuss 
+
+ Downlink selects the best models and fine-tunes them to your use case.
+
+Get started in minutes 
+
+Works with any language, use your existing client. 
+
+Python 
+
+TypeScript 
+
+Go 
+
+Curl 
+
+ import openai
+
+openai.base_url = "https://app.downlink.dev/api/v1" 
+openai.api_key = "__YOUR_DOWNLINK_API_KEY__" 
+
+response = openai.chat.completions.create(
+ model= "gpt-4o" ,
+ messages=[
+ { "role" : "user" , "content" : "Say 'Hello World'" }
+ ]
+)
+
+ print (response.choices[ 0 ].message.content) # => "Hello World" 
+
+ import OpenAI from 'openai' 
+
+const client = new OpenAI({
+ baseURL: "https://app.downlink.dev/api/v1" ,
+ apiKey: "__YOUR_DOWNLINK_API_KEY__" 
+})
+
+const response = await client.chat.completions.create({
+ model: "gpt-4o" ,
+ messages: [
+ { "role" : "user" , "content" : "Say 'Hello World'" }
+ ]
+})
+
+ console.log (response.choices[ 0 ].message.content) // => "Hello World" 
+
+ package main
+
+ import (
+ "context" 
+ "fmt" 
+ openai "github.com/sashabaranov/go-openai" 
+)
+
+func main() {
+ client := openai.NewClient( "__YOUR_DOWNLINK_API_KEY__" )
+ client.BaseURL = "https://app.downlink.dev/api/v1" 
+
+ resp, err := client.CreateChatCompletion(
+ context.Background(),
+ openai.ChatCompletionRequest{
+ Model: "gpt-4o" ,
+ Messages: []openai.ChatCompletionMessage{
+ {
+ Role: "user" ,
+ Content: "Say 'Hello World'" ,
+ },
+ },
+ },
+ )
+
+ fmt.Println (resp.Choices[ 0 ].Message.Content) // => "Hello World" 
+}
+
+curl -n -X POST https://app.downlink.dev/api/v1/chat/completions \
+ -H "Authorization: Bearer __YOUR_DOWNLINK_API_KEY__" \
+ -H "Content-Type: application/json" \
+ -d '{
+ "model": "gpt-4o",
+ "messages": [
+ {
+ "role": "user",
+ "content": "Say '\''Hello World'\''"
+ }
+ ]
+ }'
+
+downlink. 
+
+/src/dev 
+ Playground 
+ API Docs 
+
+/var/info 
+ Team 
+ Pricing 
+
+/etc/connect 
+
+ LinkedIn 
+
+ Twitter 
+
+ >>>> hello@downlink.dev 
+
+ deus ex machina >>>>

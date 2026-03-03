@@ -1,0 +1,184 @@
+Luminal - Inference at the Speed of Light 
+
+ LUMINAL 
+ Blog Contact Get Started 
+
+Inference at the
+ speed of light . 
+Luminal compiles AI models to give you the fastest, highest throughput inference in the world. 
+ Get Started GitHub 
+
+ The Compiler 
+
+Compiled inference, not interpreted 
+Unlike runtime inference engines that interpret models dynamically, Luminal compiles your model ahead of time into optimized native code for GPUs and ASICs, eliminating every layer of overhead. 
+
+ Compilation Pipeline 
+
+MODEL 
+PyTorch / HF 
+
+GRAPH IR 
+Dataflow graph 
+
+OPTIMIZE 
+Fuse & schedule 
+
+CODEGEN 
+Emit kernels 
+
+GPU / ASIC 
+Execute 
+
+MODEL 
+PyTorch / HF 
+
+GRAPH IR 
+Dataflow graph 
+
+OPTIMIZE 
+Fuse & schedule 
+
+GPU / ASIC 
+Execute 
+
+Graph-Level IR 01 
+Models are lowered to a minimal graph intermediate representation, a pure dataflow graph with no framework overhead. 
+
+Hardware-Aware Optimization 02 
+The compiler applies fusion, tiling, memory planning, and scheduling passes tuned for each target, GPUs and ASICs. 
+
+Zero-Overhead Codegen 03 
+Final code is emitted directly to GPU kernels or ASIC instructions with no excess runtime overhead. 
+
+ The Inference OS 
+
+Hyperscale Inference OS 
+Luminal dynamically schedules and load-balances inference workloads at any scale, from single accelerators up to large clusters of heterogeneous compute nodes, minimizing latency and maximizing throughput by optimizing inference topologies on-the-fly. 
+
+ Compute Cluster 
+
+ gpu 
+ asic 
+ cpu 
+
+ GPU-0 
+GPU 
+FLUX-[dev] 
+
+94 % UTIL 
+
+ ASIC-0 
+ASIC 
+FLUX-[dev] 
+
+72 % UTIL 
+
+ GPU-1 
+GPU 
+Subagents 16-31 
+
+87 % UTIL 
+
+ CPU-0 
+CPU 
+Preprocessing 
+
+45 % UTIL 
+
+ GPU-2 
+GPU 
+Primary Agent LLM 
+
+91 % UTIL 
+
+ ASIC-1 
+ASIC 
+Subagents 0-15 
+
+68 % UTIL 
+
+ GPU-3 
+GPU 
+Primary Agent LLM 
+
+83 % UTIL 
+
+ GPU-0 
+GPU 
+FLUX-[dev] 
+
+94 % UTIL 
+
+ CPU-0 
+CPU 
+Preprocessing 
+
+45 % UTIL 
+
+ ASIC-0 
+ASIC 
+FLUX-[dev] 
+
+72 % UTIL 
+
+Heterogeneous Compute 01 
+Inference across CPUs, GPUs, and ASICs deliver maximum throughput and superior TCO. 
+
+Dynamic Load Balancing 02 
+Continuously monitors utilization across every node and redistributes work in real time to eliminate bottlenecks and hotspots. 
+
+Lightning Quick Scaling 03 
+Nodes are dynamically booted and shutdown as workloads fluctuate, meeting peak loads without excess idle capacity. 
+
+ Performance 
+
+Unmatched throughput 
+Our compiler-first approach eliminates runtime overhead entirely. Models compiled by Luminal consistently outperform existing inference engines by 2-3x on standard benchmarks. 
+
+3.2x 
+vs vLLM 
+
+<10ms 
+p99 latency 
+
+0% 
+overhead 
+
+ Tokens/sec, GPT-OSS 120B, 8xH100 SXM 
+
+ Luminal 36 k tok/s 
+
+ TensorRT-LLM 28 k tok/s 
+
+ vLLM 26 k tok/s 
+
+ PyTorch 3 k tok/s 
+
+ Deployment 
+
+Choose your deployment 
+
+ Luminal Cloud 
+Managed serverless inference. Deploy in minutes, scale automatically, and only pay for what you use. 
+ Serverless inference endpoints 
+ Scale to zero capabilities 
+ Automatic batching 
+ Optimized compilation 
+ Pay only for what you use Get Started 
+
+ On-Prem Deployment 
+Run Luminal on your own infrastructure with dedicated support and enterprise-grade security. 
+ Licensed cloud or on-prem deployment 
+ Dedicated engineering support 
+ Custom kernel optimization 
+ Strict SLAs tailored to you Talk to an Engineer 
+
+ Get Started 
+
+Ready to accelerate your inference? 
+Get early access to the fastest AI inference platform in the world. Get Started 
+
+ LUMINAL 
+
+ All Systems Online Contact Us © 2026 Luminal AI Inc.

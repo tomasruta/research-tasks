@@ -1,0 +1,92 @@
+Keet - Automated enterprise onboarding 
+
+ Login Get a demo 
+
+Backed by YCombinator 
+Onboard new customers in minutes. 
+When new customers onboard to your service, use Keet to automate your manual data extraction, validation and upsert process. 
+ Schedule a call Watch a demo 
+
+What we do 
+Automate your entire implementation process 
+Your implementation managers shouldn ’ t be doing manual data extraction and validation. 
+
+Extract 
+Keet extracts all of the necessary data from any platform your customers onboard from. 
+
+Validate 
+Validate the extracted data for accuracy in our dashboard. 
+
+Upload 
+Directly upload the validated data to your platform. 
+
+Don ' t keep new customers waiting 
+Create a fully automated implementation process to get new customers onboarded faster. 
+
+How it works 
+Built to eliminate manual work 
+Keet does all the heavy lifting of data extraction, validation and showing extracted data in a familiar format. 
+
+1 
+
+Your customer logs in to migrate their data. 
+Your customer can either receive a link via email to migrate their data or you can embed button in your onboarding flow. 
+
+2 
+
+Keet extracts your customers data. 
+Keet extracts all of the data from your customers previous platform and parses it in the format you are familiar with. 
+
+3 
+
+Your implementation team reviews the validated migration data. 
+Your implementation team reviews the validated migration data and makes any final edits. 
+
+4 
+
+Upsert the extracted data to your platform. 
+Your implementation team upserts the extracted data to your platform directly from our dashboard. 
+
+Features 
+Make quick onboarding your company's competitive advantage 
+
+Data Security 
+Your customers authenticate via a secure login portal and no data is stored on our servers. 
+
+Map To Your Schema 
+We map the data from your customer's provider to a single schema that you're team uses and is familiar with. 
+
+Quick Implementation 
+You can either choose to embed our React component into your onboarding flow or send your new customers a email with a link to migrate their data. 
+
+Connect Universally 
+We support all major providers and can build custom integrations for any platform you need to migrate from. 
+
+Data Privacy 
+We never store any end-user data and we never have access to you're customer's auth credentials. 
+
+Dedicated Support 
+We offer dedicated 24/7 support to work with you and your implementation team. 
+
+Frequently Asked Questions 
+We ' ve got answers. 
+
+ What products do you support migrations off of? 
+
+ In what formats can I receive my customer's data? 
+
+ Are any usernames and passwords from my customers stored by Keet? 
+
+ Can I self-host Keet's migration platform? 
+
+Ready to automate your implementation process? 
+ Talk to a founder 
+
+Legal Terms & Conditions Privacy Policy 
+
+Support Email Phone 
+
+Social Github Twitter LinkedIn 
+
+© 2025 Keet, Inc. 
+Built in the city

@@ -1,0 +1,59 @@
+Playgent - RL Environments for Finance 
+
+ New Improving Agents on Hard Investment Banking Tasks → 
+
+ About FAQ Research 
+
+ Backed by 
+RL Environments for Finance . 
+Post-training for 
+ Chat with us Learn more 
+
+What is an RL environment? 
+
+A reinforcement learning environment is a simulated world where agents learn through interaction .
+
+Agents take actions, observe the resulting state, and receive rewards that guide their learning. In finance, this means realistic market conditions, document processing workflows, and decision-making scenarios that mirror real-world trading, compliance, and operations.
+
+ The quality of your environment determines the quality of your agent. 
+
+We build tasks , verifiers , and environments that teach agents how to think. 
+
+Through our network of expert contributors, we curate challenging financial tasks, design verification rubrics, and create realistic environments for post-training. Every task is benchmarked, every environment is production-ready.
+
+ See our research → 
+
+Purpose-built for Finance and Banking 
+Real tasks that drive real results. 
+
+Environment: Kering Takeover 
+LBO Returns Analysis 
+
+Assuming the Company is acquired as of 31 December 2025 for a price of EUR 45.0bn (the price includes the existing debt being refinanced) by a private investor committing 50.0% of the price in equity while the remaining amount is funded via non-amortizing senior secured bank debt bearing an annual cost of 7.5% with a 5-year maturity, calculate the cash proceeds and IRR for the private investor using an exit multiple of 12.0x the EBITDA 2030 (EUR 6.0bn). Assume the exit takes place on 1st January 2031.
+
+Environment: Take-Private of Midtown Office REIT, Inc. 
+Normalize Earnings/Adjusted EBITDA 
+
+Normalize 2024 earnings by identifying any non-recurring operating items embedded in the financials and producing Adjusted EBITDA for 2024 with a clear reconciliation from reported to adjusted.
+
+Environment: Regional Bank M&A Deal 
+Synergies & Integration Analysis 
+
+Analyze potential cost and revenue synergies from the proposed merger, quantifying integration costs, branch consolidation savings, and cross-sell opportunities. Produce a detailed synergies breakdown with implementation timeline and risk factors.
+
+ See all our data 
+
+Frequently Asked Questions 
+Learn how our expert network powers RL environments. 
+
+ How do you build RL environments? 
+
+We work with a network of finance experts who curate challenging tasks, design verification rubrics, and create realistic environments for agents to operate in. This expert-driven approach ensures our environments reflect real-world complexity and domain-specific nuance. 
+ What do you provide? 
+
+We benchmark agent performance across our expert-curated tasks and sell this data as production-ready RL environments for post-training. Our environments include tasks, verifiers, and the infrastructure needed to train agents that excel at financial decision-making. 
+ How do I get started? 
+
+Contact us to discuss your use case and access our RL environments. We'll help you integrate our data into your training pipeline and start improving your agents' performance on financial tasks. 
+
+© 2025 Playgent. All rights reserved.

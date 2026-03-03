@@ -1,0 +1,99 @@
+truthsystems 
+
+AUG 04 2025 03:23:41 
+
+ The Challenge The Solution Our Founders Careers Book a demo 
+
+AUG 04 2025 03:23:41 
+
+ The Challenge The Solution Our Founders Careers Book a demo 
+
+ The Challenge The Solution Our Founders Our Founders Book a demo 
+
+A programmatic governance and unified compliance agent. 
+MONITOR AND FLAG NON-COMPLIANT AI USAGE IN REAL TIME, ACROSS ALL YOUR VENDORS, DIRECTLY IN YOUR BROWSER. 
+
+Trusted by established companies and elite academic institutions 
+
+ Compliance & Governance once meant slowing things down until every detail was perfect. 
+
+It meant slogging through hours of generic training that rarely changed behavior at the moment it mattered. 
+
+Policies sat in static documents, aging fast and forgotten faster. Rules existed, but enforcement at the interaction level was nowhere to be found. 
+
+The result: a system built to control risk that instead stalled innovation and left gaps wide open. 
+
+Generative AI demands Governance that is Live, Adaptive, and Built into every Interaction, protecting speed and integrity at the same time. 
+
+ Book a demo 
+
+The solution 
+
+AI Governance for the Modern Innovation Team. 
+
+Traditional GRC tools only focus on compliance. We focus on progress. Our browser extension and platform empowers innovation leaders to turn AI risk management into transparency, trust, and growth 
+ Book a demo 
+
+Real Time Risk Intervention 
+
+Our agent transforms your firm and client policies into intelligent guardrails to block non-compliant prompts and potential data leakages before they are processed across all platforms, intercepting violations & mitigating risks at the source. 
+
+Intelligent Access Provisioning 
+
+Dynamic software assignment based on client matters that ensures attorneys only access relevant tools. 
+
+Immutable Audit Trails 
+
+Capturing granular audit trails for software interactions transforms potential blind spots and risks into a competitive advantage by enabling proactive security, data-driven product enhancements, and targeted user education. 
+
+You don't have to choose between speed and safety. Our governance builds both into every AI interaction – so you can move fast and stay in control. 
+
+Trust 
+
+Our industry-leading security 
+ TRUST CENTER 
+
+Robust Security Program 
+
+SOC-2 
+
+ISO-27001 
+
+Deployment Approach That Ensures Maximum Security 
+
+On-Premise & Single-Tenancy Deployment 
+
+Custom Data Retention Policies 
+
+Single-Tenant Architecture 
+
+Geolocation Control 
+
+Integration with Existing Systems 
+
+Enterprise Grade Security Features 
+
+SAML Single Sign-On (SSO) 
+
+IP address allow-listing for controlled access 
+
+Granular role-based access controls 
+
+Data lifecycle management to meet retention requirements 
+
+Meet our founders 
+
+Trust and safety aren’t just requirements in the legal field, they form the bedrock of a lawyer’s code of ethics. We built Truth Systems to be the infrastructure that lets lawyers uphold those principles across every AI tool they use. 
+
+Alex Mac | CEO 
+
+What excites me is that we can design future guidelines for AI use that are both iterative and programmatic, with AI serving as both the subject and the infrastructure of governance. This is a vision where adoption happens not in spite of, but because of safety. 
+
+Nam Nguyen | COO 
+
+My experience building one of the largest legal AI tools at Legora taught me that adoption often falters not because of the software, but because of the missing infrastructure to keep it safe. We are here to make compliance effortless and let innovation truly take its reign. 
+
+Mikolaj Bochenski | Founding Engineer 
+
+Socials 
+ LinkedIn

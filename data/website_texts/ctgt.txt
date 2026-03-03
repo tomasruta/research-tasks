@@ -1,0 +1,120 @@
+CTGT 
+
+Industries
+
+Finance 
+AI governance that doesn't guess. It guarantees. 
+
+Insurance
+
+Deploy AI with zero margin for error in insurance. 
+
+Media
+
+Maintain editorial tone in all generated content, at scale. 
+
+CPG
+
+Brand voice precision across your entire product portfolio. 
+About Us 
+Research 
+Deploy the Platform 
+
+The deterministic layer for frontier intelligence 
+Generative AI is probabilistic. Your business is not. We are the frontier lab opening the black box. CTGT replaces fragile guardrails with representation-level control that delivers the mathematical certainty and defensible audit trails required by the Fortune 500. 
+View the Research 
+
+Jan 16, 2026 
+
+CES Top 12 Companies Redefining Personalization With Web3, AI, Robots 
+
+Aug 26, 2025 
+
+These AI-Skilled 20-Somethings Are Making Hundreds of Thousands a Year 
+
+Aug 25, 2025 
+
+In A World Obscured By Cloudy Models, Explainable AI Shines Bright 
+
+Feb 20, 2025 
+
+This 23-year-old AI startup founder raised $7 million from investors like Google's Gradient and General Catalyst 
+
+Mission 
+ CTGT's technology is built upon a deeper understanding of how AI models internally represent and process information. 
+
+Policy as code 
+
+CTGT converts your SOPs and regulations into live, machine-readable rules the AI follows automatically. Updates flow in instantly, delivering consistent, audit-ready outputs far beyond default cloud guardrails. 
+
+Defensible audit trails 
+
+Built for high-risk industries, CTGT validates every output against your policies with transparent, deterministic logic. Every decision is logged with a defensible audit trail mapped to your org’s exact structure. 
+
+End model micromanagement 
+
+Stop burning time on fine-tuning, RAG, and prompt hacks. CTGT governs model behavior out-of-the-box, giving you consistent, high-quality outputs without the 20–40% engineering overhead. 
+
+Human in the loop, to automated remediation 
+
+Choose exactly how much control you want. From human review on every flagged output to fully automated, logic-level remediation, CTGT adapts to your workflow—ensuring errors are fixed, not just found. 
+
+Industry Perspectives 
+
+Validated by the Architects of Modern AI 
+From the creator of Keras to the leadership of the Fortune 500, the industry’s most demanding technical voices are aligning to CTGT's vision. 
+
+CTGT at JP Morgan's IMF summit: Why Wall Street is moving AI to the P&L 
+We joined JP Morgan executives, including CEO Jamie Dimon, U.S. Secretary of the Treasury Scott Bessent, and leading policy experts at the IMF/World Bank meetings to address Wall Street's fundamental shift: AI is no longer an innovation experiment, it's a line item on the P&L, right beside interest expense. 
+
+ CTGT is productizing mechanistic interpretability. They make it possible to edit the behavior of LLMs to add safety policy guarantees without retraining, in a way that is much more reliable than simple prompting. 
+
+François Chollet 
+Creator of Keras, ARC-AGI 
+
+“Governance cannot remain a separate process; it has to become part of the solution itself. CTGT illustrates this direction, leveraging the reasoning of LLMs while constraining behavior through policy-driven execution. This allows teams to move faster while satisfying regulators.” 
+
+Naheed Kunnummal 
+Chief Engineer & Managing Director, PwC 
+
+ “The #1 problem preventing businesses from adopting AI is low user trust. CTGT is developing a novel approach that solves the unreliability and inherent limitations of modern AI to ensure it is trustworthy for business needs.” 
+
+Mike Knoop 
+Co-founder, Zapier, Creator, ARC-AGI 
+
+“An absolute game changer for making LLMs more deterministic.” 
+
+John Milinovich 
+Head of AI, Canva 
+
+“Interesting technique for dynamically modulating censorship and bias in models.” 
+
+James Reggio 
+CTO, Brex 
+
+ We had a great time learning about CTGT. A very talented group to learn from [regarding the future of AI governance]." 
+
+Joshua W. Johnson 
+Deputy General Counsel, U.S. Cyber Command 
+
+ CTGT is productizing mechanistic interpretability. They make it possible to edit the behavior of LLMs to add safety policy guarantees without retraining, in a way that is much more reliable than simple prompting. 
+
+François Chollet 
+Creator of Keras, ARC-AGI 
+
+“Governance cannot remain a separate process; it has to become part of the solution itself. CTGT illustrates this direction, leveraging the reasoning of LLMs while constraining behavior through policy-driven execution. This allows teams to move faster while satisfying regulators.” 
+
+Naheed Kunnummal 
+Chief Engineer & Managing Director, PwC 
+
+ “The #1 problem preventing businesses from adopting AI is low user trust. CTGT is developing a novel approach that solves the unreliability and inherent limitations of modern AI to ensure it is trustworthy for business needs.” 
+
+Mike Knoop 
+Co-founder, Zapier, Creator, ARC-AGI 
+
+“An absolute game changer for making LLMs more deterministic.” 
+
+John Milinovich 
+Head of AI, Canva 
+
+“Interesting techn

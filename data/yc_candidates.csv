@@ -1,0 +1,901 @@
+name,slug,one_liner,long_description,website,batch,industry,subindustry,tags,team_size,status,stage,relevance_score,matched_keywords
+Alter,alter,Secure access control and authorization platform for agent workflows,"Alter is a zero-trust identity and access control platform purpose-built for AI agents. It wraps every tool call in strong authentication, fine-grained authorization, and real-time guardrails, so agents can move fast without breaking things.
+
+Each request is verified at the parameter level, authorized against granular policies, executed with least-privilege access, and fully audited in real time. Unsafe actions, whether it’s a rogue DROP TABLE or a payment above policy limits, are blocked before they touch production. Behind the scenes, Alter manages credentials, issuing ephemeral, scope-narrowed access for every interaction, then rotating or expiring it in seconds. The result: no long-lived secrets, no blind spots, and no surprises in audit.
+
+With Alter, teams can move fast on AI agent initiatives while staying fully compliant with SOC 2, HIPAA, GDPR, and internal security standards. A CISO-ready dashboard delivers real-time visibility, detailed audit logs, and compliance-ready controls, removing silos, eliminating excessive permissions, and providing complete oversight of every agent workflow.",https://alterai.dev,Summer 2025,B2B,B2B -> Security,AIOps; Artificial Intelligence; Developer Tools; DevSecOps; Security,2,Active,Early,62,T1:for ai agents; T1:agent workflow; T1:identity.*agent; T1:agent.*identity; T2:\bguardrail; T4:\bplatform\b; T4:\bdeveloper tool; T4:\bpayment; T4:\bidentity\b; T4:\bauth
+Orthogonal,orthogonal,Agentic Payments for APIs,"APIs weren’t built for agents. Orthogonal fixes that. Developers and agents get instant access to hundreds of APIs through our MCP or SDK. No API key management, no billing headaches, pay as you go. API providers list once and become instantly discoverable.",https://orthogonal.com,Winter 2026,B2B,B2B -> Infrastructure,Artificial Intelligence; Crypto / Web3; Payments; API,2,Active,Early,57,T1:for agents; T1:agentic payment; T1:payments.*agent; T1:agent.*payment; T2:\bagentic\b; T2:\bmcp\b; T4:\binfrastructure\b; T4:\bapi\b; T4:\bsdk\b; T4:\bpayment
+Protegee,protegee,Payments API for AI Agents,"We’re excited to launch our first product that allows your AI voice agents to accept payments easily and securely over the phone. We manage compliance, security, and fraud, letting you focus on creating great experiences.  
+
+
+We are setting the stage for the agentic economy, starting with voice payments. Web and agent-to-agent transactions coming soon.",http://protegee.ai,F24,Fintech,Fintech -> Payments,Artificial Intelligence; Fintech; Payments; Infrastructure,2,Active,Early,52,T1:for ai agents; T1:agent-to-agent; T1:payments.*agent; T1:agent.*payment; T2:\bagentic\b; T4:\binfrastructure\b; T4:\bapi\b; T4:\bpayment; T4:\bcompliance\b
+Castari,castari,Vercel for AI Agents – One click deploy for the Claude Agent SDK,"Castari lets developers deploy AI agents in secure, autoscaling sandboxes with one command. We handle tool/MCP connectors, snapshots, and observability so teams go from prototype to production in hours instead of weeks.
+
+Developers focus on building agents, Castari provides the autoscaling sandbox infrastructure to ensure your agents and its tools are secure.",https://castari.com,Fall 2025,B2B,B2B -> Infrastructure,,3,Active,Early,44,T1:for ai agents; T1:vercel for ai agent; T1:agent sdk; T2:\bmcp\b; T4:\binfrastructure\b; T4:\bsdk\b; T4:\bdeploy; T4:\bobservab; T4:\bsandbox\b
+Dedalus Labs,dedalus-labs,Connect any LLM to any MCP tools and create complex agents in minutes.,"Dedalus Labs is building Vercel for AI Agents. We host MCP servers on our cloud and handle the boring stuff like autoscaling and load balancing so users can go from idea to production in a single click. Our OpenAI-compatible SDK lets users orchestrate complex agentic workflows through one clean API. Route between any LLM provider, connect any MCP tools from our hosted marketplace, and ship in minutes.",https://www.dedaluslabs.ai/,Summer 2025,B2B,B2B,Developer Tools; Workflow Automation; DevOps; AI,9,Active,Early,43,T1:for ai agents; T1:vercel for ai agent; T2:\bagentic\b; T2:\bmcp\b; T2:\borchestrat.*ai\b; T2:\bai.*orchestrat; T4:\bdeveloper tool; T4:\bapi\b; T4:\bsdk\b; T4:\bworkflow\b
+Multifactor,multifactor,"Zero-trust authentication, authorization, and auditing for AI agents","The agentic era is here, but its foundation is dangerously insecure. A growing number of high-profile ""AI agent gone rogue"" security incidents make headlines each week.
+
+As enterprise adoption of agentic software has far outpaced the development of applicable cybersecurity solutions, CISOs have loudly voiced a growing need for verifiable, fine-grained security controls on complex multi-agent systems. That's why we built Multifactor.
+
+Multifactor offers best-in-class authentication, authorization, and auditing technologies for agentic systems, allowing users to securely and revocably share online accounts with agents while maintaining fine-grained permissions and a detailed event history. We are doing for AI security what Cloudflare did for web security, Okta did for identity security, and Wiz did for cloud security: defining the category.
+
+A world-class ""account manager"" that allows agents to securely use online accounts on your behalf is just the start—our early enterprise partners include companies using AI agents to manage $7.5+ billion manufacturing supply chains, where the consequences for lapses in security are severe. Our patented AI security technology seamlessly integrates with existing agentic software to thwart attacks like prompt injection, so CISOs and end users alike can breathe a sigh of relief, without slowing the pace of AI adoption.",https://multifactor.com,Fall 2025,B2B,B2B -> Security,Artificial Intelligence; Security; Cryptography; Cybersecurity; AI,2,Active,Early,40,T1:for ai agents; T1:multi-agent; T1:agent.*identity; T2:\bagentic\b; T4:\bidentity\b; T4:\bauth; T4:\btrust\b
+Blaxel,blaxel,AWS for AI Agents,"Blaxel is a cloud infrastructure to power AI agents. Our platform gives AI companies the toolbox and infrastructure to build and deploy agents efficiently. 
+
+Billions of agents, tools, and models will transform how we work in the coming years. Traditional cloud providers weren't designed to handle them—their one-size-fits-all architecture holds them back. We fixed that with Blaxel.
+
+What is it? A complete computing platform with:
+
+- all services for developers to fast-track deploying agents without reinventing the wheel — like framework-agnostic serverless deployments, an AI gateway for model routing and fallback, and custom MCP server hosting.
+- a flexible low-level API for builders to ship really performant agentic AI using our backbone infrastructure — using services like sandboxed VMs usable by agents, a programmable global gateway, and a 20ms-latency serverless compute engine.
+- and a seamless developper experience that integrates with their CI/CD, and APIs that can even be consumed by agents themselves!",https://blaxel.ai,X25,B2B,B2B,AIOps; Infrastructure,6,Active,Early,40,T1:for ai agents; T1:aws for ai agent; T2:\bagentic\b; T2:\bmcp\b; T2:\bai gateway\b; T4:\binfrastructure\b; T4:\bplatform\b; T4:\bapi\b; T4:\bframework\b; T4:\bdeploy
+Locus,locus,Payment infrastructure for AI agents,"We make your agents pay.
+
+As agents evolve from tools into dependable, autonomous actors, they’ll need the ability to execute open-ended workflows end-to-end.
+
+This inevitably means payments: accessing paywalled data, transacting for services or with other specialist agents. But autonomy requires guardrails. Businesses and developers will need a way to ensure their agents only spend how much and on what they’re supposed to.
+
+The machine economy is coming, and Locus (YC F25) is building the connector businesses will need to participate. We connect agents securely to funds, letting you define permissions and limits for every transaction. Each payment is traceable, auditable, and fully reconcilable with your existing financial stack.",https://paywithlocus.com,Fall 2025,B2B,"B2B -> Engineering, Product and Design",Finance; AI,2,Active,Early,38,T1:for ai agents; T1:payments.*agent; T1:agent.*payment; T2:\bguardrail; T4:\binfrastructure\b; T4:\bpayment
+Zavo,zavo,AI Point of Sale for Restaurants ,"Zavo is the first AI-point of sale platform for restaurants.
+
+We unify payments, point of sale, and AI agents into one seamless platform, allowing business to accept payments, manage operations and automate manual processes with Ai. 
+
+From reservations, to payments to point of sale, we have built the full restaurant tech stack in-house with AI automation across all products.
+
+We started Zavo in May 2025, currently over 400 businesses of different sizes use Zavo to accept payments and manage operations
+
+",https://zavopay.com,Fall 2025,Fintech,Fintech -> Payments,Artificial Intelligence; Fintech; Payments; B2B; Restaurant Tech,8,Active,Early,27,T1:payments.*agent; T1:agent.*payment; T4:\bplatform\b; T4:\bpayment; T4:\bautomation\b
+Truffle AI,truffle-ai,AWS for AI Agents,Truffle AI makes it easy for developers to integrate AI agents into any software application. We do this by exposing agents as simple APIs that can be called from anywhere. Developers have used Truffle to add customer support agents into WhatsApp and analytics agents into Slack.,https://www.trytruffle.ai/,W25,B2B,"B2B -> Engineering, Product and Design",Developer Tools; Generative AI; Infrastructure; AI; AI Assistant,2,Active,Early,25,T1:for ai agents; T1:aws for ai agent; T4:\binfrastructure\b; T4:\bdeveloper tool
+Compresr,compresr,LLM-native context compression ,Compresr provides an API that compresses LLM context without losing what matters. It’s a drop-in for agents and RAG that cuts token costs and improves accuracy.,https://compresr.ai,Winter 2026,B2B,B2B -> Infrastructure,Artificial Intelligence; Developer Tools; B2B; Enterprise Software,4,Active,Early,24,T1:for agents; T2:\brag\b; T4:\binfrastructure\b; T4:\bdeveloper tool; T4:\bapi\b; T4:\btoken\b; T4:\bcontext\b
+Playgent,playgent,Sandboxes for AI agents,"When enterprise agents fail in production, the conditions that caused the failure are critical: user state, data, tool calls, and context. Without a way to recreate these conditions, teams can't fix what broke.
+
+Playgent provides infrastructure to create high-fidelity sandbox environments for AI agents. Our environments come packaged as a single MCP url where tool calls are mocked, authentication is abstracted away, and test data can be initialized via natural language or JSON specifications.
+
+Teams can use Playgent to reproduce production failures in safe, scoped environments that accurately reconstruct state. Finally, export runs as OTel traces from Playgent's environment to plug directly into your observability tools or RL pipelines.",https://useplaygent.com,Summer 2025,Healthcare,Healthcare -> Healthcare IT,SaaS; Infrastructure; AI,2,Active,Early,24,T1:for ai agents; T2:\bmcp\b; T4:\binfrastructure\b; T4:\bauth; T4:\bobservab; T4:\bsandbox\b; T4:\bcontext\b
+Kernel,kernel,"Crazy fast, open source infra for AI agents to use the Internet","Kernel is crazy fast, open source infra for AI agents to access the internet 🧠🕸️
+- Built on unikernels for crazy fast cold starts and low resource usage
+- Sub-150ms cold starts on managed headful browsers
+- Built-in stealth mode with residential proxies and automatic CAPTCHA solving
+- Full observability: session recording, live view, and full logs
+- Persistent sessions that maintain cookies and auth across invocations
+- Native support for all browser and computer use frameworks
+- SOC 2 compliant and HIPAA-ready
+
+Trusted by Cash App, Rye, and 1000+ others. Backed by Accel & Y Combinator (S25).",https://www.kernel.sh,Summer 2025,B2B,B2B -> Infrastructure,Developer Tools; Cloud Computing; Infrastructure; AI,6,Active,Growth,24,T1:for ai agents; T2:\bcomputer use\b; T4:\binfrastructure\b; T4:\bdeveloper tool; T4:\bauth; T4:\bobservab; T4:\bbrowser\b
+Sentrial,sentrial,Production Monitoring for AI Agents,"Sentrial is the observability platform for AI agents in production. 
+
+When your agent loops indefinitely, hallucinates, or frustrates users, Sentrial detects it in real-time, diagnoses the root cause, and recommends specific fixes. We provide the monitoring, evaluation, and debugging infrastructure that traditional tools weren't built for, so teams can ship agents with confidence and iterate based on real production behavior, not just evals/benchmarks.",https://sentrial.com/,Winter 2026,B2B,"B2B -> Engineering, Product and Design",AIOps; Developer Tools; B2B; AI,2,Active,Early,23,T1:for ai agents; T4:\binfrastructure\b; T4:\bplatform\b; T4:\bdeveloper tool; T4:\bmonitor; T4:\bobservab; T4:\bevaluat
+Mantle,mantle,Build internal agents to automate back office work with one prompt,"Mantle connects to all your tools: your CRM, Mail, Calendar, Payments, Product Analytics, and more. With just one prompt, you can create agents that handle back office work for you.
+
+These agents can automate reports  and email them to you, drafts emails right in your email client, generates pre-meeting research directly in your calendar event, and much more. They run quietly in the background, react to changes in real time, follow a schedule or work when you chat with them. 
+
+You didn’t start up to stay stuck in admin. Turn your company AI-native with Mantle.",https://www.mantle.work,Fall 2025,B2B,B2B -> Operations,,2,Active,Early,23,T1:payments.*agent; T1:agent.*payment; T4:\bpayment
+Nozomio,nozomio,Context augmentation for agents,"Nozomio is a product lab building engineers for the age of AI.
+
+As coding agents become ubiquitous, the real bottleneck shifts from “write code” to “know which code and docs to feed them.” Starting with the tool named Nia, the mission is to provide context enrichment through agentic research and indexing of any external codebase(-s) or documentation via MCP / API.
+
+Nozomio started with Arlan's early frustration with the agentic coding ecosystem, especially around context and memory. After winning Product of the Day in February and raising pre-seed, Arlan moved to London and then to SF as a solo immigrant from Kazakhstan to build the future of software engineering. 
+
+try nia at trynia .ai <3 ",https://www.nozomio.com/,Summer 2025,B2B,"B2B -> Engineering, Product and Design",,1,Active,Early,23,T1:for agents; T2:\bagentic\b; T2:\bmcp\b; T4:\bapi\b; T4:\bmemory\b; T4:\bcontext\b
+Trace,trace,Voice AI Customer Support for Financial Services,"We started Trace because we believe AI should wow customers, not frustrate them. As a result, we prioritize reliability and seamless customer interactions. 
+
+Trace AI agents resolve calls end-to-end, securely integrating with bank systems and external APIs. So far, our agents handle quoting, application, and transaction tracking calls for our partners — but we’re still searching for new exciting use cases.
+
+Question to all fintechs/banks: Which customer requests keep coming back to you? We’d love to learn how you handle them now and if they are ripe for automation. ",http://tracetec.co,W25,B2B,B2B,Artificial Intelligence; SaaS; Finance; B2B,3,Active,Early,23,T1:agent.*bank; T1:bank.*agent; T4:\bautomation\b
+Sphinx,sphinx,AI Compliance Analysts for Banks & Fintechs,"Sphinx automates the manual work of compliance analysts. Our AI agents make AML decisions, helping banks and fintech eliminate onboarding bottlenecks.
+",https://sphinxlabs.ai/,F24,Fintech,B2B -> Finance and Accounting,,2,Active,Early,23,T1:agent.*bank; T1:bank.*agent; T4:\bcompliance\b
+Manufact (formerly mcp-use),manufact,Open source SDK & cloud infrastructure for MCP Servers & ChatGPT Apps ,"Manufact provides open-source dev tools and infrastructure for MCP to help dev teams quickly build and deploy MCP Servers for AI agents & MCP Apps for ChatGPT and Claude.
+We developed the mcp-use SDK, which has over 5M downloads and 9,000 GitHub stars, and is used by 20% of the US 500.
+Create MCP servers/apps in minutes, connect your GitHub repo, and make them immediately available to AI agents and ChatGPT.",https://manufact.com,Summer 2025,B2B,B2B -> Infrastructure,Developer Tools; B2B; Open Source; Infrastructure; AI,3,Active,Early,22,T1:for ai agents; T2:\bmcp\b; T4:\binfrastructure\b; T4:\bdeveloper tool; T4:\bsdk\b; T4:\bdeploy
+Mastra,mastra,"The Javascript framework for building AI agents, from the Gatsby devs","Mastra is the easiest way to build a production AI application, built by the team that brought you Gatsby. We provide a complete set of AI primitives: workflows for complex operations, agents for autonomous decisions, RAG for knowledge integration, and evals for quality & accuracy. Mastra is open-source, modular, and built in Typescript for product developers. You can deploy Mastra on any cloud, and it gives you a straightforward syntax to solve the hardest problems building with AI: human-in-the-loop workflows, agent memory and tool selection, and output quality. ",https://mastra.ai,W25,B2B,"B2B -> Engineering, Product and Design",Artificial Intelligence; Developer Tools; Open Source; AI,8,Active,Early,22,T1:agent memory; T2:\brag\b; T4:\bdeveloper tool; T4:\bframework\b; T4:\bdeploy; T4:\bmemory\b
+Scrapybara,scrapybara,Virtual Desktops for AI Agents,"Scrapybara hosts remote desktop instances for computer use agents like CUA and Claude Computer Use. With our unified API, developers can write one line of code to execute agents with any model and access low-level controls like the browser, filesystem, and code sandboxes. We handle autoscaling, auth, and system environments so anyone can deploy fleets of agents to production and automate any free-form computing task at scale.",https://scrapybara.com,F24,B2B,B2B,,2,Active,Early,22,T1:for ai agents; T2:\bcomputer use\b; T4:\bapi\b; T4:\bauth; T4:\bdeploy; T4:\bbrowser\b
+Chamber,chamber,Autopiloting your AI infrastructure,"Chamber puts your AI infrastructure on autopilot. Our agentic AI enabled platform orchestrates, governs, and optimizes your AI infrastructure so teams can run ~50% more workloads on the same GPUs without manual intervention. It operates like an autonomous infrastructure team: continuously monitoring GPU clusters, forecasting demand, detecting unhealthy nodes, and reallocating resources in real time to where they create the most impact. Your ML teams move faster, infra waste drops, and GPU bottlenecks disappear.",https://www.usechamber.io,Winter 2026,B2B,B2B -> Infrastructure,Artificial Intelligence; Developer Tools; B2B; Enterprise Software; AI,4,Active,Early,21,T2:\bagentic\b; T2:\bai infrastructure\b; T2:\borchestrat.*ai\b; T2:\bai.*orchestrat; T4:\binfrastructure\b; T4:\bplatform\b; T4:\bdeveloper tool; T4:\bmonitor
+Absurd,absurd,AI Brand and Performance Ads at Scale,"Absurd makes AI brand and performance ads at scale. Our last video for Kalshi (""Election Day"") did 1M+ views, and our videos average 400K+ organic views.
+
+Companies like Replit, Brex, Whop, Reforge, and Micro1 use Absurd to create production-quality videos in 72 hours. We do it with a multi-agent orchestration layer, working closely with your team from concept to final cut.
+
+Try it at absurd.com
+
+We're hiring: absurd.com/careers",https://absurd.com/,Fall 2025,B2B,B2B -> Marketing,Generative AI; Video; Media; Marketing; Advertising,4,Active,Early,21,T1:agent orchestrat; T1:multi-agent
+Rulebase,rulebase,AI agents for fraud detection and investigations.,"We build AI agents that protect fintechs and banks from account takeovers, impersonations, and phishing attacks, while also automating fraud investigations. Our AI agent  gathers and analyzes all the necessary evidence, reducing the average investigation time from 30 minutes to just 2 minutes.
+",https://rulebase.co,F24,B2B,B2B -> Operations,FinOps; Finance; Fraud Prevention; Fraud Detection,2,Active,Early,21,T1:agent.*bank; T1:bank.*agent
+Keet,keet,Authentication for AI Agents,"Keet provides authentication for AI agents. Developers use us to connect their customers accounts and perform actions on their behalf. 
+
+Whether it be legacy software or consumer sites, Keet manages your users authenticated sessions and provides stable integrations on any web platform. Now your AI Agent can access healthcare data or send automated messages on LinkedIn via Keet’s API or SDK.",https://trykeet.com,S24,B2B,B2B,Artificial Intelligence; Developer Tools; B2B,2,Active,Early,21,T1:for ai agents; T4:\bplatform\b; T4:\bdeveloper tool; T4:\bapi\b; T4:\bsdk\b; T4:\bauth
+Agentic Fabriq,agentic-fabriq,Okta for Agents.,"Agentic Fabriq is the single control plane for data permissioning throughout your entire organization across your AI and employees. Through Fabriq, any employee can tap into AI/agents with exactly the data and tools they're cleared to use by an admin. Fabriq can be used internally with employees or externally for customers while handling the auth + integrations + permissions securely for you.",https://www.agenticfabriq.com,Fall 2025,B2B,B2B,AIOps; DevSecOps; SaaS; API; Infrastructure,2,Active,Early,20,T1:for agents; T2:\bagentic\b; T4:\binfrastructure\b; T4:\bapi\b; T4:\bauth
+Hyperspell,hyperspell,Memory for AI Agents,"Hyperspell (YC F25) gives AI agents memory.
+
+It connects to tools like Slack, Gmail, Notion, and Drive so agents can recall, reason, and remember across company knowledge. Developers use Hyperspell’s API to turn disconnected agents into AI coworkers that understand their work. Conor and Manu founded Hyperspell after building their own workplace agent and seeing how limited AI is without memory. They have over 15 years of experience in machine learning and have scaled API-based products to $30M ARR.",https://hyperspell.com,Fall 2025,B2B,B2B -> Infrastructure,Artificial Intelligence; Developer Tools; Machine Learning; B2B; Infrastructure,3,Active,Early,19,T1:for ai agents; T4:\binfrastructure\b; T4:\bdeveloper tool; T4:\bapi\b; T4:\bmemory\b
+Sourcebot,sourcebot,Helping humans and AI agents understand massive codebases,"Sourcebot is an open source code understanding platform for massive codebases. We’re used by thousands of engineers in some of the largest companies in the world, including NVIDIA, Red Hat, Wikimedia, and Arista Networks.
+
+Understanding code, not writing it, is the primary bottleneck for large engineering teams. For developers, this means onboarding onto complex codebases faster. For AI agents, it means getting the necessary code context to minimize hallucinations and maximize cohesion within the wider codebase.
+
+Sourcebot solves this by giving developers and AI agents the ability to regex search across millions of lines of code instantly, as well as ask questions across thousands of repos using any flagship reasoning model. Being open source and on-prem, we can get deployed in enterprises within minutes before other tools even get approval.
+
+We met a decade ago at McGill University and have been building together full time for over 2 years. We’ve personally felt the pain of understanding large codebases while working at Microsoft, EA, Ubisoft, Google, and Meta.",https://www.sourcebot.dev/,Fall 2025,B2B,"B2B -> Engineering, Product and Design",Artificial Intelligence; Developer Tools; DevSecOps; B2B; Open Source,2,Active,Early,19,T1:for ai agents; T4:\bplatform\b; T4:\bdeveloper tool; T4:\bdeploy; T4:\bcontext\b
+Lemma,uselemma,Continuous learning for AI agents,"Lemma enables AI agents to continuously improve from user feedback and production outcomes. Instead of relying on manual prompt tuning and reactive debugging, Lemma detects when an agent’s performance drifts, pinpoints the exact step causing failures, generates optimized prompt candidates, and automatically delivers improvements through our API or by opening a pull request in your codebase. 
+
+Built by ex-AI engineers who felt this pain firsthand, Lemma turns static agents into self-improving systems, helping teams ship reliable AI products faster with compounding performance gains over time. 
+
+Deploy 1x. Learn forever.",https://www.uselemma.ai/,Fall 2025,B2B,"B2B -> Engineering, Product and Design",Artificial Intelligence; Developer Tools; B2B; Infrastructure; AI,2,Active,Early,19,T1:for ai agents; T4:\binfrastructure\b; T4:\bdeveloper tool; T4:\bapi\b; T4:\bdeploy
+Plexe,plexe,Open-source agent that builds ML models from a prompt,"Plexe connects to your data sources, discovers relevant fields and builds task-specific ML models from a problem description. Under the hood, it uses a multi-agent system to research and experiment with several model architectures, evaluate, refine and then deploy the best performing model over an API endpoint. Think of it like your own ML helper helping you go from idea to deployed ML models 10x faster.",https://plexe.ai,X25,B2B,"B2B -> Engineering, Product and Design",Developer Tools; Machine Learning; Open Source,2,Active,Early,19,T1:multi-agent; T4:\bdeveloper tool; T4:\bapi\b; T4:\bdeploy; T4:\bevaluat
+Mbodi AI,mbodi-ai,Make Industrial Robots Learn Like Humans,"Teach robots new skills through natural language and run reliably in production in minutes.
+
+Mbodi combines generative AI and agent orchestration, turning everyday language and quick demos into precise, reliable robot actions for industrial automation.",https://www.mbodi.ai/,Spring 2025,Industrials,Industrials -> Manufacturing and Robotics,Robotics; Automation; AI,4,Active,Early,19,T1:agent orchestrat; T2:\borchestrat.*ai\b; T2:\bai.*orchestrat; T4:\bautomation\b
+Shor,shor,"The fastest, most affordable payroll for global teams","Shor is a new Employer-of-Record built from the ground up with AI agents and stablecoins. We enable remote teams to hire and pay global employees at a fraction of the cost. The process is fast, simple, and fully compliant.
+
+Today, global payroll is broken. Payments take days, cost 5–10% in fees, and force companies to navigate complex banking, tax, and labor regulations. Platforms like Deel and Rippling solved this for large enterprises but remain too expensive and cumbersome for the millions of startups and growing remote teams scaling globally.
+
+Shor fixes this by combining autonomous AI agents with stablecoin-based settlement. Our agents handle contracts, worker classification, compliance, and payroll automatically in a simple, messaging-first experience. Payments can settle in seconds rather than weeks at a fraction of the cost of legacy providers.
+
+We are making global payroll fast, affordable, and accessible for the millions of companies left out by legacy platforms.",https://www.tryshor.com,Summer 2025,Fintech,Fintech -> Payments,Fintech; B2B; HR Tech; Payroll; AI,4,Active,Early,19,T1:agent.*payment; T4:\bpayment; T4:\bbanking\b; T4:\bcompliance\b; T4:\bstablecoin\b
+Egress Health,egress-health,"Automated revenue cycle management, starting with dentists","Egress Health builds AI agents to automate revenue cycle management, starting with dental offices. Our workflows span eligibility checks, claims scrubbing, payment posting, and denial management. On average, our customers eliminate 1-2 full time employees and collect 5-15% more revenue each month. Interested in learning more? Shoot us a note at founders@tryegress.com",https://tryegress.com,W25,Healthcare,Healthcare,Workflow Automation; Healthcare; Health Insurance,2,Active,Early,19,T1:agent.*payment; T4:\bpayment; T4:\binsurance\b; T4:\bworkflow\b; T4:\bautomation\b
+Lucidic AI,lucidic-ai,Weights & Biases for AI Agents,"As AI agents take on more complex tasks, ensuring reliability, accuracy, and efficiency is critical. Lucidic AI provides tools for AI agent devs, specifically visualizations and simulations, and engineers to test, debug, and optimize AI agents at scale, giving you full visibility into their decision-making. Modify prompts and re-run tests/simulations, watch step-by-step video replays of your agent’s execution, compare different models and configurations side by side, and visualize decision trees to prevent failures before they happen. Make sure your agents operate smoothly, adapt to changes, and perform as expected in real-world deployments.",https://lucidic.ai,W25,B2B,B2B,AIOps; Developer Tools; SaaS; Automation; AI,3,Active,Early,19,T1:for ai agents; T4:\bdeveloper tool; T4:\bdeploy; T4:\bautomation\b; T4:\bexecution\b
+assistant-ui,assistant-ui,Open Source React.js Library for AI Chat,"assistant-ui helps frontend developers add AI chat to their apps. Our product is used by several dozen companies, like LangChain, Stack AI, Browser Use, and Athena Intelligence. We're building an open source Typescript/React library and a backend as a service, with first class integrations into popular agent frameworks like LangGraph and Vercel AI SDK.",https://assistant-ui.com,W25,B2B,B2B -> Infrastructure,Developer Tools; Generative AI; Chat; Web Development; AI Assistant,1,Active,Early,19,T1:agent framework; T4:\binfrastructure\b; T4:\bdeveloper tool; T4:\bsdk\b; T4:\bbrowser\b
+Modelence,modelence,All-in-one TypeScript cloud for production AI apps,"You built the demo in a weekend. Now you need auth, a prod-grade database, real-time events, AI observability, cron jobs, email, monitoring… and you needed them yesterday.
+
+We spent a decade at our previous startup, building a platform while scaling to millions of users and customers like Meta & Netflix. Now we put that into an open-source framework, so others wouldn’t have to do the same from scratch.
+
+Modelence is a batteries-included framework that abstracts away boilerplate so you can just focus on building your product logic and nothing else - it’s like Next.js + Vercel + Supabase on a single platform, built for full-stack TypeScript.
+
+Shipping production apps is much harder than building a prototype that runs locally and 95% of all production apps share the same building blocks. We did a massive amount of work on our previous platforms that was not specific to our product, and we’ve created Modelence to abstract that away:
+- Authentication
+- Database setup
+- Hosting / CDN
+- AI integration (LLM observability, prompts)
+- Real-time events
+- Cron jobs
+- Email service
+- Monitoring
+- Analytics
+- Admin dashboards
+
+Andrej Karpathy recently posted about this same exact problem:
+https://x.com/karpathy/status/1905051558783418370
+
+and explained it further in his YC AI Startup School talk:
+https://youtu.be/LCEmiRjPEtQ?feature=shared&t=1940",https://modelence.com,Summer 2025,B2B,B2B -> Infrastructure,Developer Tools; Infrastructure,3,Active,Early,18,T2:\bai observab; T4:\binfrastructure\b; T4:\bplatform\b; T4:\bdeveloper tool; T4:\bframework\b; T4:\bauth; T4:\bmonitor; T4:\bobservab
+Praxos,praxos,Data layer for AI agents,"Developers use Praxos to give their AI agents memory, document processing, and autonomous tool use. Build AI that gets smarter and more personalized over time.",https://www.praxos.ai,S24,B2B,B2B,Developer Tools; AI,3,Active,Early,18,T1:for ai agents; T2:\btool use\b; T4:\bdeveloper tool; T4:\bmemory\b
+Pipeshift,pipeshift,Modular Orchestration Platform for Open Source AI,"Pipeshift is a modular orchestration platform for building with open-source AI components — embeddings, vector databases, LLMs, vision models and audio models — across any cloud or on-prem. Enterprises get to deploy their AI workloads in production faster and more reliably. Additionally, as we see more model and hardware architectures coming in the market, Pipeshift future-proofs the infrastructure investments by offering flexibility through their modular MLOps stack that allows enterprises to bring down their GPU infrastructure costs without any additional engineering efforts on their end.",https://pipeshift.com,S24,B2B,B2B -> Infrastructure,AIOps; Artificial Intelligence; Generative AI; Infrastructure; AI,10,Active,Early,18,T2:\bmlops\b; T2:\borchestrat.*ai\b; T2:\bai.*orchestrat; T4:\binfrastructure\b; T4:\bplatform\b; T4:\bdeploy; T4:\bembedding
+AgentMail,agentmail,Email Inboxes for AI Agents,"AgentMail is the email inbox API for AI agents. It gives agents their own email inboxes, like Gmail does for humans.",https://agentmail.to,Summer 2025,B2B,B2B -> Infrastructure,Developer Tools; API; Email,6,Active,Early,17,T1:for ai agents; T4:\binfrastructure\b; T4:\bdeveloper tool; T4:\bapi\b
+Veritus,veritus,AI agents for the consumer lending industry,"Veritus is a omni-channel platform for deploying AI agents for loan servicing and collections, including inbound and outbound voice agents. Our agents negotiate repayment plans, follow up across channels, and drive recoveries with zero human involvement.
+
+By combining cutting edge voice AI with deep regulatory compliance and vertical specialization we're able to drastically reduce the cost-to-collect while increasing recovery rates. ",https://www.veritus.com,Summer 2025,Fintech,Fintech -> Credit and Lending,Fintech; Lending; AI,10,Active,Early,17,T1:agent.*payment; T4:\bplatform\b; T4:\bcompliance\b; T4:\bdeploy
+careCycle,carecycle,Voice AI teams for medicare agencies.,"careCycle is an AI workforce for medicare agencies and FMOs - helping leading agencies achieve 5x higher conversions, 37% better retention, and saving thousands of agent hours.
+
+We're transforming how Medicare agencies handle member relationships with teams of voice AI agents. We're solving the industry's biggest challenge: 50% annual member churn caused by poor post-enrollment engagement.
+
+Our multi-agent AI teams work together to handle the entire customer journey - from initial contact through enrollment and ongoing care. When a lead comes in after hours, one AI agent answers and schedules a callback, another calls at the perfect time, a third captures qualifying information, and a fourth handles the warm transfer to a licensed agent. This approach helped a leading FMO write over $2M in renewals during AEP 2024 while reducing agent talk time by 20% per sale.
+
+We've pioneered a purpose-built solution for Medicare's unique compliance requirements. Unlike generic AI platforms, our system features built-in HIPAA/CMS compliance, real-time data structuring, and seamless CRM integration. This enables agencies of all sizes to deliver enterprise-grade member care without massive infrastructure investments.
+
+Early metrics show the power of our approach:
+
+- 5x increase in after-hours conversion rates
+- 37% improvement in 90-day retention
+- 3,000+ agent hours saved in a single AEP
+- $2M+ in additional renewals during AEP 2024
+
+The Medicare Advantage market represents a massive opportunity, with over $360B in annual premiums and growing 10% year over year. By solving the member retention challenge, we're positioning ourselves to capture significant value by transforming the member care experience for beneficiaries.",https://www.careCycle.ai,W25,B2B,B2B,Health Insurance; Telecommunications; Conversational AI,2,Active,Early,17,T1:multi-agent; T4:\binfrastructure\b; T4:\bcompliance\b; T4:\binsurance\b
+Butter,butter,Muscle Memory Cache for Agents,"Butter is building an LLM proxy that records and deterministically replays tool call trajectories. Our goal is to get LLMs out of the hotpath for repetitive tasks, increasing speed, reducing variability, and eliminating token costs for the many cases that could have just been a script.
+",https://butter.dev,Winter 2025,B2B,B2B -> Infrastructure,,2,Active,Early,17,T1:for agents; T4:\binfrastructure\b; T4:\btoken\b; T4:\bmemory\b
+FirstWork,firstwork,Rippling for seasonal workers,"Firstwork is a next-generation HR platform designed specifically for companies with dynamic workforce needs. Our mission is to streamline and automate key HR processes to help businesses operate more efficiently and effectively.
+
+What We Do (for now):
+
+(1) Smart Onboarding 📋: Our platform simplifies the onboarding process by automating the collection and verification of credentials, such as right-to-work documents, insurance forms and driver’s licenses. This reduces administrative burden and accelerates the time-to-productivity for new hires.
+
+(2) AI-Assisted Activation 🤖: Leveraging AI, we enhance communication and messaging for new hires, ensuring they receive timely and relevant information. This helps in better engagement and faster integration into their roles.
+
+(3) Perpetual Compliance ✅: Our system uses AI and OCR technology to continuously monitor and ensure compliance with various regulatory requirements. This includes tracking expirations of critical documents, updating records, and generating compliance reports, thus reducing the risk of penalties and legal issues.
+
+",https://firstwork.com,S24,B2B,B2B -> Human Resources,Artificial Intelligence; SaaS; Human Resources; Workflow Automation; Compliance,9,Active,Early,17,T4:\bplatform\b; T4:\bcompliance\b; T4:\binsurance\b; T4:\bcredential; T4:\blegal\b; T4:\bmonitor; T4:\bworkflow\b; T4:\bautomation\b
+14.ai,14-ai,AI Customer Service Platform and BPO for Your B2C Business,14.ai is a Zendesk alternative built from the ground up for AI agents. ,https://14.ai,Winter 2024,B2B,B2B -> Infrastructure,Developer Tools; Customer Support; Infrastructure; AI; AI Assistant,3,Active,Early,17,T1:for ai agents; T4:\binfrastructure\b; T4:\bplatform\b; T4:\bdeveloper tool
+Conduit,conduit-ai,Conversational AI agents for Customer Service.,"Conduit is the AI agent platform that drives conversational outcomes across support and sales.
+
+Customer conversations are the backbone of every business. Consumer businesses spend nearly a third of their working hours calling and texting customers. Conduit turns those conversations into an engine for conversions, revenue, and cost savings. 
+
+We enable operators across real estate, financials, and service-based businesses, to build and deploy AI agents that perform better than your best employee. Our modular platform enables automation for the most complex, high-volume conversational workflows.",https://conduit.ai/?utm_source=referral&utm_medium=organic&utm_campaign=ycombinator,Winter 2024,B2B,B2B,Messaging; Sales; Customer Service; Customer Support; AI,11,Active,Early,17,T1:agent platform; T4:\bplatform\b; T4:\bdeploy; T4:\bautomation\b
+Eloquent AI,eloquent-ai,Agentic AI Platform for Financial Services,"Eloquent AI empowers regulated industries to confidently deploy AI agents for critical, high-stakes conversations.
+
+We developed the first Agentic OS that leverages deep evaluations and reinforcement learning to eliminate hallucinations and errors. Our agents autonomously ingest knowledge, measure performance, and self-correct by refining internal reward models.
+
+At the core of our technology is the Mission Control Engine, specifically designed for reliability and compliance:
+- User simulations for pre-launch assurance of agent performance.
+- Contextual compliance, with AI models trained directly on mandated regulations, eliminating liabilities from unauthorized advice or mishandled complaints.
+- Comprehensive audit trails that document and clearly explain AI decision-making to regulators.
+
+Built for compliance and trust, Eloquent AI transforms AI from a potential liability into a strategic advantage for financial institutions and healthcare organizations.",https://www.eloquentai.co/,X25,B2B,B2B -> Finance and Accounting,,5,Active,Early,16,T2:\bagentic\b; T4:\bplatform\b; T4:\bcompliance\b; T4:\bliability\b; T4:\btrust\b; T4:\bdeploy; T4:\bevaluat
+Quantstruct,quantstruct,AI documentation engineer – test & autoimprove stale product docs,"Quantstruct automatically creates and improves product documentation, implementation guides, and changelogs for API & SDK products, web-based enterprise software, and internal applications.
+
+Quantstruct identifies gaps in your knowledge base based on each product release or unfulfilled customer query. It uses multiple AI agents to search existing knowledge sources, test existing docs for validity and style guidelines, and clicks, scrolls, and uses enterprise software through a web browser to generate docs with embedded screenshots and video recordings. Quanstruct is available as a cloud service to start, targeting technical writers, content writing, professional services, and product teams.
+
+Traditional generative AI tools risk hallucinating critical API & SDK fields, even with RAG based approaches. Purely agent-based approaches risk providing unpredictable output that can diverge from desired documentation processes. Finally, no company’s review and publishing workflow is the same. Quantstruct is the easiest way to onboard and customize AI agents to continuously improve your documentation based on your customer needs and product evolution. https://quantstruct.com",https://quantstruct.com,W25,B2B,B2B,Artificial Intelligence; Developer Tools; B2B; API; Automation,3,Active,Early,16,T2:\brag\b; T4:\bdeveloper tool; T4:\bapi\b; T4:\bsdk\b; T4:\bworkflow\b; T4:\bautomation\b; T4:\bbrowser\b
+Wildcard,wildcard,Make APIs work for AI Agents,"Wildcard is the gateway for AI agents to find and use APIs with natural language. We have four official partnerships with API providers like Resend and Alpaca on our open standard to make their APIs ready for agentic traffic.
+Our API integrations include: Google Sheets, Stripe, Resend, Slack, Alpaca, Rootly, ...
+
+
+",https://wild-card.ai,W25,B2B,"B2B -> Engineering, Product and Design",,2,Active,Early,16,T1:for ai agents; T2:\bagentic\b; T4:\bapi\b
+Hamming AI,hamming-ai,Automated AI voice agent testing,"Humans make billions of calls/day. We think a majority of these will be handled by AI built by thousands of companies tackling every single vertical.
+
+Making these AI voice agents reliable is hard. A small change in prompts, function call definitions, or model providers can cause large changes in LLM outputs. 
+
+Hamming automates testing for AI voice agents. Our voice agents call your voice agent. An AI drive-through startup uses Hamming to simulate thousands of simultaneous phone calls to achieve 99.99% agent order accuracy.
+
+We have a proven track record of helping enterprises win with AI. Sumanyu (CEO) previously helped Citizen (safety app) grow its users by 4X and grew an AI-powered sales program to 100s of millions in revenue/year at Tesla. Marius (CTO) previously ran data infrastructure @ Anduril and was a founding engineer @ Spell (MLOps startup acquired by Reddit).",https://hamming.ai/,S24,B2B,"B2B -> Engineering, Product and Design",,2,Active,Early,16,T1:agent test; T2:\bmlops\b; T4:\binfrastructure\b
+RowBoat Labs,rowboat-labs,Open-source AI-assisted agent builder,"A Cursor-like AI-assisted, no-code IDE for building production-ready multi-agents.
+
+✨ Start from a simple prompt to create fully functional agents with the Copilot
+🧪 Test them in AI-simulated scenarios
+🌐 Connect MCP servers and tools
+📞 Interact through the Python SDK, a web widget, or a Twilio phone number
+♻️ Continuously refine your agents by providing feedback to the Copilot
+
+Built on OpenAI's Agents SDK, Rowboat is the fastest way to build multi-agents!",https://www.rowboatlabs.com,S24,B2B,B2B,Generative AI; B2B; Open Source; Conversational AI,3,Active,Early,16,T1:multi-agent; T2:\bmcp\b; T4:\bsdk\b
+Zoa Research,zoa-research,Powerful quantitative forecasting models,"Historically, quantitative models are domain specific. Brilliant people spend their best years testing features, tuning hyperparameters, and iterating architectures within a narrow domain. But scale is the panacea: large models will find patterns people, and specialized models, could not. 
+
+Forecasting generalizes. Zoa trains cross-domain event forecasting engines. 
+
+*Automating Iteration*
+
+LLMs—embedded in multi-agent optimization loops and evaluated against fixed policies—can automate the build-test-improve modeling cycle. Think AlphaEvolve for forecasting problems.
+
+*Sample-Efficient General Models*
+
+Today’s forecasting models are narrowly crafted with deep human priors. But larger models will outperform state-of-the-art specialized models.
+
+Unlike existing event models, our models leverage data from across contexts and rely less on human intuition. And compared to LLMs, our models are built with more inductive priors and rely more heavily on inference-time compute—improving sample efficiency.
+
+*Why It Matters*
+
+In the real economy, our models could be useful for forecasting supply chain volatility, energy supply and demand, even earthquake risk.
+
+Science is, Ian Hacking writes, the taming of chance. It is the process of iteratively updating priors (something like: identify uncertainty, conceive experiment to reduce uncertainty, execute, update). If science is uncertainty-reduction, forecasting is a critical measure of progress. 
+
+Better forecasting improves our ability to select interesting experiments (roughly those with greatest expected uncertainty reduction) and update priors. Our models will be used by labs and academics in data-heavy domains. 
+
+Sam's ex-girlfriend introduced him to Greg back at Carnegie Mellon in 2017, and while that relationship didn't last, their friendship has. After college, Greg went to Harvard Law School, while Sam worked for three years at Jane Street on their Options desk, building & leading a satellite dev team.",https://zoaresearch.com,Summer 2024,B2B,B2B,Data Science; AI,5,Active,Early,16,T1:multi-agent; T2:\binference\b; T4:\bevaluat
+Cumulus Labs,cumulus-labs,The Optimized GPU Cloud,"Cumulus Labs is building a performance-optimized GPU cloud for AI training and inference, where customers are only charged by physical resource use.
+
+The platform aggregates idle GPU capacity from public clouds, private data centers, and vetted individual hosts into a single, unified Cumulus pool. 
+
+For training and fine-tuning, workloads are predictively packed alongside other jobs to maximize efficiency and dynamically migrated live during execution to faster or cheaper clusters as they become available. 
+
+For inference, the platform captures and replicates execution state across our global compute CDN, enabling ultra-fast cold starts and performant serving where your users are. 
+
+The Cumulus Scheduler constantly diagnoses failures, auto-recovers workloads, and intelligently orchestrates across the entire pool. The Cumulus Prediction system will learn usage patterns to optimize resources available to customer jobs.
+
+Getting started takes less than 20 lines of config. Fine-tuning becomes as simple as specifying your data and model architecture, while inference deployments automatically optimize for latency and cost. 
+
+Cumulus handles all GPU orchestration complexity, allowing teams to save on cost and significantly boost performance in real-time while focusing on what matters: building & serving better models. The result is 50-70% cost savings, faster cold starts, and never spending time managing infrastructure ever again.
+",https://cumuluslabs.io,Winter 2026,B2B,B2B -> Infrastructure,Machine Learning; B2B; Infrastructure,2,Active,Early,15,T2:\binference\b; T2:\bfine-tun; T4:\binfrastructure\b; T4:\bplatform\b; T4:\bdeploy; T4:\bexecution\b
+Patientdesk.ai,patientdeskai,AI voice agent for patient calls & admin workflows,"The universal AI front desk for healthcare: plugs into any practice management system (cloud-based or on-premise) and automates all patient workflows: scheduling, cancellations, payment plans, insurance checks, reminders, intake, and follow-ups.",https://patientdesk.ai/,Winter 2026,Healthcare,Healthcare -> Healthcare IT,Customer Service; Call Center; Conversational AI; AI Assistant,3,Active,Early,15,T1:agent.*payment; T4:\bpayment; T4:\binsurance\b
+Lua Global Inc,lua-global-inc,The mid-market agent platform,"Lua is the mid-market agent platform.
+
+We deliver enterprise reliability with the speed, flexibility, and economics that mid-market companies demand - helping them deploy AI agents that drive sales, support, and operations across everyday channels and tools.
+
+We scale through developer agencies and channel partners, enabling rapid distribution without a large enterprise sales motion or scaled forward deployed teams. We think of Lua as an agentOS that abstracts all of the complexity required to launch enterprise grade agents and combine it with the tools needed for these agents to succeed in the real world.
+
+Lua was founded by Lorcan O Cathain (CEO) and Stefan Kruger (CTO)- experienced founders who have spent 15 - 20 years each scaling technology companies across emerging markets.
+
+We sell to mid-market enterprises and developer agencies in the US and internationally. Developers are increasingly our primary ICP but we run SMB & enterprise sales motions to accelerate our learnings and further develop our product:
+- SMB ($25- 1k per month): fully automated self-serve agents that handle sales and support for eCommerce companies, hotels, restaurants and general service businesses. If you’ve been on our website you’ve likely seen this.
+- Enterprise: We directly sell to mid-market (~ $50M- $1BN) businesses across the US and internationally to eat our own dog food and strengthen our platform.
+",https://heylua.ai/,Fall 2025,B2B,B2B,,5,Active,Early,15,T1:agent platform; T4:\bplatform\b; T4:\bdeploy
+Sim,sim,Open source platform to build AI agent workflows,"Sim enables fast-growing technical teams to build and deploy AI agent workflows. 
+
+70,000+ developers are already using Sim, integrating with 1000+ apps to streamline workflows with AI agents.",https://sim.ai,Spring 2025,B2B,B2B,AI,5,Active,Early,15,T1:agent workflow; T4:\bplatform\b; T4:\bdeploy
+Klavis AI,klavis-ai,Open source MCP integration platform for reliably tool use at scale.,"Klavis AI is Open source MCP integration platform that let AI agents use tools reliably at any scale. Our API provides hosted, secure MCP servers, eliminating auth management and client-side code. Co-founder Xiangkai Zeng co-authored the Gemini paper and pioneered the tool calling infrastructure for Gemini. https://www.klavis.ai/",https://www.klavis.ai/,Spring 2025,B2B,B2B,Artificial Intelligence; SaaS; Open Source; API; AI,4,Active,Early,15,T2:\bmcp\b; T2:\btool use\b; T4:\binfrastructure\b; T4:\bplatform\b; T4:\bapi\b; T4:\bauth
+ZeroEval,zeroeval,Auto-optimizer for AI agents,"Our mission is to build self-improving AI agents.
+
+We're here to close the last mile reliability gap. 
+
+Through calibrated llm judges and automatic evaluations, we help companies optimize their agents 10x faster than doing manual experimentation.",https://zeroeval.com,Summer 2025,B2B,B2B,AIOps; Developer Tools; Generative AI; SaaS; AI,2,Active,Early,15,T1:for ai agents; T4:\bdeveloper tool; T4:\bevaluat
+AgentHub,agenthub-2,The simulation and evaluation engine for AI agents,"AgentHub helps you catch and fix errors in your AI agents - before your users ever see them.
+
+Simulate real-world scenarios in curated RL environments for your agents - trace, evaluate, and improve agent behavior at scale. Generate large annotated datasets and experiment with different prompts, models, and configurations - all in one place - with clear visualizations of what’s working (and what’s not).
+
+Built by a former tech lead from Apple’s Foundation Model Eval team and a product engineer from MIT with experience working on agents at startups, AgentHub makes it easy to integrate your use case and start improving your agents quickly.
+
+Our streamlined onboarding process lets you get your agent eval environment up and running fast—no heavy lifting on your end.
+
+Close the feedback loop and build better agents, faster - with confidence. ",https://www.agenthublabs.com,Summer 2025,B2B,B2B,Reinforcement Learning; B2B; Infrastructure; AI,2,Active,Early,15,T1:for ai agents; T4:\binfrastructure\b; T4:\bevaluat
+Notte,notte,Reliable Web Agents for Enterprise,"Nottelabs offers a platform to build and deploy enterprise-grade browser agents. We help companies cut costs and save time by automating repetitive tasks. Unlike others, we provide agents, tools, and infrastructure through a single API, making us the fastest path to reliable web AI agents in production.",https://www.notte.cc/,Summer 2025,B2B,B2B,Developer Tools; Automation; AI,5,Active,Early,15,T4:\binfrastructure\b; T4:\bplatform\b; T4:\bdeveloper tool; T4:\bapi\b; T4:\bdeploy; T4:\bautomation\b; T4:\bbrowser\b
+Platus,platus,"Instant Legal Infrastructure - Draft, Sign, Notarize & Process","Platus delivers fast, reliable legal infrastructure with a no-code platform and API, designed to support SMBs with instant access to notarization, legal drafting, e-signing, and workflow automations. Our solution removes the high costs and slow processing of traditional legal services, by empowering businesses to seamlessly manage compliance and legal tasks.",https://www.platus.com,F24,B2B,B2B -> Legal,B2B; Workflow Automation; Compliance; LegalTech; AI,0,Active,Early,15,T4:\binfrastructure\b; T4:\bplatform\b; T4:\bapi\b; T4:\bcompliance\b; T4:\blegal\b; T4:\bworkflow\b; T4:\bautomation\b
+Abundant,abundant,Human Supervision for AI Agents,"Abundant powers reliable and safe AI deployment via our API. Our network of specialized operators works alongside AI agents to:
+
+(1) Handle complex edge cases with precision.
+(2) Maintain rigorous safety standards.
+(3) Generate high-quality training data that continuously improves AI performance.
+
+Companies can meet stringent quality requirements at a fraction of the cost of in-house teams, while accelerating their AI initiatives.",https://www.abundant.ai/,F24,B2B,B2B,AIOps; Artificial Intelligence; API; AI,3,Active,Early,15,T1:for ai agents; T4:\bapi\b; T4:\bdeploy
+HumanLayer,humanlayer,Human-in-the-Loop for AI Agents,"HumanLayer is an API that enables AI applications to contact humans for help, feedback, and approvals. One customer uses HumanLayer to ship DevOps agents that manage complex and risky workflows like production deployments and database migrations. 
+
+
+We’re building HumanLayer because we know that the future of AI Applications is not gonna be humans sitting at a chat interface, the future is “outer loop” or “headless” agents, and our partners are building AI apps that invert the typical interaction paradigm. Autonomous agents are calling humans, not the other way around.
+
+
+AI Agents are poised to disrupt the $4.6tn global labor market, but in order to make agents reliable today, and train them to be fully autonomous tomorrow, solutions like HumanLayer are an inevitable part of the AI Agent stack. ",https://humanlayer.dev,F24,B2B,"B2B -> Engineering, Product and Design",,3,Active,Early,15,T1:for ai agents; T4:\bapi\b; T4:\bdeploy
+Comfy Deploy,comfy-deploy,Vercel for Gen AI applications,"Comfy Deploy lets developers build and deploy workflows that use Stable Diffusion and other models to produce images and video. Instead of cobbling together fragmented tools, teams now build workflows that generate assets they need on their own.
+
+
+**Team ComfyUI workspace**
+
+• Replacing cobbled-together solutions with a unified, team-focused environment without the pain of self-hosting.
+
+• Eliminate ""works on my machine"" issues with version control.
+
+• Share storage for models and outputs.
+
+• Leverage the power of ComfyUI without the complexities of self-hosting
+
+
+**Powerful GPU Infrastructure**
+• Access managed GPUs that grow with your teams needs
+
+• Tailor the platform to your requirements by easily installing custom nodes and models
+
+
+**Custom configuration**
+
+• Download the models you want, stored privately in your personal volume
+
+• Install the custom nodes your workflow needs
+
+• Train models on your own datasets.
+
+
+**API Deployments: From workflow to production in seconds**
+
+• Transform any workflow into a fully functional API immediately without extra engineering
+
+• Comprehensive observability on every run
+
+• Built-in API authentication
+
+• TS/JS/Python/Ruby SDKs for seamless integration
+",https://comfydeploy.com,S24,B2B,"B2B -> Engineering, Product and Design",Artificial Intelligence; API,3,Active,Early,15,T4:\binfrastructure\b; T4:\bplatform\b; T4:\bapi\b; T4:\bauth; T4:\bdeploy; T4:\bobservab; T4:\bworkflow\b
+Kastle,kastle,AI agents for mortgage servicing,"Kastle is an AI voice agent for mortgage servicing. We help servicers collect payments, verify new borrowers, and qualify new loan inquiries over the phone. 
+
+Rishi and Nitish met at UIUC where they graduated with degrees in systems engineering and computer science.  Rishi was the founding Product Manager for Redfin’s Mortgage Marketplace at 22 and grew the business from $3M to $6M in revenue in 9 months. Nitish patented Verkada’s motion search system and was the youngest tech lead at the company at 23.
+
+While building Redfin's Mortgage Marketplace Rishi realized traditional lenders didn't have the infrastructure to service online inquiries and were losing customers. Nitish and Rishi are building Kastle to help traditional financial services companies better interface with their customers. ",https://kastle.ai/,S24,B2B,B2B,,3,Active,Early,15,T1:agent.*payment; T4:\binfrastructure\b; T4:\bpayment
+Synthetic Sciences,synthetic-sciences,AI co-scientists that run research end-to-end,"We’re building the infrastructure for a future AI co-scientist, starting with computational research domains. Our thesis is that capable AI scientists require two things built in tandem: (1) a human-centric product suite that generates high-quality process data, and (2) the research infrastructure to turn that data into increasingly autonomous systems. We’re creating the product and training infrastructure needed for research agents that can execute the full scientific loop.
+
+Synthetic Sciences Web is our platform where scientists delegate complex research tasks to swarms of AI co-scientists across reading → hypotheses → methods → experimentation → results → drafting, even while they sleep. In parallel, we develop RL environments and process-based training data for LLMs, starting with agentic coding environments for ML research workflows.",https://syntheticsciences.ai/,Winter 2026,B2B,"B2B -> Engineering, Product and Design",Developer Tools; Reinforcement Learning; Workflow Automation,2,Active,Early,14,T2:\bagentic\b; T4:\binfrastructure\b; T4:\bplatform\b; T4:\bdeveloper tool; T4:\bworkflow\b; T4:\bautomation\b
+Janus,janus,Evaluate AI Agents with Simulation Environments,"Janus automates AI evaluations by using high-fidelity simulation environments, catching failures in reasoning, compliance, tool usage, and performance. 
+
+The resulting datasets benchmark products and feed post-training loops to continuously improve performance over time.",https://www.withjanus.com/,Spring 2025,B2B,B2B -> Infrastructure,AIOps; Developer Tools; Reinforcement Learning; Monitoring; AI,2,Active,Early,14,T2:\bai evaluat; T4:\binfrastructure\b; T4:\bdeveloper tool; T4:\bcompliance\b; T4:\bmonitor; T4:\bevaluat
+Osmosis,osmosis,Reinforcement Learning for AI Agents,Osmosis helps companies use reinforcement learning to fine-tune open source models that outperform foundation models. ,https://osmosis.ai/,Winter 2025,B2B,B2B,,6,Active,Early,14,T1:for ai agents; T2:\bfine-tun
+Foundry,foundry,World Model for Browser Agents,"We’re building the an end-to-end web simulator for browser agent training and evals. Our system enables teams to test, benchmark, and optimize browser automation models at scale.
+
+- Deterministic Web Simulation → Stable, reproducible testing with versioned web snapshots.
+- Live Web Evaluation → Identify failures caused by UI drift, captchas, and dynamic content.
+- Automated Annotation & Labeling → Generate high-quality training data for benchmarking.
+- RL-Driven Agent Optimization → Improve models with scalable, feedback-driven learning.
+
+By combining synthetic user simulations, automated evaluations, and large-scale benchmarking, we help teams build more reliable web agents that handle real-world environments with confidence.",https://www.foundryrl.com/,F24,B2B,B2B -> Infrastructure,Deep Learning; Developer Tools; Reinforcement Learning; Data Labeling; AI,2,Active,Early,14,T2:\bbrowser automation\b; T4:\binfrastructure\b; T4:\bdeveloper tool; T4:\bautomation\b; T4:\bevaluat; T4:\bbrowser\b
+Corelayer,corelayer,AI on-call engineer that debugs using data,"We’re building AI agents that do on-call support for data-heavy industries like financial services and fintech, healthcare, and insurance.
+
+On-call engineers in these industries need to inspect data to debug production issues. We monitor both data and infrastructure for issues and use AI agents to debug and suggest fixes in minutes.
+
+Data is especially sensitive in regulated industries, so we offer on-prem deployments and hardware-backed secure environments that let agents safely use production data as context while debugging.
+
+Mitch and Shipra founded Corelayer after building data infrastructure together at Goldman Sachs, where they spent many late nights and weekends debugging systems that processed 100s of billions of rows a day.",https://www.corelayer.com,Winter 2026,B2B,"B2B -> Engineering, Product and Design",Artificial Intelligence; Developer Tools; B2B; Enterprise Software; AI,2,Active,Early,13,T4:\binfrastructure\b; T4:\bdeveloper tool; T4:\binsurance\b; T4:\bdeploy; T4:\bmonitor; T4:\bcontext\b
+Flott HQ,flott-hq,AI-native operating system for vehicle fleet management,"Flott helps transport and logistics companies run leaner, smarter, and more profitable operations. Flott unifies everything transport and logistics teams need in a single, AI-powered control center—bringing planning, live tracking (gps, fuel, etc), invoicing, and payments into one place and delivering true end-to-end visibility. Flott’s AI agents act as an extension of fleet managers — automating repetitive tasks and optimizing workflows.This lets companies focus on what truly matters: growing the business.",https://www.flotthq.com,Spring 2025,B2B,B2B,Logistics; Transportation; Operations; AI Assistant,2,Active,Early,13,T1:payments.*agent; T4:\bpayment
+Okibi,okibi,"Build AI coworkers using natural language, it's Lovable for agents","Okibi is a web app that lets you create AI coworkers using natural language.
+
+It's like Lovable for creating AI agents that talk to your internal software
+
+Corporate users lose 2 hours every day doing tasks that can be automated with agents
+
+But existing agent builders have janky drag and drop UIs that don’t map to what they want exactiy.
+
+Okibi lets everyone use natural language to build the exact agent they want.",https://okibi.ai,Summer 2025,B2B,B2B,AIOps; B2B; Automation; AI; Conversational AI,2,Active,Early,13,T1:for agents; T4:\bautomation\b
+A1Base,a1base,Twilio for AI Agents,"Twilio for AI agents. We help AI products talk and work to their users through email, Slack, SMS, WhatsApp and more.",https://www.a1base.com/,W25,B2B,"B2B -> Engineering, Product and Design",Developer Tools,2,Active,Early,13,T1:for ai agents; T4:\bdeveloper tool
+Gulp,gulp,Real-Time Self-Improvement for AI Agents,"We're building Osmosis: an API that helps AI agents learn from experience, in real-time. | https://gulp.ai/responsive-software.html",https://gulp.ai/,W25,B2B,B2B,,2,Active,Early,13,T1:for ai agents; T4:\bapi\b
+Trava,trava,AI agents for global trade compliance,Trava is building AI agents for global trade compliance. Importers lose billions each year to duty overpayments and filing errors. Trava audits customs entries and automates classification to help importers protect margins and stay compliant at scale.,https://www.usetrava.com/,Winter 2025,B2B,B2B -> Supply Chain and Logistics,Generative AI; B2B; Compliance; Logistics; Supply Chain,1,Active,Early,13,T1:agent.*payment; T4:\bcompliance\b
+Luthor,luthor,AI Agents for Marketing Compliance,"Luthor builds AI-powered marketing compliance agents for fintechs, banks, investment advisors, and broker-dealers. Our AI streamlines approvals, helping teams publish content faster—without compliance bottlenecks.",https://luthor.ai,F24,B2B,B2B -> Marketing,B2B; Marketing; AI,4,Active,Early,13,T1:agent.*bank; T4:\bcompliance\b
+Lumenary,lumenary,Build production-worthy software quickly with AI.,"Lumenary is a code-generation platform and IDE that makes designing rigorous, data-intensive applications feel like whiteboarding. We provide a canvas-based UI that helps users and LLMs work off the same code and infrastructure context, while programmatically generating full-stack apps from high-level specifications.
+
+
+Lumenary was founded by four best friends who met at Dartmouth College, with engineering expertise from Jane Street Capital, IMC Trading, and Palantir Technologies. They've published high impact machine learning research in venues like NeurIPS, in addition to deploying secure enterprise software managing billions of dollars and petabytes of data.",https://lumenary.com,S24,B2B,Healthcare,Developer Tools; Automation; AI,4,Active,Early,13,T4:\binfrastructure\b; T4:\bplatform\b; T4:\bdeveloper tool; T4:\bdeploy; T4:\bautomation\b; T4:\bcontext\b
+Seals AI,seals-ai,AI Employees for Wholesalers & Distributors,"Seals is a suite of AI Employees for Wholesalers & Distributors. Instead of relying on humans to quote, take orders, collect payments, place purchase orders and enter data into ERPs. We build AI Employees that do these manual repetitive tasks for the 700k wholesalers in the US.
+
+We’re a team of three Computer Science majors, and Fernando launched and grew AT&T in Mexico to $120M ARR. Previously, we all worked together at our last YC-backed startup, building it to over $6M in revenue. It was there that we placed thousands of purchase orders with wholesalers.
+
+We realized that almost every physical product comes from B2B sales in the supply chain. However, it turns out that most of these operations are still done manually through phone and email, involving tasks like quoting, taking orders, collecting payments, entering data into ERPs, and providing support. By automating these tasks with AI agents in a human-like manner, we are creating a massive opportunity to convert $100B of payroll expenses into software spending.
+",https://www.hireseals.ai/,S24,B2B,B2B,Artificial Intelligence; SaaS; B2B,4,Active,Early,13,T1:payments.*agent; T4:\bpayment
+Arva AI,arva-ai,AI scale AML and KYB operations,"Every time a business onboards onto a bank or fintech a human analyst has to conduct manual document verification. We replace those human KYB (know your business) analysts with AI agents that automate 80% of the manual work for faster and more compliant financial crime reviews.
+
+Currently, 30% of know your business (KYB) cases result in manual review work. With Arva's AI agents the whole end-to-end onboarding experience is automated. Instant onboarding whilst reducing operational costs by 80%.
+
+Our end goal is to have a whole suite of AI workers that can handle manual compliance work for banks and fintechs. A $24B opportunity in the US alone.",https://www.arva.ai,S24,B2B,B2B,Artificial Intelligence; Fintech; B2B; Compliance; Regtech,5,Active,Early,13,T1:bank.*agent; T4:\bcompliance\b
+Conduit,conduit-2,Conversational AI agents for the built world,"Conduit is an AI agent platform that drives conversational outcomes.
+
+Customer conversations are the backbone of every business. Conduit turns them into an engine to optimize conversions, revenue, and cost savings.
+
+We're starting with housing and hospitality, where communication is the operation. Leasing, onboarding, scheduling, retention—it all runs on conversations. Conduit handles text and voice conversations with AI agents that perform like your best employee, but faster, more intelligent, and always on, while knowing exactly when to bring in a human.",https://www.conduit.app/,W24,B2B,B2B,Artificial Intelligence,10,Active,Early,13,T1:agent platform; T4:\bplatform\b
+Tesseral,tesseral,The open source platform for managing identity in business software,"Tesseral is the open source platform for managing identity and access in business software. It provides enterprise-grade capabilities, including SAML single sign-on, SCIM provisioning, role-based access control, managed API keys, and audit logs, implemented in just a few lines of code. 
+
+Tesseral unifies access management for employees, customers, services, and AI agents, giving organizations the flexibility to adapt to any deployment model and the authority to enforce security policies with precision.
+
+You can learn more by reading our docs at https://tesseral.com/docs or by checking out our GitHub at https://github.com/tesseral-labs/tesseral.",https://tesseral.com,Winter 2024,B2B,B2B,Developer Tools; SaaS; Security; Open Source; API,5,Active,Early,13,T4:\bplatform\b; T4:\bdeveloper tool; T4:\bapi\b; T4:\bidentity\b; T4:\bauth; T4:\bdeploy
+Salus,salus,Guardrails to validate your agent's actions before they execute,"Your agent processed a refund without looking up the order ID, costing you thousands. You only found out three hours later from a support ticket. Evals, output scoring, and observability can reduce the likelihood of mistakes like these occurring - but there's no solution that inspects and prevents an action as it’s about to execute. Salus does that.
+
+We’ve built an API that wraps around your agent and checks its actions at run time, blocking incorrect ones and providing immediate feedback to guide retries. Kevin and Vedant were roommates at Stanford, where they both studied computer science. ",https://www.usesalus.ai/,Winter 2026,B2B,B2B -> Infrastructure,Artificial Intelligence; Developer Tools; B2B; API; Infrastructure,2,Active,Early,12,T2:\bguardrail; T4:\binfrastructure\b; T4:\bdeveloper tool; T4:\bapi\b; T4:\bobservab
+Alt-X,alt-x,Automation for institutional-grade financial modeling in Excel,"Private-market investing still runs on Excel. Every year, trillions of dollars in venture, real estate, and private-equity capital are underwritten through manual spreadsheet work — copying data from PDFs, CIMs, and data rooms into brittle models that haven’t fundamentally changed in decades.
+
+Alt-X is building the AI infrastructure layer inside Excel for alternative assets. We ingest unstructured deal materials and automatically turn them into clean, auditable Excel models. Analysts can go from raw documents to a working underwriting model in minutes instead of rebuilding spreadsheets cell by cell.
+
+Alt-X extracts and maps key KPIs like ARR, growth, NOI, IRR, leverage, and cap rate directly into Excel, then generates institutional-grade models, sensitivities, and IC-ready outputs that remain fully editable and transparent.
+
+Teams using Alt-X reduce deal evaluation timelines by up to 70%, save 30–50 analyst hours per deal, and screen 4× more opportunities with the same headcount. By automating extraction, modeling, and error detection inside Excel, Alt-X turns underwriting from a manual bottleneck into a scalable workflow.
+
+Our first wedge is real estate and private equity, where Excel underwriting is slowest and most painful. We’re already piloting with family offices and private funds managing over $200M in assets. Alt-X is priced as a SaaS product starting at $30/month, with higher tiers for teams and advanced workflows.
+
+The opportunity is massive: over $1.4T in private-market deals are underwritten globally each year, with $25–30B spent on diligence and analytics — nearly all of it manual and Excel-based. Alt-X’s mission is to become the operating system for private-market investing inside Excel — the Bloomberg Terminal of the AI era.",https://alt-x.co,Fall 2025,Fintech,Fintech,Fintech; AI,2,Active,Early,12,T2:\bai infrastructure\b; T4:\binfrastructure\b; T4:\bworkflow\b; T4:\bautomation\b; T4:\bevaluat
+Golf,golf,Control layer for remote MCP servers,"With Golf MCP gateway you can move from local to remote servers, and stay in control over deployment.  Companies use Golf to deploy remote MCP servers, with full observability layer on top.",https://golf.dev/,X25,B2B,B2B -> Infrastructure,Artificial Intelligence; Developer Tools; Infrastructure,2,Active,Early,12,T2:\bmcp\b; T4:\binfrastructure\b; T4:\bdeveloper tool; T4:\bdeploy; T4:\bobservab
+Halluminate,halluminate,Data and RL environments to automate knowledge work,"We help foundation model labs and enterprises train computer use AI with data and sandboxes.
+
+A knowledge worker spends 90% of their day on a computer. A productive AI agent must similarly learn how to use our computers, browsers, and software to deliver real world value. 
+
+Today, browser and computer use AI is inaccurate, slow, and expensive. Model labs and enterprises who want to improve these agents are bottlenecked by two resources: 
+
+1) High quality datasets for benchmarking and evaluations
+2) Realistic sandbox environments for safe and accurate testing/training (ex. a simulated version of Salesforce) 
+
+Halluminate offers a suite of products and services to address both these issues. 
+
+Our evaluation service combines proprietary datasets with high quality annotations to help our customers identify and prioritize the biggest failure modes of their computer- and browser- use AI. 
+
+Our platform provides a catalog of fully managed sandboxes, empowering our customers to safely and accurately test/train at scale, resulting in improved performance. 
+
+Our customers see
+- Improved browser- and computer-use agent performance
+- New and emergent frontier agent capabilities
+- Data driven prioritization leading to exponentially faster development speed
+- Increased revenue/sales via marketing from public benchmarks
+
+Our paying customers already include leading computer use model labs and the two largest browser agent companies in the space. 
+
+Wyatt and Jerry are friends that met their first week of school studying CS at Cornell University. They’ve been working and studying together for 7+ years. 
+",https://halluminate.ai/,Summer 2025,B2B,B2B,,2,Active,Early,12,T2:\bcomputer use\b; T4:\bplatform\b; T4:\bsandbox\b; T4:\bevaluat; T4:\bbrowser\b
+truthsystems,truthsystems,Automatically blocking risky behavior with real-time governance agents,"Truth Systems provides a compliance agent to govern the use of generative AI. It translates operational policies into intelligent, real-time guardrails that monitor every AI interaction. This empowers companies to proactively block non-compliant actions and align access to AI tools with user competency. By eliminating the risks and operational blind spots associated with uncontrolled AI adoption, our platform enables enterprises to fully leverage the technology's potential without compromising security. 
+
+We are establishing the new standard for AI governance, building a future where every professional can innovate safely and confidently.",https://www.truthsystems.ai,Summer 2025,B2B,B2B -> Infrastructure,Artificial Intelligence; B2B,3,Active,Early,12,T2:\bguardrail; T4:\binfrastructure\b; T4:\bplatform\b; T4:\bcompliance\b; T4:\bmonitor
+Cyberdesk,cyberdesk,Self learning computer use agent for developers,"Cyberdesk is the first self learning computer use agent for developers to automate desktop workflows. 
+
+For example, one of our customers is building an AI agent for hospital patient intake, and they’re using us to automate an entire team of people manually clicking and typing into a desktop app to book appointments. 
+
+We launched mid July, and our agent is already operating in production environments, creating appointments in electronic health record apps and processing files in legacy ERPs.
+
+We’ve built the first computer use agent that memorizes tasks and repeats them quickly while still adapting to unexpected changes on the screen. A good analogy is to how humans use computers: once we get used to an app, we use it much faster, while still adapting to random popups and crashes. This new paradigm for computer use will be needed by every company automating human workflows on computers.
+
+Mahmoud previously built robotic process automation solutions impacting 20K+ employees at a Fortune 100 company. He also built AI & ML solutions at Baylor College of Medicine Neuroscience & Texas Children's Hospital + co-published a paper at the Rice Networks Group. 
+
+Alan is ex-NASA and previously dropped out to be the first founding engineer at a PearX startup. He is a second time founder, having previously built and scaled a consumer AI app to thousands of paying users.
+
+Computer-use agents will automate the $6T dollars spent on enterprise knowledge work and Cyberdesk will be the platform to power this.
+
+We’d love to talk with you!
+https://cal.com/mahmoud-al-madi-klrs5s/30min",https://www.cyberdesk.io,Summer 2025,B2B,"B2B -> Engineering, Product and Design",Artificial Intelligence; Developer Tools; Robotic Process Automation; Workflow Automation; Enterprise Software,2,Active,Early,12,T2:\bcomputer use\b; T4:\bplatform\b; T4:\bdeveloper tool; T4:\bworkflow\b; T4:\bautomation\b
+Trace,trace-so,Workflow automation that routes tasks to humans and AI,"Trace is a workflow automation platform that routes tasks to the right agent – human or AI. We enable enterprise-grade context and AI orchestration in mid-sized teams. 
+
+Trace breaks workflows into clear steps, sends repetitive tasks to AI agents, and routes the rest to the right people while respecting permissions and logging every action. 
+
+We help teams cut busywork and unify AI tools across departments – helping companies adopt AI in days rather than months.",https://www.trace.so/,Summer 2025,B2B,B2B -> Productivity,Artificial Intelligence; SaaS; B2B; Workflow Automation; Productivity,5,Active,Early,12,T2:\bai.*orchestrat; T4:\bplatform\b; T4:\bworkflow\b; T4:\bautomation\b; T4:\bcontext\b
+BrowserBook,browserbook,The Browser Automation IDE,"BrowserBook makes it easy to reliably automate the web. It's a Jupyter-style IDE for browser automation that combines a live browser, executable code cells, and an AI coding assistant to generate Playwright scripts that are deterministic by default. Developers use BrowserBook to build, debug, and deploy robust web automations, powering AI agents, QA workflows, and data operations.",https://www.browserbook.com,Fall 2024,B2B,B2B -> Productivity,Artificial Intelligence; Developer Tools; Robotic Process Automation; SaaS; Automation,3,Active,Early,12,T2:\bbrowser automation\b; T4:\bdeveloper tool; T4:\bdeploy; T4:\bautomation\b; T4:\bbrowser\b
+Keywords AI,keywords-ai,"LLM observability, prompt management, evals.","Keywords AI is used by 40+ fastest growing YC startups to ship reliable AI features really fast.
+
+Monitor and debug:
+- Request logging with full text search to monitor AI in prod
+- LLM agent tracing to debug workflows with ease
+- Metrics dashboard to understand usage, cost, latency, and get product growth metrics
+- User analytics to learn how every user is using your product
+
+Build and iterate:
+- Collaborative prompt management
+- Playground for 350+ models
+- Model gateway with OpenAI/Anthropic API interface
+- Eval & experiments",https://keywordsai.co,W24,B2B,"B2B -> Engineering, Product and Design",AIOps; Artificial Intelligence; Developer Tools; SaaS; Monitoring,4,Active,Early,12,T2:\bprompt management\b; T4:\bdeveloper tool; T4:\bapi\b; T4:\bmonitor; T4:\bobservab
+Tensol,tensol,"AI Employees for Startups, Built on OpenClaw","Tensol lets you deploy and manage AI employees for your team - built on OpenClaw. Your AI employee has full context of your company, is running 24/7 and can monitor Slack, track Sentry errors, update your CRM. We handle the setup and deployment of isolated VMs, no need for a Mac mini, a dedicated phone number or a devOps engineer.
+
+Tensol also lets you create specialized AI employees for different jobs, like engineering, sales, and support, from a simple UI. You can connect the tools your team already uses (Slack, GitHub, Sentry, HubSpot, Linear, Gmail, and more) with one-click integrations and a quick OAuth flow that takes about two minutes. Each AI employee also gets its own dedicated identity, so it can operate like a real teammate.",https://www.tensol.ai,Winter 2026,B2B,B2B -> Infrastructure,Artificial Intelligence; B2B; Productivity; Enterprise Software,2,Active,Early,11,T4:\binfrastructure\b; T4:\bidentity\b; T4:\bdeploy; T4:\bmonitor; T4:\bcontext\b
+RunAnywhere,runanywhere,The default way of running On-Device AI at Scale,"Edge AI is inevitable, but shipping it is painful: every device class behaves differently, runtimes vary, models are huge, and performance collapses under memory/power constraints. RunAnywhere turns that into an enterprise-ready workflow: one SDK to run models on-device, plus a control plane to manage models, enforce policies, and measure outcomes across thousands of devices.",https://www.runanywhere.ai/,Winter 2026,B2B,B2B -> Infrastructure,Artificial Intelligence; Developer Tools; IoT; Open Source; Enterprise,2,Active,Early,11,T4:\binfrastructure\b; T4:\bdeveloper tool; T4:\bsdk\b; T4:\bworkflow\b; T4:\bmemory\b
+Sonarly,sonarly,The AI engineer for production,"We’d like to automate monitoring. To advance that mission, we’re building Sonarly.
+
+Software has two phases: build time and run time. Coding agents are getting great at build time, but production is still a mess of charts, logs, and noisy alerts. Sonarly triages production alerts, deduping - prioritizing, and attaching the missing context - so teams can trust what pages them and fix the right issue fast. As you deploy new code, Sonarly keeps alerts and investigations up to date automatically.",https://sonarly.com,Winter 2026,B2B,"B2B -> Engineering, Product and Design",Developer Tools; Generative AI,2,Active,Early,11,T4:\bdeveloper tool; T4:\btrust\b; T4:\bdeploy; T4:\bmonitor; T4:\bcontext\b
+Bear,bear,Marketing Stack for AI Agents,"Bear helps companies capture and convert the highest-intent leads on the internet - visitors clicking from ChatGPT, Perplexity, and other AI agents. Bear owns the entire funnel from agent discovery to conversion. ",https://usebear.ai,Fall 2025,B2B,B2B -> Marketing,Generative AI; SaaS; B2B,2,Active,Early,11,T1:for ai agents
+Parachute,parachute,Infrastructure for hospitals to monitor and deploy clinical AI ,"Parachute helps hospitals adopt AI safely and at scale. We vet AI tools that fill clinical gaps, run state-of-the-art evaluations, monitor every model for drift and compliance, and lock every decision in an immutable audit trail.",https://parachute-ai.com,Summer 2025,Healthcare,Healthcare -> Healthcare IT,SaaS; Health Tech; B2B; Healthcare IT; AI,2,Active,Early,11,T4:\binfrastructure\b; T4:\bcompliance\b; T4:\bdeploy; T4:\bmonitor; T4:\bevaluat
+Floot,floot,The easiest way for non-coders to build apps with AI.,"Floot lets non-coders & entrepreneurs build real web apps that actually work. We’re taking a new approach by building everything from the ground up for AI.
+
+✨ Try building an app at floot.com
+
+Existing AI app builders fall short of enabling non-coders to build real, serious apps. They often:
+- Break down when building anything more than a prototype or toy app
+- Have non-coders stuck with errors they don’t understand
+- Require non-coders to handle multiple services designed for developers (e.g. for backend, database, hosting, etc)
+
+The fundamental problem: these AI app builders just cobble together existing developer tools and slap AI on top, but these tools were designed for humans and not for AI.
+
+The result? Non-coders get excited, start building, hit a wall, and then abandon their projects.
+
+Floot is purpose-built for AI. Our secret sauce:
+
+1) Instead of reusing a coding framework designed for humans, we created a specialized framework that dictates how AI should write code and how the code runs on our infrastructure. This allows us to enforce best practices, detect errors earlier, and give the best feedback to the AI. As a result, Floot can write better code and fix issues more effectively.
+
+2) Floot has the entire tech stack built-in (backend, database, hosting, etc) so building and managing an app feels seamless, especially for non-coders. And because we control every layer of the stack, we can optimize each layer for AI-first coding.
+
+Because of this, non-coders can get more done with less time and prompting. They can finally build serious apps that work, instead of getting stuck in frustrating error loops and then abandoning their projects.
+
+We also built a highly scalable hosting system directly on AWS so Floot apps can handle real traffic and business demands. This means non-coders can build, deploy, and scale their apps on a single platform seamlessly.
+
+Plus, Floot is really fun to use! Try building an app at floot.com",https://floot.com,Summer 2025,B2B,"B2B -> Engineering, Product and Design",Artificial Intelligence; SaaS; No-code; Web Development,2,Active,Early,11,T4:\binfrastructure\b; T4:\bplatform\b; T4:\bdeveloper tool; T4:\bframework\b; T4:\bdeploy
+F2,f2,The AI platform for private markets investors,"F2 is the AI platform for private markets investors. Purpose-built for private credit, private equity, and commercial banking, F2 accelerates diligence, underwriting, and portfolio monitoring, helping teams evaluate deals over 60% faster. 
+
+F2 turns unstructured deal data into investment-grade analysis and polished memos in minutes. Unlike general-purpose AI, F2 is built with the domain expertise and depth to handle the most complex financial analysis. Already trusted across thousands of deals, F2 makes collaboration easy and retains historical context, so past work compounds into future wins. 
+
+Headquartered in New York City, F2 is backed by leading investors including NFX, Left Lane Capital, and Y Combinator. ",http://f2.ai,Summer 2025,B2B,"B2B -> Engineering, Product and Design",AI,20,Active,Early,11,T4:\bplatform\b; T4:\bbanking\b; T4:\bmonitor; T4:\bevaluat; T4:\bcontext\b
+Cekura,cekura-ai,Voice AI and Chat AI agents: Testing and Observability,"Cekura helps Conversational AI companies with automated QA. From pre-production simulation and evaluations to production call monitoring, to assisting customers in setting up the CI/CD pipeline, we help in QA across the agent lifecycle.
+
+We are working with 75+ customers across healthcare, BFSI, logistics, recruitment, and retail. Some of the largest CCAS players and enterprises use Cekura to ship AI voice and chat agents reliably ",https://www.cekura.ai/,Fall 2024,B2B,"B2B -> Engineering, Product and Design",Developer Tools; SaaS; B2B,15,Active,Early,11,T4:\bdeveloper tool; T4:\bmonitor; T4:\bobservab; T4:\bevaluat; T4:\bpipeline\b
+Cosmic,cosmic-new,"Build, monetize, and deploy full-stack websites in minutes","The AI platform that has everything you need to build, monetize, and deploy full-stack websites in minutes. 
+
+Beautiful UIs, auth, database, payment processing, deployments, and more natively integrated in one place.",https://www.cosmic.new/,Fall 2024,B2B,B2B,Developer Tools; Generative AI; Web Development; AI,2,Active,Early,11,T4:\bplatform\b; T4:\bdeveloper tool; T4:\bpayment; T4:\bauth; T4:\bdeploy
+Storia AI,storia-ai,Open source AI copilot that knows your company's code and its context,"With AI increasingly automating away code generation, software engineers will spend more time reading, judging, and architecting code rather than writing it. Storia is building an open-source copilot that knows a company's codebase and its context.
+
+We are starting with Sage, a Perplexity-like agent for helping developers understand, judge, and generate software. Given an existing codebase, developers can ask Sage questions such as:
+1) Given my project’s SLA and latency constraints, what is the appropriate underlying vector database to use? How would I incorporate it into my existing codebase?
+2) Why should I pick Redis over Milvus as my underlying vector store?
+3) Does this codebase in our organization still work and what steps are required for a complex integration with another library?
+
+Sage’s answers are directly supported by documentation and external references like GitHub, Stack Overflow, technical design documents, and project management software, preventing hallucinations. Today, Sage has up-to-date knowledge about open-source repositories (indexed daily). Tomorrow it will have a deep understanding of every line of code on the Internet. For teams, Sage will know about your private codebase too.
+
+No group has yet solved how to build an AI system that comprehends a codebase and its context and can empower every developer to architect better code, faster. This requires new research advances because vanilla RAG and out-of-the-box LLMs aren’t going to cut it. 
+
+We have 20+ years of software engineering and AI research experience. Julia worked on precursors of Gemini using contextual neural techniques before they were called “RAG” (and applied it to products like Google Keyboard and Pixel phones). Mihail built the earliest LLMs at Amazon Alexa and launched the first contextual deep learning conversational AI system in production at Alexa.
+",https://storia.ai,S24,B2B,"B2B -> Engineering, Product and Design",Artificial Intelligence; Developer Tools; Machine Learning; SaaS,2,Active,Early,11,T2:\bvector database\b; T2:\brag\b; T4:\bdeveloper tool; T4:\bcontext\b
+Guardian AI,guardian-ai,Helping healthcare providers fight insurance denials.,"Guardian is an AI platform to help healthcare providers (hospitals, MSOs, physician groups) fight denials and address unpaid claims. Providers deploy Guardian to:
+
+1. Detect emerging patterns in payer reimbursements
+2. Automate the diagnosis and resolution of unpaid claims and denials",https://www.withguardian.ai/,S24,Healthcare,Healthcare,Artificial Intelligence; Health Tech; Workflow Automation,2,Active,Early,11,T4:\bplatform\b; T4:\binsurance\b; T4:\bdeploy; T4:\bworkflow\b; T4:\bautomation\b
+Zimi,zimi,AI automating post-purchase operations and support for e-commerce,"E-commerce brands rely on disconnected, outdated systems to manage everything after the buy button. From fulfillment and inventory to returns, customer support, and shipment tracking, post-purchase operations are messy, manual, and expensive to scale. Zimi replaces the tangle of disconnected tools with one intelligent system that runs everything after the buy button.
+
+Despite billions spent on e-commerce tech, post-purchase operations remain a black hole—leading to delays, unhappy customers, and skyrocketing support costs. Legacy ERPs are slow, customer service tools are reactive, and logistics platforms don’t connect to CX systems—forcing brands to patch things together with manual work and multiple tools.
+
+Zimi solves this with a single platform that connects 147+ tools and sales channels to centralize data, automate workflows, and power AI agents that proactively resolve issues before customers even ask. Brands use Zimi to route orders intelligently, manage inventory across multiple 3PLs, reduce returns friction, and deliver world-class customer experiences—without the operational chaos.
+
+We built Zimi after watching high-growth brands lose time, money, and trust trying to scale with tools that were never designed to work together. Our founding team has deep experience across e-commerce, logistics, and SaaS, and we're building the post-purchase infrastructure every modern brand will need to compete.
+",https://www.withzimi.com,S24,B2B,B2B -> Supply Chain and Logistics,SaaS; B2B; Workflow Automation; E-commerce; AI,2,Active,Early,11,T4:\binfrastructure\b; T4:\bplatform\b; T4:\btrust\b; T4:\bworkflow\b; T4:\bautomation\b
+Patched,patched,Open-source workflow automation for dev teams,"Patched empowers development teams to build and deploy AI-assisted workflows that can autonomously complete post-code tasks like documentation, code reviews, and security patching. Our workflows can be customized using a visual builder and can be self-hosted with any AI model, enabling automation without compromising security, control, or compliance.",https://patched.codes,S24,B2B,B2B -> Productivity,Developer Tools; B2B; Open Source; AI,2,Active,Early,11,T4:\bdeveloper tool; T4:\bcompliance\b; T4:\bdeploy; T4:\bworkflow\b; T4:\bautomation\b
+PathPilot,pathpilot,AI platform helping Customer Experience teams scale efficiently,"We empower CX teams to deploy AI agents, evaluate 100% of conversations for quality, and accelerate automation — all without needing engineering resources. Whether companies are just starting with AI or already using automation, PathPilot improves agent performance, reduces costs, and ensures the quality and compliance required for high-stakes industries like fintech and gaming.",https://www.getpathpilot.com/,S24,B2B,B2B,Artificial Intelligence; SaaS; B2B; Customer Support,3,Active,Early,11,T4:\bplatform\b; T4:\bcompliance\b; T4:\bdeploy; T4:\bautomation\b; T4:\bevaluat
+Stilta,stilta,Cursor for patent practitioners,"Stilta is the AI-native software for patent practitioners, built on agentic workflows to amplify how IP work is done end-to-end. Instead of spending weeks manually researching and drafting patents, practitioners can reduce manual work by up to ~50% while enabling new revenue streams.
+
+Innovation is key to solving the world’s most important challenges, but the tools to protect innovation haven’t kept up. Patent teams are stuck doing high-stakes work with a process built around manual document review and disconnected point solutions. Existing tools are rigid and fail by not integrating AI with clear traceability (every output must be source-backed, referenced, and auditable). General LLM solutions generate text, but they don’t solve trust and integration in legal-grade workflows.
+
+We’re four engineers from McKinsey/QuantumBlack who’ve spent the last few years building and deploying AI for large organizations. Now we are building Stilta because the practitioners protecting the world’s most valuable ideas deserve tools that match the stakes. We’re already live with paying customers in both Europe and the US. ",https://stilta.com,Winter 2026,B2B,B2B,LegalTech; AI,4,Active,Early,10,T2:\bagentic\b; T4:\blegal\b; T4:\btrust\b; T4:\bdeploy
+Shofo,shofo,Common Crawl for Videos,"Shofo builds large-scale social media training datasets by collecting, labeling, and enriching public content for pre-training and fine-tuning AI models. Our indexes continuously collect and update every video across hard to access social media platforms. Companies use Shofo to avoid building their own data collection and processing systems and spending months turning unstructured social content into model-ready data. We started with TikTok and are expanding across every major social platform.",https://shofo.ai/,Winter 2026,B2B,B2B -> Infrastructure,Social Media; API; Data Labeling; Big Data; AI,4,Active,Early,10,T2:\bfine-tun; T4:\binfrastructure\b; T4:\bplatform\b; T4:\bapi\b
+Bolna AI,bolna-ai,Voice AI to enable India's next billion,"Bolna handles the complexity of voice infra, so enterprises can automate calls faster, better, and cheaper, at scale
+
+Bolna is a Voice AI Orchestration platform purpose-built for Indian enterprises.
+Businesses in India run tens of thousands of calls every day - across sales, support, collections, recruitment, and more. Bolna gives them the power to build and deploy Voice AI Agents directly from their transcripts and FAQs, so they can start automating calls immediately.
+
+With Bolna, enterprises get:
+
+1. Full control over agent intelligence, tone, and workflows
+2. Cost efficiency at scale with smart routing across providers and price points
+3. Enterprise-grade performance on latency, interruptions, multi-language, and multi-accent understanding
+
+",https://bolna.ai,Fall 2025,B2B,B2B,Artificial Intelligence; B2B; Infrastructure; Conversational AI,5,Active,Early,10,T2:\bai.*orchestrat; T4:\binfrastructure\b; T4:\bplatform\b; T4:\bdeploy
+Unsiloed AI,unsiloed-ai,API for parsing multimodal unstructured data,"AI teams spend 6+ months building document workflows, yet fewer than 10% ever reach production. Generic LLM parsers and OCR collapse on multimodal documents with text, tables, images, and charts. Poor parsing and suboptimal chunking cripple RAG pipelines and downstream automation. Unsiloed AI has built state-of-the-art vision models which serves as the infrastructure layer for turning unstructured data into structured, queryable, and LLM-ready assets.
+
+Our APIs are already parsing hundreds of thousands of documents for startups and NASDAQ-listed enterprises, powering vertical AI solutions across industries. On public benchmarks, Unsiloed AI consistently outperforms solutions from LlamaIndex, Gemini, Mistral, and Unstructured.io among others.",https://www.unsiloed.ai/,Fall 2025,B2B,B2B,Artificial Intelligence; B2B; Infrastructure; APIs,2,Active,Early,10,T2:\brag\b; T4:\binfrastructure\b; T4:\bapi\b; T4:\bautomation\b
+Klavis AI,klavis-ai-2,Open source MCP clients and Servers,"Build an open source Model Context Protocol (MCP) platform & SDK that simplifies using, creating, and scaling MCPs.",https://www.klavis.ai/,X25,B2B,Unspecified,Artificial Intelligence; Open Source,2,Active,Early,10,T2:\bmcp\b; T4:\bplatform\b; T4:\bsdk\b; T4:\bcontext\b
+Moby Analytics,moby-analytics,AI financial auditors,"At Moby Analytics, we provide the first AI agentic platform built for financial auditors. Auditors easily create and deploy AI agents to automate audit workflows. No code, just prompts and domain expertise.",https://www.mobyanalytics.com/,Spring 2025,B2B,B2B -> Finance and Accounting,Artificial Intelligence; Automation,4,Active,Early,10,T2:\bagentic\b; T4:\bplatform\b; T4:\bdeploy; T4:\bautomation\b
+Cotool,cotool,AI Agents for Security Operations Teams,"Cotool is an agentic security platform that eliminates manual and repetitive work for security teams.
+
+Today’s cybersecurity teams remain bogged down by alert fatigue, context switching, and documentation overhead. Security teams don't need more dashboards with ""AI-powered insights"" — they need their time back.
+
+Cotool empowers teams to build security their way. Our platform provides an AI co-pilot that automatically assembles context across tools, a no-code agent builder that transforms successful investigations into reusable automations, and automated report generation, providing comprehensive documentation in seconds.
+
+Unlike solutions that force teams to adapt to vendor workflows, Cotool puts the power of AI directly in practitioners' hands, letting them shape tools around their unique processes. Early users have already cut time spent on investigation and detection engineering by 70%.",https://cotool.ai,Spring 2025,B2B,B2B -> Security,SaaS; Compliance; Security; Cybersecurity,3,Active,Early,10,T2:\bagentic\b; T4:\bplatform\b; T4:\bcompliance\b; T4:\bcontext\b
+TectoAI,tectoai,A Platform for AI Governance,"We help your company identify roles that can be filled by agentic AI tools, onboard them quickly, monitor their performance and behavior post deployment, ensure they remain compliant, and aligned with regulations. Tecto is building the governance platform for managing the AI stack! ",https://www.tecto.ai/,Summer 2025,B2B,B2B,Artificial Intelligence,2,Active,Early,10,T2:\bagentic\b; T4:\bplatform\b; T4:\bdeploy; T4:\bmonitor
+Asteroid,asteroid,Browser agents for regulated industries,"Asteroid builds and hosts browser AI agents for complex tasks. With built-in guardrails, evaluations and human oversight, we ensure enterprise-grade reliability across millions of operations in regulated industries.",https://asteroid.ai,W25,B2B,B2B,Artificial Intelligence; Robotic Process Automation; B2B; Automation; AI,2,Active,Early,10,T2:\bguardrail; T4:\bautomation\b; T4:\bevaluat; T4:\bbrowser\b
+Confident AI,confident-ai,Open-Source Unit Testing for LLM Applications,"Confident AI allows companies of all sizes to benchmark, safeguard, and improve LLM applications, with best-in-class metrics and guardrails powered by DeepEval. Built by the creators of DeepEval (4.3k stars, >400k monthly downloads), Confident AI is able to offer battle-tested, open-source evaluation algorithms while providing the infrastructure needed for teams to stay confident their LLM systems.",https://confident-ai.com,W25,B2B,"B2B -> Engineering, Product and Design",Artificial Intelligence; Developer Tools; Generative AI; Open Source,2,Active,Early,10,T2:\bguardrail; T4:\binfrastructure\b; T4:\bdeveloper tool; T4:\bevaluat
+Exla,exla,An SDK to run transformer models anywhere,"Exla aggressively quantizes AI models to minimize memory usage and maximize inference speed. Whether you're deploying LLMs, VLMs, VLAs, or custom models, Exla reduces memory footprint by up to 80% and accelerates inference by 3–20x - all with just a few lines of code.
+
+https://cal.com/exla-ai/schedule",https://exla.ai/,W25,B2B,"B2B -> Engineering, Product and Design",Edge Computing Semiconductors; Computer Vision; AI,0,Active,Early,10,T2:\binference\b; T4:\bsdk\b; T4:\bdeploy; T4:\bmemory\b
+Fira,fira,Agentic AI platform for investment firms,"Fira is a financial research assistant that helps investment analysts spend less time on company research. It instantly searches and analyzes thousands of pages of unstructured company filings and earnings reports to provide source-cited answers and verifiable financial calculations.
+
+Our mission is to create a financial AI co-worker deeply integrated into both internal and external data source. It will help with research and analysis, generating investment documents, and workflow automation. This will eventually allow investment professionals to spend less time on manual tasks and focus more on building relationships and making decisions.",https://firaresearch.com/,W25,B2B,B2B -> Finance and Accounting,Generative AI; B2B; Market Research; AI; AI Assistant,2,Active,Early,10,T2:\bagentic\b; T4:\bplatform\b; T4:\bworkflow\b; T4:\bautomation\b
+Circlemind,circlemind,Circlemind is an open-source RAG using knowledge graphs and PageRank.,"Circlemind is developing the next-generation of memory systems for AI that surpasses current Retrieval Augmented Generation (RAG) methods. Our technology based on Knowledge Graphs and PageRank, allows for efficient, interpretable, and context-aware reasoning and retrieval.",https://circlemind.co,F24,B2B,"B2B -> Engineering, Product and Design",Artificial Intelligence; Deep Learning; Developer Tools; Generative AI; SaaS,3,Active,Early,10,T2:\brag\b; T4:\bdeveloper tool; T4:\bmemory\b; T4:\bcontext\b
+VortexifyAI,vortexifyai,Build AI applications and automations for supply chain operations,"Vortexify AI is a platform for building fully operational AI workflows tailored to supply chain operations. Deploy specialized, task-specific AI bots in days — not weeks. Our platform streamlines the creation of AI bots that can analyze millions of data rows, manage complex, long-horizon processes, and collaborate seamlessly with humans in the loop.
+
+Each AI bot comes equipped with custom tools maintained through AI-powered code editors directly within the Vortexify platform. Development teams can instantly generate dashboards, data pipelines, machine learning models, and custom functions — all contextualized to business goals and data requirements.
+
+Bots can operate in Co-pilot or Agent (autonomous) mode. They can be scheduled or triggered by real-time alerts and are governed by robust, natural language-generated guardrail templates that ensure safety, compliance, and reliability.",https://www.vortexify.ai,Fall 2024,B2B,B2B -> Supply Chain and Logistics,IoT; Supply Chain; Data Science; AI; AI Assistant,3,Active,Early,10,T2:\bguardrail; T4:\bplatform\b; T4:\bcompliance\b; T4:\bdeploy
+Outerport,outerport,Compare documents and clarify business processes with AI,"Outerport helps AI read documents the way a researcher would - building up understanding section by section and checking facts along the way, instead of just matching similar phrases. For example, when a team needs to confirm a specific requirement in a 200-page compliance policy document, Outerport pinpoints the right section, provides the reasoning, and presents a fact-based summary. It can leverage this deep understanding to perform more complex tasks over documents, like comparative gap analysis and change tracking.
+
+Outerport is built for performance- run thousands of queries against your critical documents, with reasoning behind every retrieval. No more faulty vector RAG.",https://outerport.com,S24,B2B,B2B -> Infrastructure,AIOps; Developer Tools; SaaS; Infrastructure; AI,2,Active,Early,10,T2:\brag\b; T4:\binfrastructure\b; T4:\bdeveloper tool; T4:\bcompliance\b
+Reducto,reducto,The most accurate API to parse documents,"Reducto offers robust and reliable document ingestion for any workflow. Our API allows you to convert complex, unstructured documents into structured outputs that are perfect for RAG, process automation, and more. ",https://reducto.ai,W24,B2B,"B2B -> Engineering, Product and Design",Documents; Data Engineering; Enterprise Software; Search; AI,14,Active,Early,10,T2:\brag\b; T4:\bapi\b; T4:\bworkflow\b; T4:\bautomation\b
+Markprompt,markprompt,AI for customer support,"Close customer support tickets faster with AI.
+
+We’re building AI infrastructure to power customer support at scale. With Markprompt, companies can automate customer support, scale without increasing headcount, and deliver exceptional user experiences.
+ 
+Scaling customer support with headcount is expensive, with human resources accounting for 90%+ of customer support expenses. On top of that, customer support agents often burn out leading to turnover and reduced quality. As companies grow, so does their expert knowledge, which is hard to access at scale and makes keeping employees up-to-date nearly impossible.
+
+Markprompt addresses the root of the information access problem by indexing all available knowledge within a company, setting the foundation for a robust system of record to feed the AI. Built from the ground up with an API-first approach, Markprompt provides SDKs (such as React hooks and components) and no-code tools to enable integrations at all touchpoints in the customer journey.",https://markprompt.com,W24,B2B,B2B -> Infrastructure,Developer Tools; Customer Support; Infrastructure; AI; AI Assistant,3,Active,Early,10,T2:\bai infrastructure\b; T4:\binfrastructure\b; T4:\bdeveloper tool; T4:\bapi\b
+Trieve,trieve,"All-in-one API for search, RAG, & recommendations","Infrastructure for search teams building retrieval and RAG. Trieve combines search language models with tools for tuning ranking and relevance.
+
+Building excellent search is difficult and can take months to implement then even more time to maintain. Trieve offers production-ready infrastructure that works out of the box to help search teams build adjustable AI search and RAG into their products. With tools for custom models, relevancy weighting, date-recency biasing, semantic full-text hybrid search, recommendations, and more Trieve covers the full spectrum of what a team wants from their discovery infrastructure. ",https://trieve.ai,W24,B2B,B2B -> Infrastructure,Developer Tools; Open Source; API; Search; AI,7,Active,Early,10,T2:\brag\b; T4:\binfrastructure\b; T4:\bdeveloper tool; T4:\bapi\b
+Chunkr,chunkr,Open source API service to parse complex documents,"Battle-tested + highly modular vision infrastructure to convert PDFs, PPTs, Word, Excel, PNG, and JPEGs into LLM-ready data. 
+
+We started by building lumina.sh - where we needed to parse ~600M pages of scientific literature. The researchers didn't care - but devs wanted our ingestion pipeline. So we built chunkr instead. 
+
+We offer high quality layout analysis, OCR, bounding boxes, granular VLM controls, semantic chunking, and all the last mile engineering that goes into building standout AI applications. Common use-cases include RAG, and automating document workflows like invoices/medical reports -> database.
+
+
+
+",https://chunkr.ai/,W24,B2B,B2B,,3,Active,Early,10,T2:\brag\b; T4:\binfrastructure\b; T4:\bapi\b; T4:\bpipeline\b
+Vibrant Labs,vibrant-labs,RL environments for long horizon AI Agents,We work on benchmarking and improving the long-horizon capabilities of AI Agents. We build out specialised environments to improve the long-horizon capabilities of browser and computer use agents. ,https://vibrantlabs.com/,Winter 2024,B2B,B2B -> Infrastructure,Artificial Intelligence; Developer Tools; Generative AI; Open Source,2,Active,Early,10,T2:\bcomputer use\b; T4:\binfrastructure\b; T4:\bdeveloper tool; T4:\bbrowser\b
+Velum Labs,velum-labs,Firewall that controls access to information across AI and humans,"Velum is an open-source firewall for content-level access control across documents, databases, and applications. Admins define policies, and we apply them in real time across your entire stack to control what each recipient sees.
+
+Our firewall sits between your data sources and consumers (LLMs, users, vendors), enforcing policies on every request. We understand meaning in text, documents, and databases to detect sensitive information based on your policies, then apply recipient-specific controls without blocking workflows.
+
+Create policies in natural language. Teams write rules that define what's sensitive and who should access it, and Velum enforces them consistently across all systems. When authorization changes, we can reveal tokenized data just-in-time for approved recipients, maintaining both security and utility.
+
+We integrate directly into your existing infrastructure. For AI workflows, we intercept prompts, responses, and retrievals to prevent sensitive information from leaking into or out of models. For enterprise systems like Salesforce, SAP, or Workday, we extend policy enforcement to exports, reports, and syncs.
+
+Velum is designed for scale and compliance. We provide encryption and structure-preserving tokenization for high-throughput pipelines, with multi-cloud deployment options and configurable data residency per tenant to meet your compliance requirements.",https://www.velum-labs.com/,Winter 2026,B2B,B2B,Machine Learning; Security; Open Source; Privacy,2,Active,Early,9,T4:\binfrastructure\b; T4:\bauth; T4:\bcompliance\b; T4:\bdeploy
+Ruma Care,ruma-care,We help clinics get patients on biologics faster,"Ruma Care automates prior authorizations - we’re starting with clinics that administer the most expensive specialty medications.
+
+Biologics are expensive medications that cost $80-$150K+ per year per patient, and often need to be administered in specific settings called infusion clinics. Medical providers buy these drugs up front to secure pricing deals and safer inventory - they are reimbursed for the cost of the medications through the patients’ insurance. 
+
+Because they’re so expensive, these specialty medications are denied by insurers at a rate of 37% each year. When they are denied, providers don’t get reimbursed for the medication and are left covering the costs. Ruma Care solves this so clinics get paid, patients get treated faster, and care teams spend less time fighting insurance. 
+
+We do this in three ways: 
+1. For each medication, diagnosis, and insurance combination, Ruma extracts the submission criteria required to get the drug approved by insurers. 
+2. We pull out the correct forms, then automate the form-filling for prior authorizations. 
+3. Lastly, we enroll patients in copay assistance programs, all in one workflow and platform. 
+
+We turn a process that traditionally spans 70+ online portals, disparate paper forms, and manual phone calling into a single, streamlined platform. As we process prior authorizations, our models learn from denial patterns to understand exactly what insurers need to see to get a prior authorization approved. ",https://rumacare.com,Winter 2026,Healthcare,Healthcare,Healthcare; AI,2,Active,Early,9,T4:\bplatform\b; T4:\bauth; T4:\binsurance\b; T4:\bworkflow\b
+OctaPulse,octapulse,Robotics and computer vision to automate fish farming from hatchery…,"OctaPulse uses AI vision to automate hatchery QA for fish farms, starting with broodstock phenotyping and juvenile deformity inspection. We cut inspection time from about 5 minutes to under 30 seconds per fish, with more than 90 percent accuracy, so farms advance only high quality fish and waste less feed and labor. Our goal is to bring automation across the entire fish production lifecycle for the $300B aquaculture industry.
+
+Aquaculture is the fastest growing food sector, and has already surpassed commercial fishing for production of seafood. Yet two of the most critical QA and QC steps in fish production are still done by hand: phenotyping and deformity inspection. These processes are slow, error prone, and despised by technicians but vital for the success of the farm, so much so that farms spend >$200K a year on trained technicians and geneticists to operate. We’ve built an AI vision platform for vertically integrated finfish farms that drops into existing workflows starting in the hatchery, uses off the shelf cameras, standardizes these QA steps, and creates a proprietary multi species dataset that becomes the brain for future autonomous aquafarms. Phenotyping is the start, but the platform is designed to be a drop in solution that can easily expand into feeding, health monitoring, and processing so we can solve production problems across the lifecycle.
+
+ We signed a 6-figure paid pilot with the largest trout producer in the United States, are deploying into 2 more farms early 2026, and trained models above 90 percent accuracy while cutting inspection time from 5 minutes to under 30 seconds. Each deployment adds labeled images to our dataset and improves cross species generalization.
+",https://www.tryoctapulse.com/,Winter 2026,Industrials,Industrials -> Climate,Robotics; Computer Vision; Food Tech; Maritime,2,Active,Early,9,T4:\bplatform\b; T4:\bdeploy; T4:\bmonitor; T4:\bautomation\b
+Unisson,unisson,The AI product specialist for customer-facing teams,"Unisson is building trusted AI subject-matter experts for teams that are responsible for customer deployments (technical customer success, implementation, sales engineering). Within 20 minutes, our agents learn to use any product and can be used by teams in Slack, text, or email. Our agents gather requirements and context from existing tools enabling them to handle complex tasks like customer health audits, onboarding, product administration, and custom integrations. 
+
+With Unisson, customer-facing teams have 24/7 access to an AI SME, allowing them to scale and save thousands of hours every month. ",https://www.unisson.ai,Winter 2026,B2B,B2B -> Productivity,Workflow Automation; Enterprise Software; AI,2,Active,Early,9,T4:\bdeploy; T4:\bworkflow\b; T4:\bautomation\b; T4:\bcontext\b
+Jinba,jinba,Automate any enterprise workflow through chat,"Jinba lets enterprise teams vibe-code AI workflows instead of drag and drop. Describe what you need in plain language, and your whole company can start using it immediately. No engineers required. Enterprise-grade permissions, audit logging, and on-prem deployment built in. We serve 40,000 enterprise users at major financial institutions.
+
+Build something your colleagues want.",https://jinba.io,Winter 2026,B2B,B2B,Developer Tools; B2B; Workflow Automation; Enterprise; Enterprise Software,4,Active,Early,9,T4:\bdeveloper tool; T4:\bdeploy; T4:\bworkflow\b; T4:\bautomation\b
+Maven,maven,Payment infrastructure built for voice,"Infrastructure for voice-native commerce. Add secure, conversational checkout to AI agents with a single API.",https://www.trymaven.com,Winter 2026,B2B,B2B,Developer Tools; Fintech; SaaS; Conversational AI,2,Active,Early,9,T4:\binfrastructure\b; T4:\bdeveloper tool; T4:\bapi\b; T4:\bpayment
+MOVEdot,movedot,AI Agents for Hardware Engineering,"Our agents run hardware engineering tasks that normally take hours or days in just a few minutes, allowing engineers to process 100x more data and information. Our platform allows hardware engineers to orchestrate agents for tasks such as analyzing failures across entire test campaigns, pulling the right data and KPIs from their databases, checking how conditions (like temperature or load) affect performance and reliability, and then document findings in reports and dashboards.",https://www.movedot.ai/,Fall 2025,B2B,"B2B -> Engineering, Product and Design",Hardware; Manufacturing; AI; Automotive; Industrial,10,Active,Early,9,T2:\borchestrat.*ai\b; T2:\bai.*orchestrat; T4:\bplatform\b
+The Context Company,the-context-company,Monitor AI agents and understand user behavior,"Understand user patterns and find silent failures in your AI agents.
+
+The Context Company helps teams analyze AI agent conversations to surface user behavior patterns, performance trends, and moments where agents struggle - so teams know what’s working, what’s not, and what to improve next.
+
+We turn raw conversations into structured signals: topic clustering, user feedback analysis, custom pattern tracking, and alerts. All alongside traditional observability like traces, tool calls, latency, and costs.
+
+Get started in less than 10 lines of code.",https://thecontext.company,Fall 2025,B2B,"B2B -> Engineering, Product and Design",Artificial Intelligence; Developer Tools; B2B; Analytics; Monitoring,2,Active,Early,9,T4:\bdeveloper tool; T4:\bmonitor; T4:\bobservab; T4:\bcontext\b
+Hypercubic,hypercubic,AI to maintain and modernize COBOL.,"Hypercubic is an AI-native maintenance and modernization platform for COBOL and mainframes.
+
+We help enterprises understand and preserve their mission-critical legacy systems. About 70% of the Fortune 500 companies still rely on them to run their core business applications in banking, insurance, telecom, airlines, retail, and more.
+
+These systems, originally built in the 1960s–90s, still power trillions in global infrastructure today but have become increasingly opaque as original developers retire or leave the workforce. 
+
+We're laying the foundation to autonomously maintain and modernize these legacy systems to future-proof the backbone of the global economy.
+
+
+Learn more at hypercubic.ai",https://www.hypercubic.ai/,Fall 2025,B2B,B2B,,2,Active,Early,9,T4:\binfrastructure\b; T4:\bplatform\b; T4:\bbanking\b; T4:\binsurance\b
+MarkIt,markit,AI Agents for Trade Compliance - Saving Companies from Tariffs,"MarkIt builds AI agents that work directly inside the workflows trade professionals use every day — Excel, PDFs, broker portals, and more. 
+From defensible classification, ACE report audits, and a self-updating system of record, it serves trade professionals end to end with agents intelligent enough to work in the complex environment. 
+
+MarkIt brings reasoning, memory, and automation to global trade compliance, helping Suppliers, Brokers, and OEMs reduce errors, save time, and streamline operations in the growingly intense world of Global Trade.",https://markittrade.com,Fall 2025,B2B,B2B -> Supply Chain and Logistics,Workflow Automation; Logistics; Supply Chain; AI,2,Active,Early,9,T4:\bcompliance\b; T4:\bworkflow\b; T4:\bautomation\b; T4:\bmemory\b
+Capacitive,capacitive,The enterprise data gateway company.,"Enterprise AI without your internal data is like a computer without internet. When vital information is scattered across Slack, Notion, and Salesforce, AI tools can't deliver. And connecting dozens of those tools directly to your systems introduces significant security vulnerabilities and maintenance challenges.
+
+Capacitive offers a better way: connect us once to where your data lives, then create secure data gateways with granular cross-platform permissions, comprehensive monitoring, and robust security filtering. Supercharge tools like Cursor with product and team-level context — or use those access points via our built-in AI chat system, where your team can navigate your organization's knowledge and perform actions across platforms in one place.",https://capacitive.ai/,X25,B2B,"B2B -> Engineering, Product and Design",Developer Tools; SaaS,2,Active,Early,9,T4:\bplatform\b; T4:\bdeveloper tool; T4:\bmonitor; T4:\bcontext\b
+Tinfoil,tinfoil,AI that runs on the cloud with the privacy of on-prem,"Tinfoil makes it easy to make your AI workloads provably private, without changing your code. You get the privacy of on-prem deployments, while running on the cloud.
+
+We’ve built a full-stack platform on top of the latest NVIDIA GPUs offering confidential computing capabilities, meaning that you don’t have to tradeoff performance for privacy. 
+
+Under the hood, we integrate a suite of recent advances in secure hardware technologies, in particular NVIDIA’s confidential compute mode available on Hopper and Blackwell. When combined with Tinfoil’s software stack, companies can prove their security claims rather than relying on unenforceable statements like ""trust us, we don’t log your queries.” Tinfoil guarantees that all data always stays private and cannot be accessed by anyone other than the end user — not even by Tinfoil or the cloud provider it’s processed on. 
+
+The founding team combines deep academic and industry experience in security and internet protocols. Tanya was previously a systems engineer at Cloudflare, where she built Internet security protocols used by billions, and contributed to the Workers AI platform. Jules and Sacha recently completed their PhDs at MIT where they worked on secure hardware and privacy-preserving technologies. Jules has also worked at NVIDIA on their confidential computing team. Nate has deep infrastructure experience, starting in high school when he built a mini-CDN that got him an internship at Cloudflare. Tinfoil was born from our personal frustration with the false choice between access to powerful AI and data privacy.
+
+As AI becomes tightly integrated into our lives and business workflows, it will touch an ever increasing amount of sensitive personal and proprietary data. Right now, the only solutions are DPAs, band-aids like PII redaction, or the nuclear option of running everything on-prem. These solutions are not scalable.  By making it easy to deploy provable privacy, Tinfoil promises to unlock significantly deeper AI adoption and integrations, just as TLS on the Internet enabled e-commerce to flourish by securing credit cards on the network.
+
+If OpenAI is creating “God in a box”, we are putting God in a blackbox, so Satan can’t spy.",https://tinfoil.sh,X25,B2B,B2B -> Security,Artificial Intelligence; Security; Cryptography,4,Active,Early,9,T4:\binfrastructure\b; T4:\bplatform\b; T4:\btrust\b; T4:\bdeploy
+Jazzberry,jazzberry,(formerly Prophet) Training LLMs to be expert software testers,We're creating an AI agent that orchestrates debugging tools and runs your code to find bugs. It's time to close the loop on vibe coding.,https://jazzberry.ai,X25,B2B,B2B,Developer Tools; Reinforcement Learning; SaaS; AI Assistant; ML,2,Active,Early,9,T2:\borchestrat.*ai\b; T2:\bai.*orchestrat; T4:\bdeveloper tool
+Wavedash,wavedash,Helping game devs distribute builds to playtesters for rapid feedback,"Wavedash is an end-to-end video game development platform that automates expensive R&D workflows, saving studios time and money, helping them create and distribute better games, faster. ",https://wavedash.gg,X25,B2B,"B2B -> Engineering, Product and Design",Artificial Intelligence; Developer Tools; SaaS; Workflow Automation; Gaming,3,Active,Early,9,T4:\bplatform\b; T4:\bdeveloper tool; T4:\bworkflow\b; T4:\bautomation\b
+Fluidize,fluidize,Helping scientists and engineers run experiments with AI. ,"Fluidize accelerates R&D for scientists and engineers by using AI to build and run simulations and experiments. Our platform speeds up development pipelines by automating setup, execution, validation, and scaling, allowing engineers to focus on their science.",https://fluidize.ai,Summer 2025,B2B,"B2B -> Engineering, Product and Design",Developer Tools; B2B; Open Source; Infrastructure; AI,3,Active,Early,9,T4:\binfrastructure\b; T4:\bplatform\b; T4:\bdeveloper tool; T4:\bexecution\b
+Locata,locata,AI Referral Automation for Primary Care Clinics,"Locata is an AI referral management platform for Primary Care. We deploy AI agents to automate every step of the referral process that back-office staff face daily, from submitting prior authorizations to broadcasting updates and following up with patients. This frees up staff to focus on patient care.
+
+Primary care back-offices are severely understaffed and overburdened by administrative work associated with referrals. Additionally, patients suffer navigating the complex referral process, which can have disastrous health effects if they don’t get the care they need. These factors point to a glaring gap in the system—where out of over 100 million specialist referrals issued annually in the US, only half are actually completed. Locata is tackling this problem head-on, saving administrative staff hours each week and ensuring that the referral process goes as smoothly as possible for patients and their providers.
+
+Alejandro and Josh met at Stanford where they graduated with BS degrees in Computer Science. Alejandro was a senior software engineer at Meta’s Reality Labs where he led development of several AI features for wearable products and prior to that conducted AI research at Stanford Medicine. Josh graduated with a masters in Computer Science, specializing in AI, before working as a software engineer at Google where he developed AI products that served over 1 billion users.
+
+Within two weeks of building our product, we signed a major regional health center and have saved them over 100 hours of work in our first month live.",https://www.locatahealth.com/,Summer 2025,Healthcare,Healthcare -> Healthcare IT,SaaS; Health Tech; B2B; AI,3,Active,Early,9,T4:\bplatform\b; T4:\bauth; T4:\bdeploy; T4:\bautomation\b
+Perspectives Health,perspectives-health,Automating away admin for behavioral health clinics,"America is facing an addiction and mental health crisis. We're building a suite of AI agents to automate away the tasks that occupy half of the time and resources of behavioral health clinics—documentation, compliance, audits, and more.
+
+We save time, money, and mental bandwidth so that clinicians can stop chasing insurance reimbursements and go back to saving lives. ",https://perspectiveshealth.ai/,Summer 2025,Healthcare,Healthcare -> Healthcare IT,Workflow Automation; Healthcare; Mental Health; Healthcare IT,4,Active,Early,9,T4:\bcompliance\b; T4:\binsurance\b; T4:\bworkflow\b; T4:\bautomation\b
+RowFlow,rowflow,Replacing forms with AI conversations,"RowFlow replaces clunky web forms with natural conversations that run over text, slack, or wherever your users are. Our platform increases your form’s response rates while cutting your internal overhead in half. 
+
+With RowFlow, you can take any existing form and instantly convert it into an AI-powered conversation. New flows launch in minutes and reach respondents over your preferred channel or embedded chat. We guide the exchange, follow up automatically, and return clean structured data without extra work from your team.
+
+Forms power billions of business interactions yearly. Whether it’s forms for client intake, registrations, compliance, feedback, or surveys, they all follow the same painful pattern: low conversion, messy data, and frustrated users. Teams have long tolerated forms only because there's been no scalable alternative for collecting structured information from people - until now. Our goal is for RowFlow to become the new default way for how organizations collect user data in an AI-first world.",https://rowflow.ai,Summer 2025,B2B,B2B -> Operations,Artificial Intelligence; B2B; Workflow Automation; Chat,2,Active,Early,9,T4:\bplatform\b; T4:\bcompliance\b; T4:\bworkflow\b; T4:\bautomation\b
+Luminal,luminal,Making AI run fast on any hardware.,"Luminal builds an ML framework and compiler that generates GPU code.
+Our stack 10x's model speed while simplifying deployment and cutting idle GPU costs
+
+Github: https://github.com/luminal-ai/luminal
+Discord: https://discord.gg/APjuwHAbGy",https://luminal.com,Summer 2025,B2B,B2B -> Infrastructure,AIOps; Artificial Intelligence; Developer Tools; Cloud Computing,3,Active,Early,9,T4:\binfrastructure\b; T4:\bdeveloper tool; T4:\bframework\b; T4:\bdeploy
+Promptless,promptless,An AI teammate that automatically updates your customer-facing docs,"Docs are integral to a great customer experience, but managing them is a challenging, multi-team effort. The most successful companies recognize that fantastic docs drive adoption and bad ones cause customers to churn. Promptless is used by fast-growing startups and Fortune 500 enterprises alike to automatically update docs based on feature releases, support tickets, internal Slack conversations, and more.
+
+Promptless is designed to be flexible—it can integrate with any docs platform, be triggered automatically from many workflows, and can pull in context from any internal knowledge source.
+
+With Promptless, documentation becomes a strategic advantage for growth, not a bottleneck or a liability. ",https://gopromptless.ai/,W25,B2B,"B2B -> Engineering, Product and Design",Developer Tools; Generative AI; SaaS; B2B; AI,2,Active,Early,9,T4:\bplatform\b; T4:\bdeveloper tool; T4:\bliability\b; T4:\bcontext\b
+Tire Swing,tire-swing,AI for Healthcare Compliance,"Tire Swing saves healthcare organizations thousands of hours on routine regulatory compliance tasks.
+
+Our AI platform enables compliance teams to search across thousands of regulations, prepare for audits, and find gaps in their policies and procedures. As regulatory changes occur we suggest corresponding updates to your documents.
+
+Tire Swing takes the headache out of compliance so healthcare organizations can focus on their mission.
+
+
+",https://gettireswing.com,W25,B2B,B2B -> Legal,Health Tech; Compliance; Legal; Healthcare; Health Insurance,2,Active,Early,9,T4:\bplatform\b; T4:\bcompliance\b; T4:\binsurance\b; T4:\blegal\b
+Roark,roark,Datadog for Voice AI,"Roark monitors, evaluates and simulates real customer calls for Voice AI developers. Instead of spending hours manually calling their agent to test changes, teams can instantly simulate real scenarios and catch failures before customers do. 
+
+Within just 10 days of launching, we signed 8 paying customers, reached $60k in ARR, and began processing over 10,000 calls per week.
+
+Our team has been building together for over a decade. James previously built AngelList’s portfolio infrastructure supporting its growth from $10B to $124B asset under management, while Daniel was a founding engineer at Akiflow (YC S20) scaling it to $1.5M ARR with 10,000+ customers. 
+
+Voice AI is the future of business calls, but today, teams either fly blind or build in-house solutions because no off-the-shelf tooling exists. Roark solves this, bringing the first real testing and analytics platform to the space.",https://roark.ai,W25,B2B,B2B -> Analytics,Analytics; AI; Conversational AI,2,Active,Early,9,T4:\binfrastructure\b; T4:\bplatform\b; T4:\bmonitor; T4:\bevaluat
+Pig,pig,An API for automating Windows apps with AI,"Pig is an API to launch and automate Windows desktops. Pig's SDK tools plug into your agent loops to allow them to navigate UIs and integrate with software that doesn't have an API.
+",https://pig.dev,W25,B2B,B2B -> Infrastructure,Developer Tools; Generative AI; Cloud Computing,1,Active,Early,9,T4:\binfrastructure\b; T4:\bdeveloper tool; T4:\bapi\b; T4:\bsdk\b
+Revyl,revyl,Proactive observability,Revyl is a proactive observability platform that automatically catches and triages bugs before they reach production.,https://www.revyl.ai,F24,B2B,B2B -> Infrastructure,Artificial Intelligence; Developer Tools; B2B; Infrastructure,3,Active,Early,9,T4:\binfrastructure\b; T4:\bplatform\b; T4:\bdeveloper tool; T4:\bobservab
+CTGT,ctgt,Entirely New AI Stack: Efficient and Safe Alternative to LLM Ecosystem,"CTGT is building the next evolution of AI, towards intelligence that is foundationally designed to be efficient and trustworthy. Our enterprise-grade platform prevents AI hallucinations and errors in real-time while maximizing ROI. Based on seminal research that opens the ""black box"" of AI, we enable Fortune 500 companies to deploy AI with confidence through automated risk prevention, comprehensive audit trails, and institutional-grade security controls. With AI adoption surging to 72%, we help organizations avoid costly mistakes and reputation damage while achieving 99.99% reliability and 10x faster deployment times. Trusted by industry leaders and backed by prominent investors, CTGT transforms AI from a liability into a competitive advantage.",https://www.ctgt.ai/,F24,B2B,B2B -> Infrastructure,Artificial Intelligence; Deep Learning; SaaS; B2B; Enterprise,2,Active,Early,9,T4:\binfrastructure\b; T4:\bplatform\b; T4:\bliability\b; T4:\bdeploy
+Maitai,maitai,"Reliable, self-improving enterprise AI","Maitai makes building reliable AI applications easy. We autocorrect faulty model output in real-time and automatically fine-tune models that learn from their mistakes. This means our customers get more reliable results immediately, and over time, they gain custom models built specifically for their application that only get better and faster. You wouldn’t hire an employee who doesn’t learn from their mistakes—so why use a model that doesn’t? Maitai is here to deliver the next generation of reliable AI inference.",https://trymaitai.ai,S24,B2B,"B2B -> Engineering, Product and Design",AIOps; Artificial Intelligence; Developer Tools; Enterprise; AI,6,Active,Early,9,T2:\binference\b; T2:\bfine-tun; T4:\bdeveloper tool
+expand.ai,expand-ai,Turn any website into an API.,"expand.ai instantly turns any website into a type-safe API you can rely on.
+
+You can either request data from any website instantly or let expand.ai build up datasets for you.
+
+We take care of the hard parts like dealing with bot protection, scaling browser infrastructure and making sure that we only extract verified, correct information.",https://expand.ai/,S24,B2B,B2B,Developer Tools; Infrastructure,2,Active,Early,9,T4:\binfrastructure\b; T4:\bdeveloper tool; T4:\bapi\b; T4:\bbrowser\b
+ReactWise,reactwise,AI Co-Pilot for Chemical Process Optimization,"Our Mission: 
+We aim to accelerate and automate chemical process development by equipping wet-lab chemists with the power of data-driven optimization and robotic execution of experiments.
+
+
+The Problem: 
+The discovery of novel pharmaceuticals is one of our most important weapons in fighting disease. However, the drug development pipeline is often held up for many months during the design of chemical processes to manufacture these drugs at scale, delaying FDA trials and lengthening the time until drug launch. Designing chemical processes involves the identification of suitable parameters such as catalyst/temperature/solvent. Currently process development is often done via tedious trial-and-error experimentation (slow) or exhaustive screening (expensive and wasteful).
+
+
+Our Approach: 
+In our research, we have developed algorithms for chemical process optimization, which leverage transfer learning and Bayesian optimization. We validated the algorithms in the wet lab, showing an up to 95% reduction in required experiments and cost compared to exhaustive screening. We have made our approaches accessible to chemists through our user-friendly no-code software platform and to automated laboratory equipment with our API.",https://www.reactwise.com/,S24,B2B,"B2B -> Engineering, Product and Design",,2,Active,Early,9,T4:\bplatform\b; T4:\bapi\b; T4:\bpipeline\b; T4:\bexecution\b
+Handled,handled,Automating post-order operations for e-commerce brands and 3PLs,"Post-order operations are one of the least automated parts of e-commerce. After an order is placed, teams still spend their days tracking shipments, chasing exceptions, processing returns, adjusting invoices, and answering “Can you check this?” requests. This manual busywork lives outside core systems and scales linearly with order volume, forcing brands and 3PLs to keep adding headcount as they scale.
+
+Handled is an operations automation platform for e-commerce brands and the 3PLs that run their order fulfillment. We execute the manual work that happens after an order is placed by unifying post-order data across commerce, warehouse, carrier, and support systems.
+Handled gives teams real-time visibility across orders, shipments, returns, and inventory in one system — eliminating the need to dig through disconnected tools or react only after customers complain. When issues occur, Handled automatically executes the follow-up work, such as resolving shipment delays, processing returns, filing claims, or making order and billing adjustments, without manual back-and-forth.
+
+By combining visibility, issue detection, and automated execution in a single AI-powered operational layer, Handled replaces manual coordination with software-driven post-order operations in a large, recurring market tied directly to e-commerce volume.",https://www.itshandled.ai,Summer 2024,B2B,B2B -> Retail,Artificial Intelligence; B2B; Workflow Automation; Logistics; E-commerce,2,Active,Early,9,T4:\bplatform\b; T4:\bworkflow\b; T4:\bautomation\b; T4:\bexecution\b
+SciPhi,sciphi,"SciPhi is building R2R, the most advanced retrieval system.","Start your AI application with agentic RAG, ingestion, document management, and more.",https://www.sciphi.ai,W24,B2B,B2B,Artificial Intelligence; Search; Infrastructure; AI,2,Active,Early,9,T2:\bagentic\b; T2:\brag\b; T4:\binfrastructure\b
+Relari,relari,Testing and Simulation Stack for GenAI Systems,"Relari helps AI teams simulate, test, and validate complex AI applications throughout the development lifecycle.
+
+We are the company behind continuous-eval, an open-source modular evaluation framework with metrics covering text generation, code generation, retrieval, classification, agents, and other LLM use cases. Our cloud platform generates custom synthetic data and simulates user behavior to stress test and harden GenAI applications.",https://www.relari.ai/,W24,B2B,B2B -> Infrastructure,,2,Active,Early,9,T4:\binfrastructure\b; T4:\bplatform\b; T4:\bframework\b; T4:\bevaluat
+Quary,quary,The first in-browser analytics engineering platform,"Quary is the first analytics engineering platform that brings the entire model-test-deploy workflow into the browser. 
+
+At our first customer, a fast-growing fintech company, Quary empowers analysts in the growth team to self-serve, contribute, and reduce reliance on the data engineering team, letting teams ship metrics faster & executives get answers sooner",https://www.quary.dev,W24,B2B,B2B -> Analytics,Artificial Intelligence; Analytics; Data Science; Data Engineering; AI,2,Active,Early,9,T4:\bplatform\b; T4:\bdeploy; T4:\bworkflow\b; T4:\bbrowser\b
+Engines,engines,"Tools, context and sandboxes for AI SWEs",Engines is the best platform for AI software engineering agents. AI SWEs will become a fundamental part of every engineering organization. We are building the foundational building blocks to make that a reality.,https://engines.dev,W24,B2B,B2B,Artificial Intelligence; Developer Tools; DevOps; Infrastructure,2,Active,Early,9,T4:\binfrastructure\b; T4:\bplatform\b; T4:\bdeveloper tool; T4:\bcontext\b
+OneGrep,onegrep,AI Agent for DevOps Workflow Automation,"OneGrep is a DevOps Agent that helps engineers automate manual devops tasks. It works across integrations that teams have to search, correlate, and operate automated tasks like runbook automation during incidents.
+
+OneGrep specializes across devops tools to help teams release code faster and more reliably so that engineers can spend more time building rather than being trained in bespoke tools like Observability, Ci/Cd, or Infra.
+    
+Achintya and Brian are technical co-founders who have deep domain expertise in building and operating systems at scale at Coinbase, Disney, and Amazon. Achintya led the Search Team at Disney enabling DisneyPlus to scale to 70M users in two weeks. Brian was a founding engineer on the team that built the Incident Management Platform at Amazon that helps 30k DAUs in Amazon resolve critical incidents every day.
+    
+https://www.onegrep.dev",https://www.onegrep.dev,W24,B2B,"B2B -> Engineering, Product and Design",Generative AI; B2B; DevOps; Conversational AI,2,Active,Early,9,T4:\bplatform\b; T4:\bobservab; T4:\bworkflow\b; T4:\bautomation\b
+Zep AI,zep-ai,The Memory Foundation For Your AI Stack,"Build AI assistants that continually learn and delight users with personalized and accurate experiences. 
+
+## Memory that learns from your users
+Zep intelligently learns from user interactions, improving your assistant or agent's knowledge over time. Recall user facts in milliseconds, with Zep adding no latency to your prompt creation.
+
+## Ready for Production and Scale
+- Granular Memory Controls: Go beyond semantic search with developer-defined rubrics for user fact relevance. 
+- Comprehensive APIs and SDKs: Python, TypeScript, and Go SDKs, with full CRUD control of stored facts.
+- SOC 2 and tools for Privacy Compliance.
+
+## Build Consistent and Correct LLM Apps
+Zep's Structured Output and Dialog Classification tools build on Zep's memory enabling you to build more accurate and consistent user experiences.
+
+- Extract strongly-typed data from chat history, quickly & accurately: Go beyond your LLM provider's JSON or Structured Output mode with built-in types for datetimes, floats, emails, RegEx patterns, and more.
+- Instantly classify conversation state: Understand user intent and emotion, segment users, and more.",https://www.getzep.com/,W24,B2B,B2B,Developer Tools; Infrastructure; AI; Conversational AI; AI Assistant,5,Active,Early,9,T4:\binfrastructure\b; T4:\bdeveloper tool; T4:\bcompliance\b; T4:\bmemory\b
+Downlink,downlink,Make your LLMs 3x faster.,"Downlink is a platform that continuously improves your AI.
+
+Boost rate limits, slash latency, and raise accuracy.All through one simple API.",https://downlink.dev/,W24,B2B,B2B -> Infrastructure,Artificial Intelligence; Developer Tools; SaaS; API,1,Active,Early,9,T4:\binfrastructure\b; T4:\bplatform\b; T4:\bdeveloper tool; T4:\bapi\b
+CommodityAI,commodityai,AI that automates commodity operations,"CommodityAI builds intelligent automation agents for the most operationally complex businesses in the world: physical commodity traders.
+
+In these environments, critical data is buried in spreadsheets, emails, PDFs, and legacy systems. This makes operations slow, error prone, and heavily reliant on manual work. CommodityAI acts as a digital operator, constantly monitoring and interpreting this unstructured information to keep records accurate and systems up to date.
+
+Our agents read and validate key details from trade confirmations, contracts, shipping updates, and more. They transform scattered data into clean, structured records that flow directly into CTRMs, ERPs, and other internal tools without requiring human input.
+
+At the core is the CommodityAI Platform, a flexible foundation for building and managing agents that integrate with business systems and scale alongside operations.",https://commodityai.io/,W24,B2B,B2B -> Operations,B2B; Workflow Automation; Enterprise Software; AI,3,Active,Early,9,T4:\bplatform\b; T4:\bmonitor; T4:\bworkflow\b; T4:\bautomation\b
+OpenFoundry,openfoundry,The fastest developer experience for building on open source AI.,"OpenFoundry is an open source platform that helps engineers build, deploy, and scale their open source AI stack 10x faster. Ship your AI stack with just one line of code. You could think of us as an open source alternative to Hugging Face.
+
+Learn more and check out a demo of this in action in our Launch YC post: https://www.ycombinator.com/launches/KhY-openfoundry-developer-infrastructure-for-open-source-ai",https://www.openfoundry.ai/,W24,B2B,"B2B -> Engineering, Product and Design",Developer Tools; B2B; Open Source; Infrastructure; AI,2,Active,Early,9,T4:\binfrastructure\b; T4:\bplatform\b; T4:\bdeveloper tool; T4:\bdeploy
+Tower,tower,Legal due diligence platform powered by AI,"Tower accelerates transactional due diligence via an AI-powered, centralized diligence platform. By consolidating disparate diligence workflows, Tower helps lawyers stay organized, spot issues earlier, and close deals faster.",https://withtower.com,W24,B2B,"B2B -> Engineering, Product and Design",Artificial Intelligence; Workflow Automation; Legal; LegalTech; AI Assistant,2,Active,Early,9,T4:\bplatform\b; T4:\blegal\b; T4:\bworkflow\b; T4:\bautomation\b
+Cardboard,cardboard,Agentic video editor,"Cardboard is an agentic video editor for growth/marketing teams and serious creators who need to ship videos consistently. Instead of agencies, long timelines, and infinite review cycles, teams give cardboard a footage + a goal (“3 variants”, “30s hook”, “testimonials”) to get a strong first cut in minutes on which they can iterate quickly.
+
+Multimodal LLMs can finally reason over footage, and WebGPU/WebCodecs make a real NLE possible in the browser. For the first time, an “AI director” inside a professional editor can be a reality.
+
+We have to build two hard things at once: a high-performance editor in the browser and an agentic editor that is reliable for production use cases. Most startups do one; incumbents can’t rebuild their stack without breaking everything.
+
+Saksham and Ishan met in school and have known each other since 15 years. Saksham was Co-founder/CTO of Iterate AI (backed by EF) and posts content on social media; Ishan has spent ~5yr building memory-heavy, performance-critical browser apps at HackerRank (S11) and deeply understands browsers. He has built Hotspoter (5M+ downloads) when he was 14.
+
+Together, we’re unusually suited to build the editor core others avoid.
+
+Video is becoming the default distribution channel, and the team that iterates fastest compounds attention. Cardboard becomes the default workspace for video production, the way Canva/Figma became the workspace for design - because it’s collaborative, fast, and does the tedious parts for you.",https://usecardboard.com,Winter 2026,B2B,B2B,SaaS; Video; Media; AI,2,Active,Early,8,T2:\bagentic\b; T4:\bmemory\b; T4:\bbrowser\b
+Scott AI,scott-ai,Agentic Workspace for Engineering Team Alignment,"Scott AI is the agentic workspace where teams align on spec before any codegen runs.
+
+Teams already use multiple coding agents to build. Different coding agents will continue to evolve and have diverse strengths. An engineer will entrust a long-running agent to add dark-mode end-to-end while they pair carefully with an IDE-based agent to land a critical DB migration. These execution agents cannot be the decision layer because they are biased to their own tool, they are not neutral. Scott AI is the neutral, agent agnostic decision layer for the age of multi agent building. Teams will use Scott as their decision workspace to finally ditch google docs and notion as their primary spec alignment layer.",https://tryscott.ai,Fall 2025,B2B,B2B,Artificial Intelligence; Developer Tools; Collaboration; AI,2,Active,Early,8,T2:\bagentic\b; T4:\bdeveloper tool; T4:\bexecution\b
+Clicks,clicks,Computer use agents to automate all back-office work,"Clicks automates your back-office using your existing tools and processes without requiring any IT integrations.
+
+What We Do:
+Think of Clicks as your back-office worker that can handle any repetitive task. Simply describe your process via video call or share documentation, and our forward-deployed engineering team ensures it's automated exactly your way.
+Our AI agents work 24/7 and can be kicked-off via email, Slack, or our web app, handling tasks like CRM updates, report generation, and data entry while adapting to your existing software.
+
+Initial Focus:
+We're starting with recruiting and executive search firms, automating candidate codification, assessment reports, and administrative workflows that typically consume hours of manual work each day.
+
+Value Proposition:
+Our pricing is 100% outcome based: you only pay for the work outputs we complete (e.g., candidates added to CRM, reports generate, etc.). Current customers are already live and saving an average of 60% in costs compared to human workers, with full automation deployed within one week.",https://goclicks.ai/,Fall 2025,B2B,B2B -> Productivity,Artificial Intelligence,3,Active,Early,8,T2:\bcomputer use\b; T4:\bdeploy; T4:\bautomation\b
+Airweave,airweave,Open-Source Tool That Lets Agents Search Any App or Database,"Airweave is an open-source tool that lets agents search any application or database. It supports MCP, RBAC on data, and seamlessly connects any app, database, URL, or API.",https://airweave.ai,X25,B2B,B2B -> Infrastructure,Artificial Intelligence; B2B; Open Source; Search; Infrastructure,2,Active,Early,8,T2:\bmcp\b; T4:\binfrastructure\b; T4:\bapi\b
+HelixDB,helixdb,The fastest & most scalable graph-vector database on the market,"As AI agents replace traditional software, they need a way to store, recall, and reason over contextual data. HelixDB gives them all of that in one system. We’re building the knowledge infrastructure every AI agent will depend on.",https://helix-db.com,Spring 2025,B2B,"B2B -> Engineering, Product and Design",Developer Tools; Open Source; Infrastructure; AI; Databases,6,Active,Early,8,T2:\bvector database\b; T4:\binfrastructure\b; T4:\bdeveloper tool
+StarSling,starsling,Cursor for DevOps,"StarSling is building an agentic developer homepage that automates all the tasks that eat up a developer’s time after they’ve left their code editor: deployments, performance, incidents, and bugs. Open your homepage, click on a GitHub, Linear, or Sentry issue and you’ll see an Autofix button that triggers an AI agent and opens up a Pull Request with a fix, all without leaving your homepage.",https://www.starsling.dev/,Spring 2025,B2B,"B2B -> Engineering, Product and Design",Artificial Intelligence; Developer Tools; B2B; DevOps; AI,2,Active,Early,8,T2:\bagentic\b; T4:\bdeveloper tool; T4:\bdeploy
+datafruit,datafruit,AI DevOps Engineer,"Datafruit is the first agentic DevOps engineer.
+
+It understands your deployment standards, design docs, and DevOps practices, then reasons across them to reduce cloud waste, prevent deployment delays, and eliminate wasted time across the stack. 
+
+Reach out to us: founders@datafruit.dev",https://datafruit.dev/,Summer 2025,B2B,"B2B -> Engineering, Product and Design",DevOps; Cloud Computing; Infrastructure,4,Active,Early,8,T2:\bagentic\b; T4:\binfrastructure\b; T4:\bdeploy
+Orange Slice,orange-slice,Agentic sales enrichment spreadsheet,"Orange Slice is a spreadsheet where every column is TypeScript—and AI writes it for you. Describe what you want in chat (""find the CEO's LinkedIn and get their email""), and we generate the code, create the columns, and run it across thousands of rows. Our fully-typed SDK has 100+ enrichments built in: LinkedIn, contact info, company data, web scraping, AI research. Columns automatically execute in dependency order. No workflow builders—just describe it or code it.",https://orangeslice.ai,Summer 2025,B2B,B2B -> Sales,,2,Active,Early,8,T2:\bagentic\b; T4:\bsdk\b; T4:\bworkflow\b
+Risely AI,risely-ai,AI agents that automate administrative work across college campuses. ,"Risely’s AI agents will form the new operating system for universities, improving retention, staff productivity, and efficiency. Our platform integrates directly into existing university systems (SIS, LMS, CRM), learns each institution’s unique workflows, and deploys specialized AI agents. This dramatically reduces the $735 billion universities spend annually on administrative labor, expands staff capacity without increasing headcount, and improves the student experience.
+
+This hasn't been done before because university workflows require nuanced, autonomous judgment, exactly what agentic AI was designed to solve. Our team uniquely combines deep expertise in higher education, enterprise-scale AI, and regulated enterprise sales.
+
+Sadia previously built Salesforce’s Education Cloud from scratch, creating the core Student Information System widely used across higher education. She deeply understands university operations and maintains trusted relationships with hundreds of higher-ed CIOs and Provosts.
+
+Danial was one of DoorDash’s earliest engineers, where he architected and scaled complex systems from zero to billions of transactions, including their search, recommendation, and Voice AI platforms. He knows how to build robust AI solutions that reliably perform at enterprise scale. 
+
+Shahryar was a GM at Airwallex, where he built the entire Americas business from 0 to 1 and drove 11x revenue growth.  He’s also a master closer, single-handedly securing over $17M in enterprise deals at NerdWallet.  He’s a relentless startup executor with deep expertise launching and scaling go-to-market machines in highly regulated industries.
+
+We launched six weeks ago and are already at $8k MRR, growing 55% week-over-week -- one of the fastest ramps ever in higher ed. Universities urgently need solutions that expand labor capacity and efficiency, especially as they face unprecedented budget pressure and staffing shortages.
+
+With unmatched buyer access, deep technical expertise, and rapid early traction, we are perfectly positioned to own this enormous market.",https://www.risely.ai/,Summer 2025,Education,Education,,9,Active,Early,8,T2:\bagentic\b; T4:\bplatform\b; T4:\bdeploy
+SigmanticAI,sigmanticai,The Cursor for Chip Design - Delivering Silicon-Ready Chip Designs…,"SigmanticAI is building an AI-native hardware development assistant that automates the entire RTL design flow, from natural language to synthesizable HDL and testbenches, inside a seamless VSCode fork. Powered by fine-tuned Verilog LLMs, reinforcement learning, and real compiler feedback, SigmanticAI iteratively refines code until it compiles and passes synthesis, no matter how complex the design. It’s like the Cursor for HDL design. 
+
+In addition to code generation, SigmanticAI can generate token-level annotations and onboarding documents to accelerate ramp-up for new engineers. With support for both cloud and on-prem deployment, it integrates with existing EDA tools to dramatically reduce debug time, improve collaboration, and accelerate hardware design across teams",https://www.sigmanticai.com,Summer 2025,B2B,"B2B -> Engineering, Product and Design",Hard Tech; Hardware; B2B; AI; AI Assistant,2,Active,Early,8,T2:\bfine-tun; T4:\btoken\b; T4:\bdeploy
+Galini,galini,Compliance guardrails-as-a-service for AI applications,"Galini guardrails-as-a-service filter harmful inputs and outputs based on company policies and industry regulations. We make it easy for enterprises to create, test, deploy and refine guardrails.
+With Galini, product and engineering leaders enjoy peace of mind knowing their AI apps are compliant at run-time, and save $1-10M in costs from avoiding in-house build",https://www.galini.ai/,F24,B2B,B2B,Artificial Intelligence; SaaS; B2B; Compliance; Enterprise,2,Active,Early,8,T2:\bguardrail; T4:\bcompliance\b; T4:\bdeploy
+Unsloth AI,unsloth-ai,Open Source Fine-tuning & Training of LLMs,"Unsloth helps builders create custom models better & faster. We're developing the all in one solution to help you create highly-accurate custom models 30x faster with 90% less memory use.
+
+With over 8 million monthly model downloads and 15K GitHub stars, our mission is to make fine-tuning and open-source the best it can be!",https://unsloth.ai/,S24,B2B,"B2B -> Engineering, Product and Design",Artificial Intelligence; Generative AI; Open Source; Infrastructure; AI,2,Active,Early,8,T2:\bfine-tun; T4:\binfrastructure\b; T4:\bmemory\b
+CloudGlue,cloudglue,Developer APIs to let your AI/LLM understand videos and audio.,"CloudGlue APIs (https://cloudglue.dev) makes it easy to transform video and audio into structured data for your LLM/RAG/AI application.
+
+Our developer-friendly APIs makes it easy to integrate video chat into your AI assistant with minimal heavy-lifting.",https://cloudglue.dev,S24,B2B,B2B -> Infrastructure,Developer Tools; Machine Learning; Video; AI,3,Active,Early,8,T2:\brag\b; T4:\binfrastructure\b; T4:\bdeveloper tool
+General Analysis,general-analysis,Automated AI Safety and Red Teaming Tools,"General Analysis provides a comprehensive suite of AI safety tools, including red-teaming frameworks, interpretability techniques, and more. As AI systems become increasingly capable, their deployment in high-stakes environments poses significant risks—financial, ethical, and otherwise—where errors can lead to substantial consequences. To address these challenges, we offer access to novel tools and methodologies designed to systematically find model failure-modes and enhance model robustness.",https://generalanalysis.com,S24,B2B,"B2B -> Engineering, Product and Design",Artificial Intelligence; SaaS; Trust & Safety,2,Active,Early,8,T2:\bai safety\b; T4:\btrust\b; T4:\bdeploy
+Lantern,lantern-2,Postgres vector database extension to build AI applications,"Lantern is the easiest way to build AI applications using Postgres.
+
+We started Lantern because we believe AI is going to impact every single enterprise in every single industry. We want to allow every company to tap into their unstructured data to build better applications.
+
+With Lantern Cloud, developers have access to everything they need to build an AI application: embedding generation, vector compression, vector search, efficient indexing, and more. All on top of the database they already know, Postgres, and using infrastructure that scales to billions.
+
+Check out our code on Github: https://github.com/lanterndata/lantern",http://lantern.dev,W24,B2B,B2B,Artificial Intelligence; B2B; Open Source; Enterprise; Databases,3,Active,Early,8,T2:\bvector database\b; T4:\binfrastructure\b; T4:\bembedding
+Aether Energy,aether-energy,Solar and roofing workflow software for solar installers worldwide,"Aether is an AI-powered end-to-end platform for rooftop solar and roofing installers in the US and Western European markets. 
+
+Some of our innovations:
+
+- In-house computer vision and fine-tuned AI models built for solar
+- Rapid and accurate photovoltaic site design, 10x faster
+- Co-pilot for rooftop solar to streamline & automate various tasks for solar installers. 
+
+Why it’s needed: Today, rooftop solar is still complex, expensive, and inaccurate. More than half of the cost of a rooftop solar project comes from soft costs. We started Aether with the sole aim of reducing solar soft costs. 
+
+Our vision: Aether will be a big player in the young and emerging Solar software vertical, which has a projected 20B Global TAM up for grabs by 2025.",https://www.aethernrg.com/,W24,B2B,"B2B -> Engineering, Product and Design",Artificial Intelligence; SaaS; Solar Power; Climate; Renewable Energy,4,Active,Early,8,T2:\bfine-tun; T4:\bplatform\b; T4:\bworkflow\b

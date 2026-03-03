@@ -1,0 +1,214 @@
+Notte - Web Automation Platform 
+
+ Launch Week II is here - Live on February 23rd 
+
+ Products Solutions Pricing Documentation Blog 
+ Console 
+
+Build and deploy
+web automations 
+
+ ✓ Browser Infrastructure ✓ Web Automation API ✓ Web Agents 
+ Start Building Book a Demo 
+
+ Fetch an invoice 
+ E-commerce checkout 
+ Cancel a subscription 
+
+ platform.openai.com 
+
+ OpenAI Platform 
+
+ Create an account 
+ Email address Continue 
+ Already have an account? Log in 
+
+ OR 
+
+ Continue with Google Continue with Microsoft Continue with Apple 
+ Terms of use | Privacy Policy 
+
+You 
+
+Notte Agent 
+
+Stop stitching tools together. 
+ Reliability Scalability Observability Security 
+
+Notte is the unified platform for browser automation. Build with AI agents, Teach by Demonstration, Debug live in Studio, and Deploy to serverless production. 
+
+ Zero-config infrastructure 
+ Stream long-running sessions 
+ Global performance 
+ Live debugging 
+ Start Building 
+
+Remote Browsers 
+Headless and headfull browser sessions 
+
+Live View & Replays 
+Real-time screenshare & session playback 
+
+Autoscaling 
+Scale number of concurrent sessions instantly 
+
+Stealth & Captchas 
+Undetectable fingerprints & captcha autosolve 
+
+Residential Proxies 
+Global proxies network + Fixed IPs and BYO support 
+
+Browser Infrastructure 
+The building blocks for your web agents. Notte provides the primitives you need to build reliable, scalable, and undetectable browser automation. 
+
+Compatible with 
+ Playwright Puppeteer CDP WebDriver 
+
+Web Agents 
+Autonomous agents that understand and interact with the web just like you do. Powered by Notte advanced vision and DOM perception layer. 
+
+Model Agnostic 
+Agent can reason with the model of your choice 
+
+Agent Tooling 
+Built in agent tools for secrets and identities management 
+
+Open Source 
+Built on open standards. Inspect code and contribute 
+
+Build Live. Deploy Serverless. 
+Notte let you build, deploy, and scale web agents and automation pipelines. 
+
+shop.notte.cc 
+
+Notte Agent 
+
+Run Agents 
+
+Scalable Browser Sessions 
+
+session- 6 .notte.cc 
+
+Browser Sessions 
+
+Agent Vaults 
+Secure credential storage for agents. Keep passwords, API keys, and sensitive data encrypted and accessible only when needed. 
+
+Agent Identities 
+Emails and phone numbers for agents. Provide your agents with verified identities to interact authentically across platforms. 
+
+Agent Tools 
+Empower your agents with secure credentials and authentic identities for seamless operations. Ready to equip your browser agents? 
+
+Developers love us! 
+
+The fastest, most reliable open-source framework for browser using agents 
+
+ G 
+
+GitHub Projects Community 
+@GithubProjects 
+
+build and deploy fast web agents with headless browser sessions and LLM automation Tom Dörr (@tom_doerr) August 12, 2025 
+
+ T 
+
+Tom Dörr 
+@tom_doerr 
+
+2. I automate web tasks (e.g. form filling, data collection & other web automation routines) using e.g. in @listingbott I use these web agents to submit my products to the relevant web directories automatically John Rush (@johnrushx) September 30, 2025 
+
+ J 
+
+John Rush 
+@johnrushx 
+
+this looks ace! (I've just DM'd ya! ;)) 
+
+ C 
+
+Charly Wargnier 
+@DataChaz 
+
+This is unreal... 
+
+ W 
+
+Weaver 
+@GerardGamba 
+
+I just found a web agent framework built specifically for LLMs. It turns any site into clean, agent-ready text. Any LLM can now act on the web. It’s called Notte, and it changes everything. Let me show you how: Markandey Sharma (@TechByMarkandey) June 18, 2025 
+
+ M 
+
+Markandey Sharma 
+@TechByMarkandey 
+
+Finally, a web layer that speaks AI’s language. Notte is a breakthrough. 
+
+ M 
+
+Muhammad Ayan 
+@socialwithaayan 
+
+The fastest, most reliable open-source framework for browser using agents 
+
+ G 
+
+GitHub Projects Community 
+@GithubProjects 
+
+build and deploy fast web agents with headless browser sessions and LLM automation Tom Dörr (@tom_doerr) August 12, 2025 
+
+ T 
+
+Tom Dörr 
+@tom_doerr 
+
+2. I automate web tasks (e.g. form filling, data collection & other web automation routines) using e.g. in @listingbott I use these web agents to submit my products to the relevant web directories automatically John Rush (@johnrushx) September 30, 2025 
+
+ J 
+
+John Rush 
+@johnrushx 
+
+this looks ace! (I've just DM'd ya! ;)) 
+
+ C 
+
+Charly Wargnier 
+@DataChaz 
+
+This is unreal... 
+
+ W 
+
+Weaver 
+@GerardGamba 
+
+I just found a web agent framework built specifically for LLMs. It turns any site into clean, agent-ready text. Any LLM can now act on the web. It’s called Notte, and it changes everything. Let me show you how: Markandey Sharma (@TechByMarkandey) June 18, 2025 
+
+ M 
+
+Markandey Sharma 
+@TechByMarkandey 
+
+Finally, a web layer that speaks AI’s language. Notte is a breakthrough. 
+
+ M 
+
+Muhammad Ayan 
+@socialwithaayan 
+
+The fastest, most reliable open-source framework for browser using agents 
+
+ G 
+
+GitHub Projects Community 
+@GithubProjects 
+
+build and deploy fast web agents with headless browser sessions and LLM automation Tom Dörr (@tom_doerr) August 12, 2025 
+
+ T 
+
+Tom Dö

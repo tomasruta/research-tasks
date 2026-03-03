@@ -1,0 +1,105 @@
+Hyperspell - Memory & Context for AI Agents 
+
+ Blog Documentation Dashboard → 
+
+The Memory & Context Layer for AI Agents 
+Hyperspell gives your AI agents automatic memory by connecting it to your users' data 
+ See a Demo Start Building 
+
+Agentic Memory Network 
+Memory & Context. Plug & Play. 
+
+Hyperspell makes your AI agents context-aware. Simply choose which data sources to connect; Hyperspell will continuously index documents into a memory layer and generate context for your AI agent. 
+
+Features 
+Give your agents context in less than 5 minutes 
+
+Instant Context 
+
+After connecting your user’s data sources, the Agentic Memory Network knows about the people, projects, and concepts relevant to your agent. 
+
+Continuous Learning 
+
+Just like human memory, Hyperspell improves with every query and every conversation. Relevant answers reinforce the context of future queries. 
+
+One Line Integration 
+
+Use our pre-built components to let your users link their accounts; Hyperspell handles authentication and continuous memory updates. 
+
+Any Document, Any Source 
+
+Hyperspell processes thousands of documents and conversations to build your agent's memory network. New integrations ship weekly. 
+
+Your AI agent is a clueless genius. 
+
+AI agents are crushing humans on any standardized test, but wouldn't last a day at a real job. What today's superintelligent agents are missing is the real world context they are operating in. A context that humans stitch together from hundreds of data points across dozens of interactions and channels. A context that grows with their tasks. 
+
+How it works 
+Hyperspell works out of the box. Here's how. 
+
+Continuous Ingestion 
+Persistent Memory 
+
+Hyperspell continuously indexes your user’s connected accounts to build a bespoke memory graph. Every conversation and query your agent takes improves the memory network. 
+
+Query memories 
+Context Engineering 
+
+Enrich your agent with real-time context from your user’s data and previous interactions. Get structured results or LLM-ready summaries for all types of data sources. 
+
+Grounded Generation 
+Instant Answers 
+
+Use Hyperspell’s knowledge graph as your end-to-end retrieval solution and get grounded answers from your users’ data. Choose which LLM to use or bring your own. 
+
+Security 
+Privacy & trust in the age of AI 
+
+SOC 2 Certified 
+
+Independent audit confirming that we safeguard your data with the highest security standards. 
+
+GDPR Compliant 
+
+Compliant with EU data protection, ensuring your personal information is handled with care and transparency. 
+
+Testimonials 
+What our customers say 
+
+Arjun Athreya , CTO 
+
+Reliable data ingestion, search, monitoring, and tuning-for a small team, putting it together would have taken months. Hyperspell had a complete solution out of the box and saved us the heavy lift. 
+
+Anish Chopra , Founder 
+
+It was very easy to get started. Hyperspell's API worked exactly the way we needed. Integration was quick, the team has been great to work with, and we can now onboard new customers five times faster. 
+
+Anna Yuan , CEO 
+
+Working with Hyperspell was a no-brainer. Conor and Manu move incredibly fast, and when they commit, they deliver. Hyperspell helped us go from concept to paid pilots in just 48 hours. 
+
+Instantly add memory and context to your AI products. 
+Effortless Context Engineering. 
+
+FAQ 
+Frequently asked questions 
+
+ Why does AI need personal data? 
+
+To unleash the potential of generative AI, it needs to be intimately aware of the user's context and data: documents, emails, calendars, meeting transcripts, preferences, work streams, contacts, and more. 
+ What is the alternative to using Hyperspell? 
+
+Traditionally, harnessing this data requires you to integrate with numerous data sources, build and scale an ETL pipeline to ingest that data, transform and clean the data, index and store it, and spend countless hours fine-tuning chunking, embedding, metadata prompts, and much more. And that's before we even talk about security, prompt injections, and data leaks. 
+ Does Hyperspell store my data? 
+
+We store summaries of that data and extracted memories in our memory network. End users have complete control over which data is being stored and can delete their data at any time. We do not use any data to train foundational AI models, and we do not share data with any third parties or AI model providers. 
+ How do I skip the invite list? 
+
+We'd love to hear from you! Drop us a line at hello@hyperspell.com and tell us about your use case. 
+
+See a demo 
+The memory & context layer for your AI agent. 
+
+Designed with your safety, privacy, and control in mind 
+
+© 2026 Digital Workers of California, Inc. All rights reserved. Terms & Conditions Privacy Policy

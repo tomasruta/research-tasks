@@ -1,0 +1,6 @@
+Butter - Local Agent Sandboxes 
+
+Local Agent Sandboxes 
+
+Butter is building bVisor , an incredibly lightweight sandbox runtime for AI agents. 
+It embeds directly into your local process, providing a safe bash environment without the overhead of VMs or remote infra.

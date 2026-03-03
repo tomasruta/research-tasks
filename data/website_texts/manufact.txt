@@ -1,0 +1,186 @@
+Manufact | Build and Deploy MCP Agents, Servers & Apps 
+
+Manufact 
+
+ MCP Apps Hackathon 
+
+Products · Solutions · Pricing · Blog · Docs 
+
+ Products 
+ Solutions 
+ Get a demo 
+ Registry 
+ Pricing 
+ Blog 
+ Docs 
+
+ Backed by 
+Build and deploy MCP Apps and Servers 
+The open-source SDK for MCP. Build ChatGPT apps, Claude connectors, and company servers, loved by developers 
+ Try now Get a demo 
+Or use our open source libraries 
+
+ npx create-mcp-use-app Copy 
+
+ pip install mcp-use Copy 
+
+ Features 
+
+The stack for MCP development 
+Build, preview, ship, iterate with Manufact. 
+
+ Without SDK 98 lines 
+
+ 1 class MCPClient: 
+ 2 def __init__ ( self ): 
+ 3 # Initialize session and client objects 
+ 4 self .session: Optional [ClientSession] = None 
+ 5 self .exit_stack = AsyncExitStack () 
+ 6 self .anthropic = Anthropic () 
+ 7 # methods will go here 
+ 8 
+ 9 async def connect_to_server ( self , server_script_path: str): 
+ 10 is_python = server_script_path. endswith ( '.py' ) 
+ 11 is_js = server_script_path. endswith ( '.js' ) 
+ 12 if not (is_python or is_js): 
+ 13 raise ValueError ( "Server script must be a .py or .js file" ) 
+ 14 
+ 15 command = "python" if is_python else "node" 
+ 16 server_params = StdioServerParameters ( 
+ 17 command=command, 
+ 18 args=[server_script_path], 
+ 19 env= None 
+ 20 ) 
+ 21 
+ 22 stdio_transport = await self .exit_stack. enter_async_context ( stdio_client (server_params)) 
+ 23 self .stdio, self .write = stdio_transport 
+ 24 self .session = await self .exit_stack. enter_async_context ( ClientSession ( self .stdio, self .write)) 
+ 25 
+ 26 await self .session. initialize () 
+ 27 
+ 28 # List available tools 
+ 29 response = await self .session. list_tools () 
+ 30 tools = response.tools 
+ 31 print ( "\nConnected to server with tools:" , [tool.name for tool in tools]) 
+ 32 async def process_query ( self , query: str) -> str: 
+ 33 "" "Process a query using Claude and available tools" "" 
+ 34 messages = [ 
+ 35 { 
+ 36 "role" : "user" , 
+ 37 "content" : query 
+ 38 } 
+ 39 ] 
+ 40 
+ 41 response = await self .session. list_tools () 
+ 42 available_tools = [{ 
+ 43 "name" : tool.name, 
+ 44 "description" : tool.description, 
+ 45 "input_schema" : tool.inputSchema 
+ 46 } for tool in response.tools] 
+ 47 
+ 48 # Initial Claude API call 
+ 49 response = self .anthropic.messages. create ( 
+ 50 model= "claude-3-5-sonnet-20241022" , 
+ 51 max_tokens= 1000 , 
+ 52 messages=messages, 
+ 53 tools=available_tools 
+ 54 ) 
+ 55 
+ 56 # Process response and handle tool calls 
+ 57 final_text = [] 
+ 58 
+ 59 assistant_message_content = [] 
+ 60 for content in response.content: 
+ 61 if content.type == 'text' : 
+ 62 final_text. append (content.text) 
+ 63 assistant_message_content. append (content) 
+ 64 elif content.type == 'tool_use' : 
+ 65 tool_name = content.name 
+ 66 tool_args = content.input 
+ 67 
+ 68 # Execute tool call 
+ 69 result = await self .session. call_tool (tool_name, tool_args) 
+ 70 final_text. append (f "[Calling tool {tool_name} with args {tool_args}]" ) 
+ 71 
+ 72 assistant_message_content. append (content) 
+ 73 messages. append ({ 
+ 74 "role" : "assistant" , 
+ 75 "content" : assistant_message_content 
+ 76 }) 
+ 77 messages. append ({ 
+ 78 "role" : "user" , 
+ 79 "content" : [ 
+ 80 { 
+ 81 "type" : "tool_result" , 
+ 82 "tool_use_id" : content.id, 
+ 83 "content" : result.content 
+ 84 } 
+ 85 ] 
+ 86 }) 
+ 87 
+ 88 # Get next response from Claude 
+ 89 response = self .anthropic.messages. create ( 
+ 90 model= "claude-3-5-sonnet-20241022" , 
+ 91 max_tokens= 1000 , 
+ 92 messages=messages, 
+ 93 tools=available_tools 
+ 94 ) 
+ 95 
+ 96 final_text. append (response.content[ 0 ].text) 
+ 97 
+ 98 return "\n" . join (final_text) 
+
+ With mcp-use SDK 8 lines 
+
+ 1 # Connect to remote server pool 
+ 2 client = MCPClient (server_pool= "marketing_servers" ) 
+ 3 # Use any model you like 
+ 4 llm = AnyModelProvider (model= "any-4o" , api_key=...) 
+ 5 # Create agent with tools 
+ 6 agent = MCPAgent (llm=llm, client=client, max_steps= 30 ) 
+ 7 # Run the query 
+ 8 result = await agent. run ( "Create a post about our latest release" ) 
+
+ 90 lines saved 
+
+ Build 
+
+Full-Stack MCP Framework 
+
+ • MCP Agent 6 Lines of Code : That's all it takes to spin up a tool-using agent in Python or TypeScript. 
+ • MCP Apps in ChatGPT : Render interactive UI components directly in chat clients like ChatGPT. 
+ • MCP Server : Scaffold a production-ready server instantly and take inspo from templates. 
+
+ Go to docs Python SDK TypeScript SDK 
+
+ mcp-server.ts resources/gpt-widget.tsx 
+
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+
+ import { createMCPServer } from 'mcp-use/server' 
+
+ // The MCP Inspector is automatically mounted at /inspector 
+ const server = createMCPServer ( 'my-mcp-server' , { 
+ version: '1.0.0' , 
+ description: 'An MCP server with MCP Apps support for ChatGPT or Claude' , 
+ baseUrl: process.env.MCP_URL, 
+}) 
+
+ // UI Widgets are React components in the "resources/" folder. 
+ // They are automatically registered as both MCP tools and resources. 
+ // ... 
+ // Add

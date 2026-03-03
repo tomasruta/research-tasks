@@ -1,0 +1,261 @@
+Golf – Agentic AI and MCP Security & Governance for Enterprises 
+
+ Features 
+
+ Your Infrastructure 
+
+ Documentation 
+
+ Insights 
+
+Book a demo 
+
+ Features 
+
+ Your Infrastructure 
+
+ Documentation 
+
+ Insights 
+
+Book a demo 
+
+ Agentic AI Security & Governance 
+
+AI agents and MCP servers are already running in your org. Golf gives you visibility into what they do, policy control over what they can, and audit trails for compliance. 
+
+Book a demo 
+
+Book a demo 
+
+Book a demo 
+
+Book a demo 
+
+See how it works 
+
+See how it works 
+
+See how it works 
+
+See how it works 
+
+You can’t govern what you can’t see 
+
+Employees are using AI tools (ChatGPT, Claude Code, Cursor). Teams are building their own agents. MCP servers are exposing internal tools. It's all happening — with no central oversight. 
+
+[1] 
+
+No one knows what's running 
+
+Agents and MCP servers deployed across teams — no central view 
+
+[2] 
+
+No control over what they access 
+
+Direct connections to production data, no policy layer 
+
+[3] 
+
+No answer when compliance asks 
+
+No audit logs when Compliance asks "Who did what?" 
+
+You can’t govern what you can’t see 
+
+Employees are using AI tools (ChatGPT, Claude Code, Cursor). Teams are building their own agents. MCP servers are exposing internal tools. It's all happening — with no central oversight. 
+
+[1] 
+
+No one knows what's running 
+
+Agents and MCP servers deployed across teams — no central view 
+
+[2] 
+
+No control over what they access 
+
+Direct connections to production data, no policy layer 
+
+[3] 
+
+No answer when compliance asks 
+
+No audit logs when Compliance asks "Who did what?" 
+
+You can’t govern what you can’t see 
+
+Employees are using AI tools (ChatGPT, Claude Code, Cursor). Teams are building their own agents. MCP servers are exposing internal tools. It's all happening — with no central oversight. 
+
+[1] 
+
+No one knows what's running 
+
+Agents and MCP servers deployed across teams — no central view 
+
+[2] 
+
+No control over what they access 
+
+Direct connections to production data, no policy layer 
+
+[3] 
+
+No answer when compliance asks 
+
+No audit logs when Compliance asks "Who did what?" 
+
+Security and compliance built in 
+
+Everything enterprises need to deploy agents safely — threat protection, access control, and audit trails. 
+
+Stop threats before they spread 
+
+Agents can leak data, execute indirect prompt injections, or expose sensitive info without anyone noticing. Golf scans every interaction in real-time — blocking attacks and redacting PII before they reach your systems. 
+
+Know who did what 
+
+Shared API keys make it impossible to trace actions back to a person. Golf ties every agent action to a real identity through Okta, Azure, or your IdP — so you can enforce access policies per user, per tool. 
+
+Shared API keys make it impossible to trace actions back to a person. Golf ties every agent action to a real identity through Okta, Azure, or your IdP — so you can enforce access policies per user, per tool. 
+
+Audit-ready from day one 
+
+When compliance asks what happened, you need answers fast. Golf streams structured logs to Sentinel, Splunk, or your SIEM — giving you full data lineage and SOC 2 readiness out of the box. 
+
+Your infrastructure. Your rules. Zero data exfiltration. 
+
+Your infrastructure. Your rules. Zero data exfiltration. 
+
+Deploy fully in your VPC or use our hosted control plane — either way, your data never touches our servers. 
+
+[1] 
+
+Plugs into your existing identity and security stack 
+
+Plugs into your existing identity and security stack 
+
+[2] 
+
+Real-time threat detection by AI Engine 
+
+Real-time threat detection by AI Engine 
+
+[3] 
+
+One dashboard to manage all AI agents and MCP 
+
+One dashboard to manage all AI agents and MCP 
+
+Natively integrates with your enterprise stack 
+
+Natively integrates with your enterprise stack 
+
+[Siem & Data] 
+
+[Siem & Data] 
+
+[Siem & Data] 
+
+[Siem & Data] 
+
+[Siem & Data] 
+
+[IDMs] 
+
+[IDMs] 
+
+[IDMs] 
+
+[IDMs] 
+
+[IDMs] 
+
+[Siem & Data] 
+
+[Siem & Data] 
+
+[Siem & Data] 
+
+[Siem & Data] 
+
+[Siem & Data] 
+
+[IDMs] 
+
+[IDMs] 
+
+[IDMs] 
+
+[IDMs] 
+
+[IDMs] 
+
+[Siem & Data] 
+
+[Siem & Data] 
+
+[Siem & Data] 
+
+[Siem & Data] 
+
+[Siem & Data] 
+
+[IDMs] 
+
+[IDMs] 
+
+[IDMs] 
+
+[IDMs] 
+
+[IDMs] 
+
+[Siem & Data] 
+
+[Siem & Data] 
+
+[Siem & Data] 
+
+[Siem & Data] 
+
+[Siem & Data] 
+
+[IDMs] 
+
+[IDMs] 
+
+[IDMs] 
+
+[IDMs] 
+
+[IDMs] 
+
+ One platform, every stakeholder 
+
+Whether you're managing risk, enabling adoption, or building the infrastructure — Golf gives you what you need. 
+
+For AI Governance 
+
+Know what agents are running, who approved them, and enforce policy from one place. 
+
+For AI Governance 
+
+Know what agents are running, who approved them, and enforce policy from one place. 
+
+For IT teams 
+
+Enable teams to use AI without building auth, routing, and logging from scratch. 
+
+For Security teams 
+
+Uncover shadow AI. See what's exposed to LLMs. Stop threats before they spread. 
+
+For Security teams 
+
+Uncover shadow AI. See what's exposed to LLMs. Stop threats before they spread. 
+
+Real teams. 
+
+Real teams.

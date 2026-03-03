@@ -1,0 +1,149 @@
+Tesseral: Everything you need for B2B user management. 
+
+ Contact Us Access the Console 
+Pricing 
+Docs 
+Blog 
+AI & Machine Identity 
+For Enterprise 
+For Startups 
+
+ Solutions 
+ Blog 
+ Pricing 
+ Docs 
+
+ Contact Us Access the Console 
+
+Everything you need for B2B user management. 
+Implement enterprise-ready auth, role management, and API security in just a few lines of code. 
+ Get Started Book a Demo 
+
+Pre-built login UI 
+ Ship your login page in minutes. Match styling to your brand. Customize how users can log in without extra code. 
+
+Log in 
+Log in to ACME AI 
+ Log in with Google 
+
+Enterprise connections 
+ Integrate with all identity providers. Offer SAML single sign-on and SCIM programmatic provisioning. 
+
+ "With Tesseral, we shipped advanced support for teams in days. Their SDKs are a breeze to work with and the product design is thoughtful and intentional, clearly developed for B2B SaaS by people who've been in the auth trenches. It's rare to find a tool this powerful and a team we trust to scale with us as we grow. " 
+Samuel Barnholdt 
+Co-Founder and CTO, ion design (YC W24) 
+
+Fine-grained authorization 
+ Manage user permissions. Design an access control policy for your app. Offer custom roles to your customers. 
+
+Role 
+Employee 
+
+expenses.pay_out 
+
+expenses.approve 
+
+Managed API keys 
+ Authenticate API requests. Extend API access to your customers. Apply custom scopes to their permissions. 
+
+ $ curl https:// api.acme.ai /search?q=...
+  -H X-Api-Key= acme_sk_... 
+
+Start Building 
+
+Use Tesseral with your favorite framework 
+Tesseral supports all major web frameworks. Use our SDKs to simplify implementation and ship faster. 
+
+ Next.js Docs Docs 
+
+page.tsx 
+
+ Next.js 
+
+ React 
+
+ Flask 
+
+ Express.js 
+
+ Go 
+
+ import { TesseralProvider, getUser } from "@tesseral/tesseral-nextjs/serverside" ; 
+
+ // app/layout.tsx 
+ export default function RootLayout ({ children } : { children : React . ReactNode }) { 
+ return ( 
+ < html lang = "en" > 
+ < body > 
+ < TesseralProvider >{children} </ TesseralProvider > 
+ </ body > 
+ </ html > 
+ ); 
+ } 
+
+ // app/page.tsx 
+ export default async function Page () { 
+ const user = await getUser (); 
+ return < div >Howdy, {user.email} !</ div > ; 
+ } 
+
+ Powerful auth for any scale. Engineered for security, designed for developer experience. 
+
+User impersonation 
+Help customers troubleshoot by assuming their accounts. See exactly what they see in your app. Impersonation Docs 
+
+SAML single sign-on 
+Integrate single sign-on (SSO) instantly with any major identity provider, such as Microsoft Entra or Okta. SAML Docs 
+
+SCIM provisioning 
+Empower your customers to provision, de-provision, and update users from any major identity provider. SCIM Docs 
+
+Passkeys 
+Support phishing-resistant multi-factor authentication with touch ID, physical security keys, and more. Passkeys Docs 
+
+Webhooks 
+Receive real-time updates so you’re always in sync with Tesseral’s user management system. Webhooks Docs 
+
+Role-based access control 
+Design a fine-grained access control policy. Apply permissions checks to any user with just one line of code. RBAC Docs 
+
+Managed API keys 
+Issue revocable, tightly-scoped keys that your customers or integration partners can use with your API endpoints. Managed API Keys Docs 
+
+Authenticator apps (TOTP) 
+Offer multi-factor authentication with apps like Microsoft Authenticator, Authy, or 1Password. TOTP Docs 
+
+ Ready to launch? Start building with our free tier. 
+ Start Building 
+
+ Explore Tesseral Growth with a personalized demo. 
+ Talk to a Founder 
+
+ Star us on GitHub 
+ 904 + 
+
+Resources 
+
+ Pricing 
+ Docs 
+ Blog 
+ Security 
+
+Compare 
+
+ Tesseral vs. Auth0 
+ Tesseral vs. WorkOS 
+ Tesseral vs. Clerk 
+
+Company 
+
+ Terms of Use 
+ Privacy Policy 
+ Contact us 
+ Schedule a Call 
+
+Social 
+
+ GitHub 
+ LinkedIn 
+ X (Twitter)

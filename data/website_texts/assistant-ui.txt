@@ -1,0 +1,94 @@
+assistant-ui 
+
+ assistant-ui 
+ Docs Showcase Examples Cloud Playground Products Resources Pricing 
+
+ Docs Showcase Examples Cloud Playground 
+ Products Tool UI tw-shimmer Safe Content Frame MCP App Studio 
+ Resources Blog Careers Pricing 
+
+ — Star us on GitHub 
+
+The UX of ChatGPT in your own app 
+Open-source React toolkit for production AI chat experiences. $ npx assistant-ui init 
+
+ Get Started → Contact Sales Backed by Combinator 
+
+Shadcn 
+ChatGPT 
+Claude 
+Grok 
+Perplexity Explore More → 
+
+ assistant-ui 
+
+ New Thread 
+
+ Toggle menu Hide sidebar Share 
+
+Hello there! 
+How can I help you today? 
+
+ What's the weather in San Francisco? 
+ Explain React hooks like useState and useEffect 
+ Scroll to bottom 
+
+ Add Attachment Send message 
+
+Everything you need to ship AI chat 
+Production-ready components and state management. 
+
+Instant Chat UI 
+Drop in ChatGPT-style UX with theming and sensible defaults. 
+
+State Management 
+Streaming, interruptions, retries, and multi-turn conversations. 
+
+High Performance 
+Optimized rendering and minimal bundle size for responsive streaming. 
+
+Works Everywhere 
+Vercel AI SDK, LangChain, or any LLM provider. React-based. 
+
+and teams everywhere 
+
+ @LangChainAI 
+Build stateful conversational AI agents with LangGraph and assistant-ui. 
+
+ @hwchase17 
+Pleasure to work with Simon… bring streaming, gen UI, and human-in-the-loop with LangGraph Cloud + assistant-ui. 
+
+ @js_craft_hq 
+A huge shoutout to @simonfarshid for the cool stuff he makes at assistant-ui 
+
+ @adamsilverman 
+assistant-ui powered by LangGraph! It is awesome. 
+
+ @hungrytrtl 
+assistant-ui… Could save days of UI work. 
+
+ @keithschacht 
+A great set of pre-built react components for building chatbot experiences. 
+
+ @virattt 
+My favorite financial assistant is assistant-ui… fully open source… powerful starter tools… integrates with LangSmith and LangGraph. 
+
+ @HowardBGil 
+Stop building chat interfaces yourself… Just install assistant-ui and you’re done. 
+
+ @replyingaleks 
+assistant-ui goated 🐐🐐 
+
+Build once. Ready for production. 
+ Get Started Contact Sales 
+
+Products Cloud Playground Tool UI tw-shimmer Safe Content Frame MCP App Studio 
+
+Resources Documentation Examples Showcase Blog 
+
+Company Careers Contact Sales Pricing 
+
+Legal Terms of Service Privacy Policy 
+ assistant-ui 
+
+© 2026 AgentbaseAI Inc.

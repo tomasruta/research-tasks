@@ -1,0 +1,207 @@
+Voice AI Agents for Indian Languages | Bolna AI 
+
+Bolna Voice AI Platform – AI Voice Agents for Outbound and Inbound Calling, Customer Support, and Recruitment 
+
+ Bolna raises $6.3 million in seed funding, led by General Catalyst. 
+
+ Pricing Pilots News Documentation 
+
+ How it Works 
+ Features 
+ Case Studies 
+ Pricing 
+ Pilots 
+ News 
+ Documentation 
+ Careers 
+ Login 
+ Open main menu 
+
+ Backed by
+
+Voice AI 
+ Built for India 
+
+Power thousands of inbound and outbound calls every minute 
+ with human-like, multilingual intelligence 
+
+ Experience Bolna 
+
+1000+ Companies rely on Bolna to power their Voice AI Stack across 
+ 10+ vernacular Indian languages including Hinglish, Hindi, Tamil, Telugu. 
+
+ BOLNA FOR ENTERPRISES 
+
+Seamlessly Build, Test, Deploy, and Scale Conversational Voice AI Agents.
+ Go from idea to live calls in minutes, not weeks. 
+
+ CONTACT US 
+Talk to Bolna 
+Have questions? Give our AI Agent a call and we'll help you get started. 
+ +91 22 6953 9260 
+
+ OUR AGENTS 
+Agents That Do More Than Just Talk 
+Create Voice AI agents for India that sound natural, understand context
+ and take action that business oriented results without increasing your team size. 
+
+ Ecommerce EdTech HealthTech BFSI Hospitality 
+
+Customer Support Agent 
+ Customer Support English 
+Provides 24/7 inbound call answering for FAQs and customer triage 
+
+Play Demo
+
+Clone Agent
+
+ +918035317400 
+
+Cart Abandonment Agent 
+ Cart Abandonment English + Hindi 
+Calls customers with abandoned items in carts, recovering sales 
+
+Play Demo
+
+Clone Agent
+
+ +918035317449 
+
+COD Confirmation Agent 
+ COD Confirmation English + Hindi 
+Handles a variety of last mile logistics tasks, saving human effort 
+
+Play Demo
+
+Clone Agent
+
+ +918035317450 
+
+Recruitment Agent 
+ Recruitment English 
+AI agents that screen, interview, and onboard candidates at scale 
+
+Play Demo
+
+Clone Agent
+
+ +918035317441 
+
+ HOW IT WORKS 
+
+Built for Developers, 
+Easy for Everyone 
+
+Whether you're a no-code builder or a developer, Bolna makes it easy to create powerful conversational voice AI agents that understand Indian languages and accents. Build and scale multilingual voice bots using simple clicks or code control. 
+
+NO-CODE PLAYGROUND 
+
+STEP ONE 
+Connect Account 1 
+Sign in to the Dashboard 
+
+STEP TWO 
+Configure Agent 2 
+Choose a pre-built template or build from scratch 
+
+STEP THREE 
+Click to Call 3 
+Trigger calls, campaigns or connect agent with your phone number 
+
+DEVELOPER APIs 
+
+ api-integration 
+ Python Py JavaScript JS cURL cURL 
+
+ 1 import requests
+ 2 
+ 3 url = "https://api.bolna.ai/call" 
+ 4 
+ 5 payload = { 
+ 6 "agent_id" : "123e4567-e89b-12d3-a456-426655440000" , 
+ 7 "recipient_phone_number" : "+10123456789" , 
+ 8 "from_phone_number" : "+19876543007" , 
+ 9 "user_data" : { 
+ 10 "variable1" : "value1" , 
+ 11 "variable2" : "value2" , 
+ 12 "variable3" : "some phrase as value" 
+ 13 } 
+ 14 } 
+ 15 
+ 16 headers = { 
+ 17 "Authorization" : "Bearer <token>" , 
+ 18 "Content-Type" : "application/json" 
+ 19 } 
+ 20 
+ 21 response = requests . request ( "POST" , url , json = payload , headers = headers ) 
+ 22 
+ 23 print ( response . text ) 
+
+ FEATURES 
+
+Features That Power Real Voice Agents 
+
+With integrated speech, telephony, and APIs, Bolna provides everything you need to take your idea into secure, production-ready deployment. 
+
+Bulk Calling at Scale 
+Run campaigns with thousands of AI calls simultaneously. 
+
+Custom API Triggers 
+Call external APIs in real-time during a live conversation. 
+
+Human-in-the-Loop 
+Transfer call to a human agent instantly when needed. 
+
+Workflow Integration 
+Easy to integrate with n8n, Make.com, Zapier, and other tools 
+
+Multilingual 
+Converse fluently in 10+ Indian and foreign languages. 
+
+Natural Conversations 
+Agents understand interruptions, reply with <300ms latency. 
+
+Connect Any Model 
+Integrated with 20+ ASR, LLM, and TTS models. 
+
+Enterprise Plans 
+Best-in-class pricing and Forward Deployed service. 
+
+100% Data Privacy 
+India / USA specific data residency, on-prep deployment. 
+
+Model Switching 
+Run each call with models suited best for your use case. 
+
+ CASE STUDIES 
+Helping Companies Scale their Call Operations 
+Explore how top organisations leverage Bolna's Voice Agents to Streamline Internal Workflows, Improve Efficiency, and stay competitive in the age of AI. 
+
+ Read Full Story 
+“ Awign automated technical screening with Bolna's Voice AI - faster interviews, structured insights, and lower costs at scale. ” 
+
+17.1 Mins 
+Longest Interview Duration 
+
+6.8 Mins 
+Average Interview Duration 
+
+ Read Full Story 
+“ Hyreo improved candidate experience and reduced offer drop-offs with Bolna’s 24x7 AI helpline and proactive escalations. ” 
+
+96.55% 
+Call minutes growth rate 
+
+10000+ 
+Voice AI call conversations 
+
+ Read Full Story 
+“ GoKwik scaled high-volume e-commerce conversations - cart recovery, surveys, collections - while answering real questions and sharing WhatsApp links. ” 
+
+4,00,000+ 
+Unique engagements 
+
+250+ 
+Peak concurrent calls 
+
+ Read Full Story 

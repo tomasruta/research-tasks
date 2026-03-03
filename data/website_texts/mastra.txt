@@ -1,0 +1,159 @@
+The TypeScript AI Framework - Mastra 
+
+ Open main menu 
+
+ Product 
+ Resources 
+ Pricing 
+ Book 
+ Blog 
+ Docs 
+ 21.7k 
+ Login Sign Up 
+
+ product 
+ Cloud 
+ Agents 
+ Workflows 
+ Observability 
+ RAG 
+ resources 
+ All resources 
+ Templates 
+ Customers 
+ Book 
+ Mastra 101 
+ Blog 
+ Research 
+ Docs 
+ sales 
+ Pricing 
+ Contact 
+ 21.7k 
+ Login Sign Up 
+
+ Early bird: $189 $99 
+
+ TypeScript AI Demo Day Join us → April 9, SF + Online 
+
+Build agents
+with a modern 
+TypeScript stack 
+Mastra is an all-in-one framework for building
+ AI-powered applications and agents. 
+ npm create mastra@latest 
+
+Agent Framework 
+
+Build and iterate 
+Agents. Workflows. RAG. Memory. MCP. Evals.
+ Mastra lets you go from idea to implementation. 
+
+ Agents 
+
+ Workflows 
+
+ RAG 
+
+ Memory 
+
+ Tools 
+
+ MCP 
+
+Run your agents in a local dev server 
+Write your agent logic in JavaScript 
+
+Your developer studio
+ Iterate and visualize agents and workflows 
+
+Observability platform 
+
+Productionize and test 
+Tune context. Improve recall.
+Tweak until your agents achieve human-level accuracy. 
+
+Define custom evals
+ Track performance of your agents over time 
+
+Evaluate agent output using model-graded, rule-based, and statistical methods 
+
+Process inputs/outputs so you can prevent prompt injection and sanitize responses 
+
+Trace agent calls and token usage, with your o11y platform 
+
+Secure access to agent endpoints using your identity system 
+
+Built-in observability
+ View traces and logs for your agents 
+
+Deployment platform 
+
+Deploy and scale 
+Expose your agents as APIs, or bundle them with your app.
+With Mastra, your agents are part of your infrastructure. 
+
+Manage deployments
+ Control your source code and infrastructure 
+
+Integrates with your framework or server: Next.js, Express, Hono, and more... 
+
+Control your source code. Mastra is fully open-source under the Apache 2.0 license 
+
+Flexible architecture
+ Deploy Mastra agents wherever you're hosting your app, or as a standalone service 
+
+Build your first agent 
+ with Templates read the Agent Book 
+ learn with the Tutorial watch the Workshops 
+ tune in to Agents hour and more... 
+
+Browser Agent 
+Integrate Stagehand into Mastra 
+
+Google Sheet Analysis 
+Analyze and edit Google Sheet 
+
+Chat with Database 
+Query a database using natural language 
+
+Principles of Building AI Agents 
+A practical guide on how to build AI agents 
+
+Get started quickly with pre-built solutions
+ from Mastra and our community. Explore all templates 
+
+MCP Course Mastra 101 
+Introduced by Shane Thomas, CPO of Mastra 
+
+Python trains,
+ TypeScript ships. 
+ npm create mastra@latest Contact Sales 
+
+Products 
+ Cloud 
+ Agents 
+ Workflows 
+ Observability 
+Developers 
+ Docs 
+ Templates 
+ Principles of Building AI Agents 
+ Patterns for Building AI Agents 
+ llms.txt 
+ Mastra Cloud Status 
+ Research 
+ MCP Registry Registry 
+Company 
+ About 
+ Careers 
+ Pricing 
+ Contact Us 
+ Newsletter 
+ Security 
+ GitHub 
+ Discord 
+ X 
+ YouTube 
+Legal 
+ Privacy Policy

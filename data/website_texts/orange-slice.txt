@@ -1,0 +1,57 @@
+Custom Sales Workflow Automation Software | Orange Slice 
+
+ We raised $5.3M in seed funding Read more → 
+
+ Orange Slice beta Book a Demo Use Cases Pricing 
+ Join our Slack Log in Get started 
+
+ Backed by Y Combinator 
+Build sales workflows with natural language 
+Find new customers, enrich data and contact info, coordinate outreach and build entire sales workflows in plain English 
+
+ ↵ to start 
+
+Signal coverage 
+Every high-intent data point, connected end to end 
+Pull rich signals from multiple providers, then trigger outreach and routing in the tools your team already uses. 
+ Firmographic Technographic Hiring Funding Social intent Website changes Contact data News triggers 
+
+Data providers 
+
+Activation integrations 
+
+Trusted by 
+
+AI Lead Generation 
+Describe your leads. We'll find them. 
+Skip the filters and boolean searches. Just describe who you're looking for in plain English and get a researched, enriched lead list in seconds. 
+
+Workflow Automation 
+One prompt. Entire workflow. 
+Describe what should happen in plain English. Orange Slice builds the triggers, enrichment, and actions — all wired together and ready to run. 
+
+“When a new Fathom call transcript comes in, extract the contact info, draft a follow-up email, and ping the account executive on Slack” 
+ ↵ to start 
+
+Inbound Qualification 
+Qualify and route every inbound lead automatically. 
+When a new lead hits HubSpot, Orange Slice qualifies them against your criteria, enriches the record, and routes them to the right AE — no manual triage, no leads slipping through. 
+ HubSpot Salesforce Webhooks 
+
+Social Listening 
+Find buyers where they're already talking. 
+Monitor Reddit, LinkedIn, and other communities for buying signals. Surface prospects actively searching for solutions like yours — then enrich and reach out before competitors do. 
+ Reddit LinkedIn Twitter / X 
+
+Related templates 
+ Find Companies Actively Hiring For Specific Roles • Monitor Competitor Pricing Pages And Plans • Enrich Company Data With Firmographics • Find Everyone Who Engaged With Your LinkedIn Posts 
+
+Describe your first workflow. Ship it in minutes. 
+Tell us who you're looking for and what should happen — we handle the rest. 
+ Get started Book a demo 
+
+ Twitter LinkedIn 
+
+© 2026 Orange Slice, Inc. All rights reserved. 
+
+OrangeSlice

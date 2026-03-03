@@ -1,0 +1,225 @@
+synthetic sciences — orchestrate ai co-scientists 
+
+ Synthetic Sciences 
+
+ Modes 
+ Infrastructure 
+ Pricing 
+
+ Get Started 
+ Get Onboarded 
+
+ Backed by Y Combinator 
+
+Orchestrate AI
+Co-Scientists 
+
+Delegate literature reviews, train models on cloud GPUs, design experiments, and generate publication-ready LaTeX with agents built for scientific execution. 
+
+ Get Onboarded 
+
+ npm i -g @synsci/cli 
+
+ Live Product Walkthrough 
+
+ [ Modes ] 
+
+4 Modes. 1000s of Workflows. 
+
+Switch modes mid-session to change objectives, tool access, and execution style without dropping context. 
+
+ Watch Full Demo 
+
+ 01 Core 
+
+Research 
+
+End-to-end research execution: hypothesis framing, literature synthesis, experiment planning, GPU training, evaluations, and manuscript drafting. 
+
+ Watch Full Demo 
+
+ 02 SOTA 
+
+Biology 
+
+Wet-lab and computational biology specialist for protein design, genomics, pathway analysis, and biomedical reasoning workflows. 
+
+ Watch Full Demo 
+
+ 03 
+
+Flywheel 
+
+Build compounding model improvements from production usage, auto-design fine-tunes, run evaluations, and ship stronger versions continuously. 
+
+ Watch Full Demo 
+
+ 04 
+
+Write 
+
+Turn rough notes into publication-ready output with structured arguments, verified citations, clean LaTeX, and camera-ready formatting. 
+
+ Unified Workspace 
+
+Train models and read papers in one flow. 
+
+Fine-tune DeepSeek on Tinker GPUs, run evaluations, and review literature in one continuous workspace orchestrated by your agents. 
+
+ [ Infrastructure ] 
+
+Your Credentials. Your Compute. 
+
+Connect once on the dashboard. Credentials sync to every agent and every session. 
+
+Universal Credential Sync 
+
+Connect once on the dashboard. GitHub, Hugging Face, Weights & Biases, and other API keys automatically sync to every agent and every session. 
+
+GPU Orchestration 
+
+Provision compute clusters across multiple providers seamlessly. 
+
+Deep Integrations 
+
+Connect your stack once and coordinate research execution across repos, experiments, vector databases, and cloud runtimes. 
+
+ GitHub 
+ Hugging Face 
+ Weights & Biases 
+ Modal 
+ Prime Intellect 
+ Pinecone 
+ OpenAlex 
+ PubMed 
+
+Zero Setup Overhead 
+
+Start researching immediately. Everything from package dependencies to Python environments is fully managed by our sandboxed runtime. 
+
+ Research 
+
+Long-Horizon RL Environments for Scientific Research. 
+
+We develop RL environments and process-based training data for LLMs, starting with agentic coding environments for ML research workflows. 
+
+ I'm Interested 
+
+ [ Cloud ] 
+
+Agents That Never Stop. 
+
+Keep long-running workflows alive in persistent browser runtimes. Start a training run or literature review, walk away, and your agents continue execution autonomously. 
+
+ Persistent Agent Runtime 
+ Always Active in Browser 
+
+Persistent Sandboxes 
+
+Each agent continues inside an isolated, stateful environment with full checkpointing and deterministic resume. 
+
+ State recovery without manual setup 
+ Every run remains reproducible and resumable 
+ Context survives disconnects automatically 
+
+Elastic Compute Profiles 
+
+Scale from lightweight analysis nodes to full GPU clusters without changing prompts, workflows, or context state. 
+
+ From CPU sessions to multi-GPU clusters 
+ Model runs, evaluations, and writing in one flow 
+ Dynamic allocation based on task intensity 
+
+Asynchronous Work Orchestration 
+
+Queue long evaluations, training loops, and literature synthesis pipelines while your browser session is offline. 
+
+ Background queues continue while you are away 
+ Automatic artifact collection and organization 
+ Morning-ready summaries delivered to dashboard 
+
+ Reliable Checkpointing 
+ Continuous Orchestration 
+ Cross-Session Continuity 
+
+ [ Pricing ] 
+
+Simple, Transparent Pricing. 
+
+Credits cover all included models. Connect your own keys for external services. 
+
+ Plus 
+
+ $50 /month 
+
+For individual researchers. 
+
+50 credits / month 
+
+4 modes (Research, Biology, Flywheel, Write) 
+
+Dozens of integrations 
+
+3 frontier models included 
+
+GPU orchestration 
+
+Community support 
+
+ Get Started 
+
+ Pro 
+
+Most Popular 
+
+ $200 /month 
+
+For serious research teams. 
+
+200 credits / month 
+
+Everything in Plus 
+
+Flywheel mode 
+
+Priority GPU access 
+
+Priority support 
+
+Advanced usage analytics 
+
+ Get Pro 
+
+ Enterprise 
+
+ Custom 
+
+For large research organizations. 
+
+Unlimited credits 
+
+Everything in Pro 
+
+Dedicated support 
+
+Custom integrations 
+
+On-premise deployment 
+
+SLA guarantees 
+
+ Contact Us 
+
+All plans include all 4 modes · Credential sync · GPU orchestration 
+
+ Synthetic Sciences 
+
+ © 2026 InkVell Inc. 
+
+ Privacy 
+ Terms 
+ Email 
+
+ × 
+
+Mode Demo

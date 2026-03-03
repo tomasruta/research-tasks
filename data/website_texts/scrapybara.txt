@@ -1,0 +1,163 @@
+Virtual Desktops for AI Agents | Scrapybara 
+
+ SCRAPYBARA 
+
+ Product 
+ Resources 
+ Docs 
+ Get started 
+
+TRY OPENAI CUA FOR FREE ₍ᐢ•(ܫ)•ᐢ₎ 
+A COMPUTER FOR YOUR AI 
+Scrapybara hosts remote desktop instances 
+ for computer use agents like CUA. 
+ Try for free Read the docs 
+ Join Scrapybara Discord and deploy agent 
+
+ ASK SCRAPY 
+
+ CHROMIUM 
+ WORD 
+ DISCORD 
+ VSCODE 
+
+ .:--:. 
+ .:==::::::::::::=:.. 
+ .-=+=-==----====-=== 
+ ..:--***++=*#+=+-=**+.+ 
+.:---=====+++**+-:::==-- 
+.--======+====+=-=-::::. 
+:-=====scrapybaraOS--::. 
+--==============------:. 
+:-===========---------. 
+.-=========---------:. 
+ .=**++========----:. 
+ :*%+.-+=+++=:-*+-. 
+ .=++: .::. 
+
+INTEGRATE 
+DEAD EASY COMPUTER USE 
+One unified interface for computer use models. Execute powerful workflows with structured outputs, multi-turn conversations, and custom tools. Explore docs 
+
+PYTHON 
+pip install scrapybara 
+
+TYPESCRIPT 
+npm install scrapybara 
+
+SUPPORTED LANGUAGES 
+
+ 1 from scrapybara import Scrapybara
+ 2 from scrapybara . openai import OpenAI
+ 3 from scrapybara . tools import ComputerTool , BashTool , EditTool
+ 4 
+ 5 client = Scrapybara ( ) 
+ 6 instance = client . start_ubuntu ( ) 
+ 7 
+ 8 response = client . act ( 
+ 9 tools = [ 
+ 10 ComputerTool ( instance ) , 
+ 11 BashTool ( instance ) , 
+ 12 EditTool ( instance ) 
+ 13 ] , 
+ 14 model = OpenAI ( ) , 
+ 15 system = "You are a webscraping agent" , 
+ 16 prompt = "Scrape all YC W25 companies" , 
+ 17 ) 
+ 18 messages = response . messages 
+
+FEATURES 
+EVERYTHING YOUR AGENT NEEDS 
+Instantly spin up desktop instances with browser, code execution, and filesystem capabilities at massive scale. Explore instances 
+
+SPEED, SCALE, STABILITY 
+Start hundreds of instances in milliseconds and take computer actions with minimal latency. We handle the orchestration and scaling so you can focus on building the agent. 
+
+INTERACTIVE STREAM 
+Monitor and yield control in real-time 
+
+AUTHENTICATED ACCESS 
+Save and load authenticated websites 
+
+SESSION PERSISTENCE 
+Pause and resume instances 
+
+INSTANCE CAPABILITIES 
+
+UBUNTU 
+Feature-rich Linux desktop 
+
+BROWSER 
+Lightweight Chromium browser 
+
+WINDOWS 
+Full Windows desktop 
+
+INSTANCE TYPES 
+
+USE CASES 
+DEPLOY INTELLIGENT AGENTS 
+Painlessly connect computer use agents with reliable desktop infrastructure to automate any free-form computing task at scale. Explore cookbook 
+
+CODECAPY.AI 
+The only PR bot that actually tests your code. CodeCapy analyzes code changes and executes hundreds of parallel end-to-end UI tests in Scrapybara Ubuntu instances. 
+ Try it out GitHub 
+
+COPYCAPY ₍ᐢ•(ܫ)•ᐢ₎ 
+Scrape and capyfy any website 
+WIDE RESEARCH 🇾 
+Deep research scraping in parallel 
+DUNGEON CRAWLER ⭑✮ 
+Fight monsters and explore dungeons 
+
+POPULAR EXAMPLES 
+
+PRICING 
+SCALE AS YOU GO 
+Free accounts start with 10 compute hours, 100 agent credits, and 5 concurrent instances. 
+
+BASIC 
+
+$ 29 
+/month 
+ 100 compute hours/mo 
+ 500 agent credits/mo 
+ 25 concurrent instances Sign up 
+
+PRO 
+
+$ 99 
+/month 
+ 500 compute hours/mo 
+ 2500 agent credits/mo 
+ 100 concurrent instances Sign up 
+
+ENTERPRISE 
+
+CUSTOM 
+ Self-hosting 
+ Dedicated Support 
+ 99.9% Uptime SLA Book a demo 
+
+PLANS 
+
+AGENT CREDIT 
+Each step (1 assistant message with tool calls) consumes 1 agent credit when using the Act SDK or playground. Credit top-ups are available at $0.04 each, or you can use your own provider API key. 
+
+"loved working with these guys. scrapybara is so nice to use" 
+— Ilan Bigio, DX Engineer and Strawberry Farmer at OpenAI 
+
+TRY COMPUTER USE TODAY 
+ Start for free Read the docs Join the community 
+
+ SCRAPYBARA 
+VIRTUAL DESKTOPS FOR AI AGENTS 
+BACKED BY COMBINATOR 
+ LinkedIn X Discord Contact 
+
+Product About Features Integrate Use cases Pricing Dashboard Playground 
+Resources Docs Blog Cookbook 
+Company Careers Privacy policy Terms and conditions 
+
+© 2026 Scrapybara, Inc. 
+Made with 💖 in San Francisco.

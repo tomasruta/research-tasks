@@ -1,0 +1,158 @@
+Perspectives 
+
+ Reclaim 
+
+ Scribe 
+
+ User Guide 
+
+ BestNotes 
+
+ Security 
+
+ Sign in 
+ Book a Demo 
+
+ AI that fights for behavioral health approvals
+
+ Works for every behavioral health program, however you run RCM 
+
+Perspectives combines AI-powered utilization review with proactive chart auditing — built to maximize approved days of care and eliminate preventable denials. 
+
+ Book a Demo 
+ Learn More 
+
+Trusted by top behavioral health programs around the nation 
+
+Perspectives Reclaim: 
+
+A system to increase approved lengths of stay, prevent payor-driven stepdowns, and protect against clawbacks. 
+
+Daisy Goyette 
+
+ 3.5 Residential 
+
+ Review #5 
+
+ All Patients 
+ UR Review 
+ Audit 
+
+ ✕ Fail 
+ ✓ Pass 
+ ⚠ Not Found 
+
+ JCO 
+ Aetna 
+
+Peer Support Services Delivered but Not Present in Treatment Plan 
+
+Progress Note dated 01/11/2026 documents a Peer Support session. However, the current Treatment Plan does not list Peer Support as an intervention. 
+
+ACTION REQUIRED 
+
+Add "Peer Support Services" as an intervention in the Treatment Plan with associated goals and frequency. 
+
+Joint Commission CTS.02.01 EP 4 
+
+Family Therapy Not in Treatment Plan Despite Client Request 
+
+Psychosocial Assessment documents: "Mother and brother Devin identified as sober supports. Patient requests family involvement in treatment." 
+
+ACTION REQUIRED 
+
+Add "Family Therapy" or "Family Contact/Coordination" as a treatment plan intervention with scheduled frequency. 
+
+Joint Commission CTS.03.01 EP 8 
+
+Discharge Planning Not Documented Within Required Timeframe 
+
+Patient admitted 01/02/2026. No discharge planning note found within 72 hours of admission as required. Most recent documentation is dated 01/08/2026. 
+
+ACTION REQUIRED 
+
+Document initial discharge plan within 72 hours of admission. Include anticipated discharge date, aftercare placement, and patient/family involvement. 
+
+Joint Commission CTS.06.01 EP 1 
+
+Suicide Risk Assessment Missing Required Re-Assessment After Incident 
+
+Progress Note dated 01/09/2026 documents patient expressed passive suicidal ideation during group. No updated suicide risk assessment completed following this disclosure. 
+
+ACTION REQUIRED 
+
+Complete a Columbia Suicide Severity Rating Scale (C-SSRS) reassessment and update the safety plan within 24 hours of the reported ideation. 
+
+Joint Commission NPSG.15.01 EP 1 
+
+Treatment Plan Goals Lack Measurable Criteria and Target Dates 
+
+Current treatment plan lists "Patient will improve coping skills" as a goal. No measurable objective, baseline, or target date is documented for this or 3 other goals. 
+
+ACTION REQUIRED 
+
+Revise all treatment plan goals to include specific, measurable objectives (e.g., "Patient will identify 3 coping strategies by 02/01/2026") with target dates. 
+
+Joint Commission CTS.02.01 EP 2 
+
+No Documented Medication Education Provided to Patient 
+
+MAR shows patient has been on Naltrexone 50mg since admission on 01/02/2026. No medication education note found in the record documenting patient education on purpose, side effects, or interactions. 
+
+ACTION REQUIRED 
+
+Document medication education session covering purpose, dosage, side effects, and patient's understanding. Obtain patient signature confirming education received. 
+
+Joint Commission MM.04.01 EP 10 
+
+Informed Consent Properly Signed and Dated on Admission 
+
+Informed Consent form signed by patient on 01/02/2026. Includes signatures for general treatment consent, medication consent, and telehealth consent. 
+
+👤 Nursing Staff — Intake 
+
+Joint Commission RI.01.01 EP 1 
+
+ASAM Level of Care Matches Clinical Assessment Scores 
+
+The level of care assigned must be consistent with the results of a validated assessment tool and reflect the individual's current clinical needs. 
+
+👤 Dr. James Rivera, MD — Attending Physician 
+
+Joint Commission CTS.01.01 EP 3 
+
+Recreational Activity Participation Documented — Intent Satisfied 
+
+The organization provides activities that support the individual's social, recreational, and wellness needs as part of a holistic treatment approach. 
+
+👤 Activity Coordinator 
+
+Joint Commission CTS.05.01 EP 6 
+
+Suicide Risk Screening Completed Within 24 Hours of Admission 
+
+A validated suicide risk screening must be conducted for all individuals within 24 hours of admission to a behavioral health setting. 
+
+👤 Nursing Staff — Intake 
+
+Joint Commission NPSG.15.01.01 EP 1 
+
+Advance Directive Discussion Not Documented 
+
+No advance directive discussion or documentation found in the admission paperwork, consent forms, or nursing intake assessment. 
+
+ACTION REQUIRED 
+
+Document advance directive discussion with the patient and note preferences in the medical record. 
+
+👤 Nursing Staff — Intake 
+
+Joint Commission RI.01.05.01 EP 1 
+
+Discharge Planning Assessment Not Located in Chart 
+
+No discharge planning assessment found in treatment plan, social work notes, or case management records. 
+
+ACTION REQUIRED 
+
+Complete a discharge planning assessment and document anticipated post-discharge needs, barrie

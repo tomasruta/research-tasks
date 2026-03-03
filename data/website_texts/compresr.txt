@@ -1,0 +1,60 @@
+compresr - Context Compression 
+
+ Toggle navigation c o m p r e s r 
+ Documentation | Pricing | Compresr for agents | Contact us 
+ 🇬🇧 
+
+ Y Backed by Y Combinator 
+Compress Context. Cut Cost. Improve performance. 
+
+ $ pip install compresr compresr proxy for agents GitHub Stars 
+ Sign up Try demo 
+
+ 🎯 Boost LLM pipelines with context compression 
+Reduce context to what matters. At 2 levels. 
+ Coarse-grained. Pass a query + a list of chunks -> get relevant ones. 
+ Fine-grained. Query + your context -> token-level compression. 
+
+ Open Source 
+
+ 🤖 Make your agents context-efficient 
+Use any agents with our gateway for cost/latency/accuracy benefits. 
+ Compress conversation history, tool outputs, lists of tools. 
+ Works with: Claude Code , OpenClaw , Codex , and more! 
+
+Up to 200x compression without quality loss See example 
+A SEC filing analysis 
+
+Baseline (GPT-5.2) 
+latte_v1 API
++ GPT-5.2 
+
+Compression 
+ — 
+ 10x 
+
+ Average Context 
+ ~106K tokens 
+ ~10.5K tokens 
+
+Accuracy 
+ 72.3% 
+ 74.5% 
+
+Savings 
+ — 
+ 76% cheaper 
+FinanceBench · 141 questions over 79 SEC filings · Full filings up to 230K tokens long 
+
+Stay in the Loop 
+Get the latest updates on new features, research papers, and tips for optimizing your AI workflows. 
+
+ Subscribe 
+We respect your privacy. Unsubscribe at any time. 
+
+Ready to equip every query with laser-focused context? 
+ Sign up Book a Meeting 
+
+ compresr 
+ Privacy Policy Terms of Service X LinkedIn 
+© 2026 compresr. All rights reserved.

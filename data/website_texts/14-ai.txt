@@ -1,0 +1,136 @@
+The AI Customer Service Agency for B2C Brands | 14.ai 
+
+ Thu, Mar 12, 8:00 AM PT Automating TikTok Shop at Scale: Building a Creator Engine with Bora Mutluoglu, Co-Founder of Reacher (YC S25) → 
+
+ Industries 
+ TikTok Shop Book Blog Sign in 
+
+ Customer Service The AI Customer Service Agency The AI Customer Service Agency 
+
+ Backed by Y Combinator 
+ Featured in TechCrunch 
+
+ Book a consultation → 
+
+14.ai is the world's first AI-native customer service agency . An end-to-end operation that replaces the bulk of human-powered work with autonomous AI agents, paired with experienced humans serving as your dedicated concierge . By taking over repetitive tickets, complex workflows, and high-volume customer touchpoints across every channel, we help teams focus on the moments that truly move the business: brand protection, high-impact exceptions, and the conversations that drive revenue, activation, and loyalty. 
+With 14.ai in place, customer operations scale effortlessly without adding headcount , and customers receive faster, more consistent resolutions than ever before. 
+14.ai is more than a service. We are setting a new standard for how support operations are run. A future where AI handles the day-to-day, where operations expand smoothly, and where support professionals evolve into orchestrators who elevate the entire customer journey. The result is a customer experience that becomes consistently excellent, with customer satisfaction reaching new highs. From first touch to long-term retention. 
+
+Marie Schneegans and Michael Fester 
+Founders, 14.ai 
+
+ Talk to us → 
+
+How we work 
+
+We combine software platform and service in one. Our AI ops team takes over your entire support operation at a fraction of the cost : setting up systems, training AI on your existing processes, and connecting everything from voice to backend order management and CRM. 
+Our AI engineers handle edge cases and undocumented procedures themselves, solving the cold start problem and achieving resolution rates that self-service AI solutions can't match. We deploy gradually, iterate fast, and expand into pre-sales, upsells, and retention, turning support into a revenue-generating operation . 
+
+Zero cold start 
+We learn from your existing setup and handle undocumented procedures, moving faster than any self-service solution. 
+
+Revenue generation 
+We expand into pre-sales, upsells, and retention, capturing opportunities that traditional support misses. 
+
+24/7, infinite scale, any language 
+Round-the-clock coverage that scales instantly with demand. In any language. No hiring, no onboarding, no limits. 
+
+Higher resolution rates 
+By orchestrating AI systems and handling edge cases, we achieve better outcomes than bolt-on solutions. 
+
+Single solution 
+Replace your ticketing system, AI plugins, and BPO contracts with one integrated platform. 
+
+Gradual deployment 
+We deploy incrementally and iterate fast, migrating you off legacy systems at your pace. 
+
+We meet your customers where they are 
+
+ Email 
+ Chat 
+ Voice 
+ TikTok 
+ Instagram 
+ WhatsApp 
+ Meta 
+ Telegram 
+
+Industries we serve 
+
+Retail and e-commerce 
+Scale your Shopify and TikTok Shop support with instant, personalized experiences. 
+
+Healthcare 
+Deliver compliant, empathetic patient support at scale with AI-powered automation. 
+
+Financial services 
+Secure, compliant customer support for banking, fintech, and financial institutions. 
+
+Technology 
+Empower self-serve SaaS platforms with intelligent, scalable support automation. 
+
+What you get 
+
+AI support ops team 
+Our team of AI engineers and support operators runs your entire support operation end to end. We handle every ticket as your dedicated concierge, and only reach out when guidance is needed. You stay in control, without being pulled into day-to-day work. 
+
+Unified dashboard 
+Review all conversations, track metrics, and generate deep reports for product, leadership, engineering, sales, and marketing teams. 
+
+AI system of record 
+Your knowledge base stays current automatically. The AI learns from every interaction and keeps documentation up to date. 
+
+Performance monitoring 
+Track quality and performance of AI interactions in real time. Jump in for high-touch moments like important upsell opportunities or strategic customer conversations. 
+
+Your intervention, at-will 
+While our team takes care of 100% of your support tickets, you stay in control, joining only when it adds value. We become the human liaison for edge cases while you focus on strategic conversations. 
+
+One line item on your expense sheet 
+
+expense_report_ 2026 .xlsx 
+
+A 
+B 
+C 
+
+1 
+Customer Service Operations - Q2 2026 
+
+2 
+
+3 
+Vendor 
+Category 
+Monthly cost 
+
+4 
+Zendesk, Gorgias, Freshdesk 
+Ticketing system 
+$X,XXX 
+
+5 
+AI bolt-ons 
+AI agents 
+$X,XXX 
+
+6 
+Acme BPO 
+Outsourced support 
+$XX,XXX 
+
+7 
+
+8 
+14.ai 
+AI-native agency 
+$— 
+
+9 
+
+10 
+* Replaces ticketing system, AI plugins, and BPO vendor with single solution. 
+
+The AI company blueprint 
+
+We do not just run our customers' 

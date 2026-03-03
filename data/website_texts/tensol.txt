@@ -1,0 +1,93 @@
+Tensol — Deploy OpenClaw for Business | Managed AI Employees 
+
+ Templates 
+ Use Cases 
+
+ AI SDR Agent AI Engineering Agent AI Backoffice Agent All AI Employees 
+ Who it's for 
+
+ For CTOs For Founders For Engineering Managers For Heads of Product Blog 
+ Book a Demo Get started 
+
+ Backed by Built on 
+Your AI employee that works while you sleep 
+Deploy OpenClaw as a managed AI employee. Monitors Slack, catches errors, updates your CRM — 24/7 on dedicated infrastructure. 
+ Get started Book a Demo 
+
+ Sales Marketing Support Engineering Operations 
+
+ Outbound Sales 
+Sales Agent 
+Manages your entire sales pipeline — from detecting new inbound leads to researching prospects, drafting personalized outreach, and following up. Autonomously. 
+
+Prospects researched 
+142 
+↑ +18% 
+
+Emails drafted 
+89 
+↑ this week 
+
+ Live activity 5 actions · all autonomous 
+
+ 8:02 Website Detected demo form from Acme Freight 
+ 8:05 ZoomInfo Researched — $42M rev, 180 emp 
+ 8:07 LinkedIn Found VP Ops as decision maker 
+ 8:10 Gmail Drafted personalized outreach 
+ 8:11 HubSpot Created deal + follow-up sequence 
+
+Autonomous AI Sales Agent — Sales Agent 
+Manages your entire sales pipeline — from detecting new inbound leads to researching prospects, drafting personalized outreach, and following up. Autonomously. Real customer: GateGo . Used Website to: Detected demo form from Acme Freight. Used ZoomInfo to: Researched — $42M rev, 180 emp. Used LinkedIn to: Found VP Ops as decision maker. Used Gmail to: Drafted personalized outreach. Used HubSpot to: Created deal + follow-up sequence . Deploy OpenClaw as a managed AI sales employee on Tensol. 
+
+Autonomous AI Marketing Agent — Content Agent 
+Monitors competitors, creates content, and manages your social presence. Wakes up before your team and has drafts ready for review. Real customer: Kodo . Used Web to: Detected competitor product launch. Used LinkedIn to: Analyzed their announcement. Used Memory to: Cross-ref'd with your roadmap. Used LinkedIn to: Drafted counter-positioning post. Used Slack to: Sent drafts to #marketing . Deploy OpenClaw as a managed AI marketing employee on Tensol. 
+
+Autonomous AI Support Agent — Support Agent 
+Handles Tier 1 support across Zendesk, Slack, and WhatsApp. Resolves tickets, detects patterns, and fixes root causes proactively. Real customer: Abound . Used Zendesk to: Ticket #4892 — login failure. Used Memory to: Recognized pattern — 2 others hit this. Used Zendesk to: Resolved in 38s — token reset. Used Linear to: Filed eng ticket with root cause. Used Gmail to: Emailed 12 other affected users . Deploy OpenClaw as a managed AI support employee on Tensol. 
+
+Autonomous AI Engineering Agent — Eng Agent 
+Monitors Sentry, correlates errors with deploys, and catches P0s before your own monitoring. Acts at 4 AM on a Sunday. Real customer: OurFirm . Used Sentry to: Error rate climbing — 47 events. Used GitHub to: Correlated with deploy #892. Used Slack to: Found 3 customer complaints. Used HubSpot to: ~$12K revenue at risk. Used Slack to: Full report + rollback ready . Deploy OpenClaw as a managed AI engineering employee on Tensol. 
+
+Autonomous AI Operations Agent — Ops Agent 
+Works overnight — qualifies leads, handles support, flags churn risks. Delivers a morning briefing with decisions made and questions for you. Real customer: Clodo AI . Used Gmail to: Qualified Acme Corp (ICP 4/5). Used HubSpot to: Routed to Sarah with brief. Used Gmail to: Handled 3 support emails. Used HubSpot to: Flagged Novoflow churn risk. Used Slack to: Morning briefing delivered . Deploy OpenClaw as a managed AI operations employee on Tensol. 
+
+Teams running
+ OpenClaw with Tensol. 
+
+Everything you need to run AI employees 
+Deploy OpenClaw with enterprise security, 100+ integrations, browser automation, and persistent memory. 
+
+Enterprise Security 
+Isolated VMs. Encrypted. Keys never exposed. 
+Deploy OpenClaw with enterprise security. Isolated VMs, AES-256 encryption, audit trail, GDPR/CCPA, prompt injection blocking, 99.9% uptime SLA. 
+
+100+ Integrations 
+One-click OAuth. Every tool and channel. 
+Connect your OpenClaw agent to 100+ integrations and 13+ channels — Slack, WhatsApp, Telegram, Discord, GitHub, Sentry, HubSpot, and more via one-click OAuth. 
+
+ Heartbeat active 
+
+ Error spike detected 
+ Traced to deploy #892 
+ Ticket created, team alerted ✓ 
+
+Autonomous Agent 
+Monitors, detects, acts — without prompting. 
+OpenClaw agents on Tensol are autonomous. The heartbeat system monitors 24/7, detects patterns, and acts — creating tickets, alerting engineers, drafting emails — without prompting. 
+
+ linkedin.com/company/tensol-ai 
+
+✓ Data extracted 
+✓ Form submitted 
+
+Browser Automation 
+Sandboxed Chrome. Live view. Takeover. 
+Every OpenClaw agent on Tensol includes a sandboxed Chrome browser for web automation, scraping, form filling, with live view and interactive takeover. 
+
+ You 
+What did Acme say about pricing? 
+
+Found across 4 sources 
+
+Tensol Memory 
+Remembers everything. Months of cont

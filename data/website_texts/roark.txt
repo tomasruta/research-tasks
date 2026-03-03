@@ -1,0 +1,192 @@
+Voice AI Testing & QA Platform | Roark | Roark 
+
+ Roark 
+ Open main menu 
+
+ Product 
+
+ Monitoring & Evaluation 
+Track 40+ metrics, multi-speaker analysis, and run evaluators 
+
+ Simulations & Testing 
+Test at scale with personas and graph-based scenarios 
+
+ Integrations 
+One-click setup for VAPI, Retell, LiveKit, and Pipecat Cloud Integration Pricing Blog Faq About Docs 
+
+ Backed by Y Combinator 
+
+Never Ship a Broken
+Voice Agent Again 
+
+Catch the 'uh-oh' moments before your customers do. Roark is the safety net that lets your team ship voice AI with confidence, not crossed fingers. 
+ Book a demo Learn more → 
+
+Trusted by leading Voice AI teams 
+We've already processed 10 million minutes of calls.
+We've seen every failure imaginable, so you don't have to. 
+
+ POST-DEPLOYMENT 
+Monitoring & Evaluation 
+Complete visibility into every voice interaction 
+Capture 40+ built-in call metrics, analyze multi-speaker conversations, and run evaluators on demand or automatically 
+
+40+ Built-in Metrics & Events 
+Track latency, instruction-following, repetition detection, sentiment, and more - or define your own custom metrics 
+
+ Latency 230ms 
+
+ Repetitions 3 
+
+ Custom ✓ 
+
+ Sentiment Negative 
+
+Custom Events Detected 
+
+ Customer verification completed ✓ 
+ Appointment scheduled ✓ 
+ Payment processed × 
+
+ Alert Triggered 
+Failed payment processing detected - webhook sent to Slack 
+
+Multi-Speaker Analysis 
+Support for calls with up to 15 speakers, with automatic speaker identification and analysis 
+
+ CS 
+ MG 
+ +3 
+
+Conference Call Analysis 
+6 speakers identified • 47min duration 
+
+Talk Time Distribution 
+
+Emotion Models 
+✓ 
+
+Vocal Cues 
+✓ 
+
+Fine-tuned ASR 
+✓ 
+
+Best-in-Class Evaluators 
+Run comprehensive evaluations on-demand via UI or automate via SDK/API 
+
+ Compliance Pass 
+HIPAA compliant 
+
+ Instructions Fail 
+Deviated from script 
+
+ Tool Calls Warning 
+Called incorrectly 
+
+🤖 Automated via webhook • Runs on every call completion 
+
+Dashboards, Reports & Alerts 
+Build custom dashboards, schedule reports, set up alerts, and trigger webhooks to keep your team in the loop 
+
+Custom Dashboards 
+Real-time 
+
+Scheduled Reports 
+Automated 
+
+Smart Alerts 
+Threshold-based 
+
+Webhooks 
+Integrations 
+
+Simulations & Testing PRE-DEPLOYMENT 
+Turn Failed Calls Into Repeatable Tests 
+Run end-to-end simulations that stress-test your agents across real-world scenarios. Automatically generate test cases from live calls and ensure your improvements stick. 
+
+ End-to-End Testing Test both inbound and outbound agents over phone or WebSocket - exactly how real customers interact with your system. 
+
+ Graph-Based Conversations Define tests as conversation flows using our graph editor. Branch into edge cases and test variants for complete coverage. 
+
+ Configurable Personas Configure gender, language, accent, background noise, speech patterns, emotion, intent clarity - even backstories. 
+
+ Simulation Run Running 
+
+ Angry Customer Test 
+
+ Persona Frustrated, Impatient 
+ Accent Southern US 
+ Background Traffic 
+
+Conversation Flow 
+
+85% 
+Success Rate 
+
+247 
+Tests Run 
+
+12 
+Edge Cases 
+ Auto-generated from 37 failed production calls 
+
+See it in action 
+Watch how Roark works 
+See how teams use Roark to monitor, test, and improve their voice agents in under 3 minutes. 
+
+One-Click Native Integrations 
+Connect your voice platform in seconds, not hours 
+
+ Pipecat Cloud 
+
+🚀 All integrations include automatic call capture, real-time metrics, and instant dashboards 
+
+Developer-First Integrations 
+The Easiest Integrations on the Market 
+Connect in seconds with one-click integrations for VAPI, Retell, LiveKit, and Pipecat. Or use our first-class SDKs in Node & Python for complete control. 
+ Setup takes less than 60 seconds 
+ No-Code Integration SDK Integration 
+
+Backed by leading investors 
+ Y Combinator F-Prime Capital True Ventures Liquid 2 Ventures MTV 
+
+Pricing 
+Simple, Transparent Pricing That Scales With You 
+All plans include full access to monitoring, simulations, and evaluators—just pick the volume that fits your needs. Scale up anytime. 
+
+🌱 Startup 
+Best for teams with up to 5,000 call minutes monthly 
+ $500 /month 
+ 50,000 free monthly credits 
+ Live call observability 
+10 credits/min 
+ Simulations 
+15 credits/min 
+ Custom metrics, events & evaluators 
+2 credits/call 
+ All 40+ built-in metrics included 
+ Sentiment, emotion & vocal cue detection 
+ Automatic generation of scenarios, personas & evaluators 
+ Schedules, alerts, webhooks & API integrations 
+ Dashboards & automated reports Get started 
+
+🚀 Growth 
+Best for organizations with up to 12,000 call minutes monthly 
+ $1,200 /month 
+ Everything in Startup 
+ 120,000 free monthly credits 
+ Live call observability 
+6 credits/min (40% off) 
+ Simulations 
+12 credits/min (20% off) 
+ Custom metrics, events & evaluators 
+1.5 credits/call (50% off) 
+ SOC2 & HIPAA compliance 
+ Priority support 
+ Early access features Get started 
+
+🏢 Enterprise 
+For high-volume operations needing custom solutions 
+ Custom solution 
+ Ever

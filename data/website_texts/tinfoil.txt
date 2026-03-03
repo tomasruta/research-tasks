@@ -1,0 +1,258 @@
+Tinfoil - Private AI 
+
+ Verifiably
+ Private AI 
+Trust the hardware, not the promises. 
+Tinfoil runs AI with confidential computing technology enabled by secure hardware, keeping your data private from everyone. Our software stack is open-source and fully verifiable. 
+
+For everyone 
+Private Chat 
+Chat with powerful AI models while keeping your conversations private. 
+ Access Chat Learn More 
+
+For developers 
+Private Inference API 
+Build AI apps that keep all data private. OpenAI-compatible, fully private. 
+ Get an API key Learn More 
+
+Industry Highlights. 
+Tinfoil in case studies, research, and collaborations. 
+
+Featured in a Llama case study as the only multi-GPU infrastructure offering production-ready, verifiably private AI. 
+Read more 
+
+Collaborating with Red Hat on open source Confidential AI infrastructure for private inference. 
+Read more 
+
+Security audit and webinar collaboration on TEE vulnerabilities and confidential computing best practices. 
+Read more 
+
+Success story on building audit-ready, verifiably private AI with Ubuntu as the foundation for multi-platform confidential computing. 
+Read more 
+
+Industry Programs and Collaborations 
+
+Chat, wrapped in Tinfoil. 
+Flip the switch. Change what is visible. 
+
+ Off On 
+
+ Your message 
+
+ Model response 
+
+ “Our company is considering layoffs next quarter. Should I start looking for other opportunities?” 
+
+ AI Model 
+ Unprotected 
+
+ “It's wise to stay prepared in uncertain times. Update your resume, strengthen your professional network, and consider having confidential conversations with trusted contacts. Keep performing well while discreetly exploring options.” 
+
+ Your message 
+ “Our company is considering layoffs next quarter. Should I start looking for other opportunities?” 
+
+ AI Model 
+ Unprotected 
+
+ Model response 
+ “It's wise to stay prepared in uncertain times. Update your resume, strengthen your professional network, and consider having confidential conversations with trusted contacts. Keep performing well while discreetly exploring options.” 
+
+Your data is accessible by the service provider. 
+
+Privacy of on-prem. 
+Power of cloud. 
+Tinfoil runs AI models inside secure hardware enclaves. This gives you the privacy of local AI with the power of cloud computing. 
+
+ Feature comparison 
+
+ OpenAI 
+GPT Models 
+
+ On-Prem 
+Any open-source or custom model 
+
+Any open-source or custom model 
+
+Data Privacy
+
+Provable Zero Data Retention
+
+ Not included in OpenAI 
+ Included in On-Prem 
+ Included in Tinfoil 
+
+Features
+
+Cloud Convenience
+
+ Included in OpenAI 
+ Not included in On-Prem 
+ Included in Tinfoil 
+
+Setup costs
+
+ Low Low in OpenAI 
+ High High in On-Prem 
+ Low Low in Tinfoil 
+
+Complexity
+
+ Low Low in OpenAI 
+ High High in On-Prem 
+ Low Low in Tinfoil 
+
+Scalability
+
+ Good Good in OpenAI 
+ Poor Poor in On-Prem 
+ Good Good in Tinfoil 
+
+Zero Trust
+
+ Not included in OpenAI 
+ Not included in On-Prem 
+ Included in Tinfoil 
+
+Private Observability
+
+ Not included in OpenAI 
+ Not included in On-Prem 
+ Included in Tinfoil 
+
+ OpenAI 
+ On-Prem 
+
+ OpenAI 
+GPT Models 
+
+DATA PRIVACY 
+
+ Provable Zero Data Retention 
+
+FEATURES 
+
+ Cloud Convenience 
+ Low Setup costs 
+ Low Complexity 
+ Good Scalability 
+
+ Zero Trust 
+
+ Private Observability 
+
+ On-Prem 
+Any open-source or custom model 
+
+DATA PRIVACY 
+
+ Provable Zero Data Retention 
+
+FEATURES 
+
+ Cloud Convenience 
+ High Setup costs 
+ High Complexity 
+ Poor Scalability 
+
+ Zero Trust 
+
+ Private Observability 
+
+Any open-source or custom model 
+
+DATA PRIVACY 
+
+ Provable Zero Data Retention 
+
+FEATURES 
+
+ Cloud Convenience 
+ Low Setup costs 
+ Low Complexity 
+ Good Scalability 
+
+ Zero Trust 
+
+ Private Observability 
+
+Try Tinfoil. 
+Use private AI through our chat or inference API. 
+
+Tinfoil Chat 
+
+Experience a private chat with AI: 
+ All conversations are processed in secure enclaves 
+ Verify privacy directly in the browser 
+ Provable zero data access and zero data retention 
+ Start private chat 
+
+Tinfoil Inference API 
+
+Build private AI applications: 
+ All data is processed in secure enclaves 
+ Drop-in OpenAI-compatible API 
+ Automatic privacy verification 
+ View examples Sign in to get started 
+
+Leading Open-Source AI Models 
+
+ GPT-OSS 
+
+ Kimi K2.5 
+
+ DeepSeek R1 
+
+ Voxtral 
+
+ Qwen3-VL 
+
+ Llama 3.3 
+
+ GPT-OSS 
+
+ Kimi K2.5 
+
+ DeepSeek R1 
+
+ Voxtral 
+
+ Qwen3-VL 
+
+ Llama 3.3 
+
+ GPT-OSS 
+
+ Kimi K2.5 
+
+ DeepSeek R1 
+
+ Voxtral 
+
+ Qwen3-VL 
+
+ Llama 3.3 
+
+Infrastructure for privacy. 
+Tinfoil makes your AI secure, verifiable, and private. 
+ SOC 2 Compliant 
+
+Personal 
+Interact freely with AI, knowing that no one in the world except you can see your conversations. 
+
+ Private Chat 
+
+ Private Data Analysis 
+
+ Private Journaling 
+
+Startups 
+Give customers the confidence to fully embrace your AI products by guaranteeing that their sensitive information is never revealed to anyone. 
+
+ AI agents for private data 
+
+ Private content moderation 
+
+ Enterprise-ready security 
+
+Enterprise 
+Enforce security, data sovereignty, and compliance at scale. All wit

@@ -1,0 +1,86 @@
+Modelence - Build real apps, not prototypes 
+
+ Open main menu 
+
+ Pricing 
+ Blog 
+
+ Docs 
+
+ Log In 
+ Get Started 
+
+Build real apps, not prototypes 
+Production-ready by default with everything you need to go live 
+
+ Backed by 
+
+Authentication 
+Built-in user management in your own database 
+
+Database 
+Just define your schema and forget about database connection setup 
+
+Monitoring 
+Logs, metrics, and traces out of the box, no setup required 
+
+Build with 
+
+TypeScript 
+
+React 
+
+Vite 
+
+Next.js 
+
+MongoDB 
+
+Anthropic 
+
+One platform 
+Everything you need for a production app 
+
+Authentication & User Management 
+Users, sessions, roles, and permission scopes out of the box. Let agents wire auth correctly without reinventing login flows. 
+
+Database Primitives 
+Type-safe queries on your data, with a predictable place for indexes and migrations. Ship changes without spaghetti glue code. 
+
+Monitoring & Observability 
+Logs, metrics, and traces are set up by default. Catch errors and performance issues as soon as they happen. 
+
+Managed Cloud 
+Deploy cloud environments with zero configuration. Manage configurations, secrets, users, database and metrics from a single dashboard. 
+
+No lock-in 
+You own your app and data 
+
+Cron Jobs 
+Simply define a handler function and it will run with sub-second precision - supports multiple application instances. 
+
+Data Loading 
+Use queries and mutations to send and retrieve data between the client and server. 
+
+App Configuration 
+Define dynamic configuration values and secrets, use them anywhere in your app. 
+
+Frequently asked questions 
+
+ What is Modelence? 
+ How is Modelence different from other platforms? 
+ Is Modelence open-source? 
+ Does Modelence scale for production apps? 
+
+Resources 
+ Pricing 
+ YC Requests for Startups 
+
+Legal 
+ Terms of Service 
+ Privacy Policy 
+
+Social 
+ GitHub 
+ LinkedIn 
+ Discord

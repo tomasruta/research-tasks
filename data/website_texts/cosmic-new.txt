@@ -1,0 +1,309 @@
+Cosmic 
+
+We made changes to our pricing to be even more affordable! 
+Checkout new pricing → 
+
+ Build me 
+
+Cosmic will start building immediately based on your message. You can add assets, configure payments, and more afterwards. 
+
+ Hey Cosmic 
+
+ Build with Taste 
+
+ The Easiest Way to Build 
+Simply prompt what you want. All the integrations you need are built in. No manual setup or technical knowledge required. 
+
+Built-In Payments 
+
+ Collect payments and create products such as software subscriptions, one-time purchases, and more.
+
+ Instantly integrate into your website with a single prompt. 
+
+ Products 
+ Shipping 
+ Promo Codes 
+
+ Configure Payments 
+Set up your payment profile to start accepting payments. 
+
+Products 
+ Create Product 
+
+Pro Subscription 
+Service 
+Access to all premium features 
+
+$29.99 
+per month 
+
+Enterprise Plan 
+Service 
+Custom solution for large teams 
+
+$199.99 
+per month 
+
+API Access 
+Software 
+Developer API with unlimited requests 
+
+$49.99 
+per month 
+
+T-Shirt Merch 
+Physical 
+Custom t-shirts with your logo 
+
+$29.99 
+
+Built-In Payments 
+
+Collect payments and subscriptions with a single prompt. 
+
+ Products 
+ Shipping 
+ Promo Codes 
+
+ Configure Payments 
+Set up your payment profile to start accepting payments. 
+
+Products 
+ Create Product 
+
+Pro Subscription 
+Service 
+Access to all premium features 
+
+$29.99 
+per month 
+
+Enterprise Plan 
+Service 
+Custom solution for large teams 
+
+$199.99 
+per month 
+
+API Access 
+Software 
+Developer API with unlimited requests 
+
+$49.99 
+per month 
+
+T-Shirt Merch 
+Physical 
+Custom t-shirts with your logo 
+
+$29.99 
+
+Database 
+
+ Simple, intuitive, and free database built in with every project.
+
+ Say goodbye to third-party providers and get a functional backend faster than ever. 
+
+Database 
+
+Built-in, free database that’s simple and intuitive. 
+
+Auth 
+
+ Free, zero-setup authentication that you can customize. 
+
+ Out-of-the-box user management that integrates seamlessly with Cosmic Database. 
+
+ Button Style 
+
+ Gradient 
+
+ Static 
+
+ Primary Color 
+
+ Secondary Color 
+
+ Button Text Color 
+
+ Authentication Providers 
+
+ Email 
+
+ Google 
+
+ Github 
+
+ Save Changes 
+
+Welcome Back 
+ Sign in securely with 
+ Email address 
+ Password 
+
+ Sign in 
+ Forgot your password? 
+
+ OR 
+
+ Google GitHub 
+
+Don't have an account? Sign up 
+
+Auth 
+
+Zero-setup, customizable auth with built-in user management. 
+
+ Button Style 
+
+ Gradient 
+
+ Static 
+
+ Primary Color 
+
+ Secondary Color 
+
+ Button Text Color 
+
+ Authentication Providers 
+
+ Email 
+
+ Google 
+
+ Github 
+
+ Save Changes 
+
+Welcome Back 
+ Sign in securely with 
+ Email address 
+ Password 
+
+ Sign in 
+ Forgot your password? 
+
+ OR 
+
+ Google GitHub 
+
+Don't have an account? Sign up 
+
+Deployments 
+
+ One-click deploy to production.
+
+ No manual setup or third-party services. All deployments are free and included with a Pro plan. 
+
+Select Deployment Mode 
+
+High Performance Ultra Only 
+Optimized for performance with an always dedicated server. Coming soon. 
+
+Standard 
+Optimized for cost and scalability with auto-scale capabilities. 
+
+Domain Settings 
+
+ Cancel 
+ Deploy 
+
+Deployments 
+
+One-click deploys—no setup, included with Pro. 
+
+Select Deployment Mode 
+
+High Performance Ultra Only 
+Optimized for performance with an always dedicated server. Coming soon. 
+
+Standard 
+Optimized for cost and scalability with auto-scale capabilities. 
+
+Domain Settings 
+
+ Cancel 
+ Deploy 
+
+Assets 
+
+ Upload your assets with ease.
+
+ Simply ask Cosmic to use your assets in your project.
+
+ All assets are tagged with AI descriptions so Cosmic understands their context. 
+
+ Upload Images 
+
+hero-banner.jpg 
+ 2.3 MB 11/15/2024 
+
+product-showcase.jpg 
+ 1.8 MB 11/14/2024 
+
+team-photo.jpg 
+ 2.9 MB 11/13/2024 
+
+office-space.jpg 
+ 2.1 MB 11/12/2024 
+
+product-detail.jpg 
+ 1.5 MB 11/11/2024 
+
+testimonial-bg.jpg 
+ 2.7 MB 11/10/2024 
+
+feature-highlight.jpg 
+ 1.9 MB 11/9/2024 
+
+blog-header.jpg 
+ 2.1 MB 11/8/2024 
+
+contact-section.jpg 
+ 1.7 MB 11/7/2024 
+
+Assets 
+
+Upload assets with AI tagging and instant use in projects. 
+
+ Upload Images 
+
+hero-banner.jpg 
+ 2.3 MB 11/15/2024 
+
+product-showcase.jpg 
+ 1.8 MB 11/14/2024 
+
+team-photo.jpg 
+ 2.9 MB 11/13/2024 
+
+office-space.jpg 
+ 2.1 MB 11/12/2024 
+
+product-detail.jpg 
+ 1.5 MB 11/11/2024 
+
+testimonial-bg.jpg 
+ 2.7 MB 11/10/2024 
+
+feature-highlight.jpg 
+ 1.9 MB 11/9/2024 
+
+blog-header.jpg 
+ 2.1 MB 11/8/2024 
+
+contact-section.jpg 
+ 1.7 MB 11/7/2024 
+
+Frequently Asked Questions 
+Everything you need to know about building with Cosmic 
+
+ What makes Cosmic different from other website builders? 
+
+Cosmic is the only platform that integrates everything you need in one place. No need for separate services for authentication, databases, payments, or hosting. 
+For example, with other platforms, you would need to manage your own Stripe account to charge users. With Cosmic, you can just use Cosmic Payments with zero initial setup. 
+
+ Do I need any coding experience? 
+
+No coding experience required! Our built in integrations means you don't need to be familiar wi

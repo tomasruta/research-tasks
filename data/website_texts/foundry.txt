@@ -1,0 +1,95 @@
+Foundry - Enterprise Data and Simulation for AI Web Agents 
+
+ Home Leaderboard Research 
+
+REDEFINING BROWSER INTELLIGENCE 
+Delivering the world's most advanced simulation and data engine for AI web agents. 
+ Apply for Access View Benchmark 
+
+Built By Experts From 
+
+SCROLL 
+
+CAPABILITIES 
+Foundational pillars for browser intelligence. 
+
+SIMULATION 
+Pixel-perfect, reproducible browser environments—no drift, no noise, no rate limits. 
+
+EVALUATION 
+Every agent action is tracked, classified, and tagged—click failures, layout shifts, and misfires are never silent. 
+
+DATA 
+Expert annotators generate custom, long-horizon datasets for supervised fine-tuning of browser agents on real enterprise platforms. 
+
+RL 
+Safely sample and evaluate unlimited trajectories—train browser agents at scale, without anti-bot constraints. 
+
+DEMO 
+See Foundry in Action 
+
+WATCH DEMO 
+
+START BUILDING 
+Integrate Foundry into your workflow and begin building better browser agents. 
+
+INTEGRATION 
+Plug Foundry into your existing agent workflow with our Python SDK. 
+
+ evaluation_loop.py Copy 
+
+ for task_id in tasks:
+ env = AWE(
+ api_key=foundry_api_key, 
+ task_id=task_id, 
+ record_events=True
+ )
+
+ task = await env.get_task()
+ await env.reset()
+ cdp_url = await env.get_cdp_url()
+
+ # Run the agent with run_st_async integration
+ result = await agent(
+ task.prompt,
+ cdp_url,
+ task.start_url,
+ task.login_credentials,
+ task.payment_details,
+ task.additional_instructions,
+ )
+
+ # get the result, which is the final state of the environment
+ final_state = await env.get_state()
+
+ mutations = await env.get_state_mutations()
+ events = await env.get_events()
+
+ # compare the result with the ground truth
+ score = heuristic(final_state, task.ground_truth)
+
+GET STARTED 
+Choose your path to begin building with Foundry. 
+
+1 COMPARE RESULTS View Benchmark Results 
+
+2 GET FULL ACCESS 
+
+Ready to Build Better Agents? 
+Join our private beta and unlock all platform features Apply for Beta 
+
+3 SAMPLE DATASET 
+
+Coming Soon! 
+Get sample evaluation data to test locally 
+
+5min 
+Setup Time 
+
+10x 
+Faster Eval 
+
+ Foundry 
+
+ Research • Contact Us • Privacy Policy 
+ © 2025 Foundry • Backed by YC

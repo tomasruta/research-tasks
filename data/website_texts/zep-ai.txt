@@ -1,0 +1,184 @@
+Context Engineering & Agent Memory Platform for AI Agents - Zep 
+
+ We're hiring! Come build with us → 
+
+ Product 
+
+ Agent Memory Graph RAG Agent Context Knowledge Graph MCP Open Source Documentation Pricing Enterprise 
+ Resources 
+
+ Context Engineering For Developers For Engineering Leaders Building Agents Blog We're Hiring 
+ Company 
+
+ About Careers 
+ Log in 
+ Book a Demo Sign Up 
+
+ Context Engineering 
+
+ | 
+Zep assembles the right context from chat history, business data, and user behavior.
+Build personalized , fast , and reliable agents. 
+ Any Framework | Three Lines of Code | 200ms Retrieval 
+ Start building Try Playground 
+
+Trusted by developers at 
+
+End-to-End Context Engineering 
+Zep connects your data sources, builds a unified context graph of your users, and delivers assembled context to your agent. One pipeline. One API. 
+
+ Chat History 
+ Business Data 
+ User Interactions 
+
+Graph Construction 
+
+Entity Extraction 
+
+Fact Invalidation 
+
+Context 
+Retrieve & Assemble 
+
+User Traits 
+
+Recent Interactions 
+
+Business Data 
+
+1 
+
+Ingest 
+Chat messages, JSON business data, documents. Zep extracts entities, relationships, and facts automatically. 
+
+2 
+
+Graph 
+A temporal context graph that evolves with every interaction. When facts change, old ones are invalidated. 
+
+3 
+
+Assemble 
+When your agent needs context, Zep retrieves what's relevant and formats it for your LLM. Token-efficient. 
+
+Every Source 
+Chat history, CRM, app events, documents. Zep ingests from anywhere and builds a unified context graph that stays current as data changes. 
+
+ Chat 
+
+ Documents 
+
+ JSON 
+
+Built for Real-Time 
+Voice agents, video agents, live support. No latency issues. 
+
+<200ms 
+P95 Retrieval Latency 
+
+Three Lines of Code 
+Works with your favorite agent framework, or none at all. 
+
+ example.py Copy 
+
+ # Add messages and get context
+response = client.thread.add_messages(
+ thread_id=thread_id,
+ messages=messages,
+ return_context=True
+)
+print(response.context)
+
+# Returned Context
+
+Emily Painter is a user with account ID Emily0e62 who uses digital
+art tools for creative work. She maintains an active account with
+the service, though has recently experienced technical issues with
+the Magic Pen Tool. Emily values reliable payment processing and
+seeks prompt resolution for account-related issues.
+
+# These are the most relevant facts and their valid date ranges
+# format: FACT (Date range: from - to)
+
+ - Emily is experiencing issues with logging in.
+ (2024-11-14 02:13:19+00:00 - present)
+ - User account Emily0e62 has a suspended status due to payment
+ failure. (2024-11-14 02:03:58+00:00 - present)
+ - user has the id of Emily0e62 (2024-11-14 02:03:54 - present)
+ - The failed transaction used a card with last four digits 1234.
+ (2024-09-15 00:00:00+00:00 - present)
+ - The reason for the transaction failure was 'Card expired'.
+ (2024-09-15 00:00:00+00:00 - present)
+ - user has the name of Emily Painter
+ (2024-11-14 02:03:54 - present)
+ - Account Emily0e62 made a failed transaction of 99.99.
+ (2024-07-30 00:00:00+00:00 - 2024-08-30 00:00:00+00:00)
+
+Why Agents Fail 
+Agents don't fail because the model is bad. They fail because they don't have the right context. 
+
+Chat Memory 
+Chat-only. Blind to business data, app events, and what the user did yesterday. 
+
+Static RAG 
+Stale and incomplete. Doesn't reflect what just happened or how facts have changed. 
+
+Tool Calls 
+Slow and unpredictable. The LLM decides when to call them. It often guesses wrong. 
+
+Context is scattered across systems. Your agent sees pieces, not the picture. 
+
+Going Beyond Chat Memory 
+From ingestion to retrieval, Zep builds holistic context that evolves with your users 
+
+ R 
+
+Robbie 
+
+2024-09-07 14:27 
+
+ I only wear Adidas shoes. I love them! 
+
+Facts 
+ Robbie only wears Adidas shoes. 
+ Robbie strongly favors Adidas shoes. 
+
+ R 
+
+Robbie 
+
+2024-10-14 09:12 
+
+ My shoes fell apart and I need to return them . I'm super angry ! I'll be wearing Nike going forward! 
+
+Facts 
+ Robbie only wears Adidas shoes. 
+ Robbie strongly favors Adidas shoes. 
+ Robbie's Adidas shoes fell apart. 
+ Robbie needs to return their shoes. 
+ Robbie is angry about their Adidas shoes falling apart. 
+ Robbie intends to wear Nike shoes in the future. 
+
+Persistent Context 
+Capture state changes while integrating new data. Maintain provenance so agents can reason with evolving context over time. Explore Persistent Context 
+
+Easy to Use, Powerful Graph 
+Simple APIs automatically generate context. When you need control, directly access the context graph to create, update, and search entities and relationships. Discover Graph RAG 
+
+ Copy 
+ await client.context.createContextTemplate({
+ templateId: "template1",
+ template: `# USER PROFILE
+%{user_summary}
+
+# RELEVANT FACTS
+%{edges limit=10}
+
+# RELEVANT ENTITIES
+%{entities limit=2 types=[person,organization]}`
+}); 
+
+Customizable Context Blocks 
+Pre-formatted context blocks optimized for LLMs. Works with your favorite agent framework, or none at all. See Context Block 
+
+Far 

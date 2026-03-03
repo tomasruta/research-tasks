@@ -1,0 +1,66 @@
+Home 
+
+ Dedalus Labs 
+
+ Marketplace 
+
+ Products 
+ Pricing 
+ Blog 
+ Docs 
+
+ New Announcing the most secure MCP Auth framework to date The most secure MCP Auth framework to date Build with MCP Auth 
+
+ Backed by Y Combinator 
+MCP Cloud for Production Agents 
+Deploy MCP servers with mutli-tenant auth. 
+ Get Started → Docs 
+
+ DEDALUS SDK 
+ Python TypeScript 
+
+ from dedalus_labs import AsyncDedalus , DedalusRunner 
+
+ client = AsyncDedalus () 
+ runner = DedalusRunner ( client ) 
+
+ response = await runner . run ( 
+ input The task for the runner to execute. = "Ship a release" , 
+ model Route any model without rewrites. = [ " gpt-5.2 " , " claude-opus-4.5 " ] , 
+ mcp_servers Connect to hosted MCP services instantly. = [ "github" , "brave-search" ] , 
+ tools Add custom tools to the runner. =[ 'search_files', 'find_image' ] 
+ ) 
+ Use it with 
+ + more 
+
+Orchestrate agents with models + tools 
+One SDK. Everything you need to ship complex agents, fast. 
+
+Start Shipping Agents Today. 
+
+ Dedalus Labs 
+The drop-in MCP gateway that connects any LLM to any MCP server, local or fully-managed on our marketplace. We take care of hosting, scaling, and model hand-offs, so you can ship production-grade agents without touching Docker or YAML. 
+
+ → 
+
+Product 
+ Pricing 
+ API 
+ Documentation 
+
+Company 
+ About 
+ Blog 
+ Careers 
+ Contact 
+
+Legal 
+ Privacy Privacy Policy 
+ Terms Terms of Service 
+
+© 2026 Dedalus Labs. All rights reserved. 
+
+Command Palette 
+Search for a command to run... 
+
+© 2026 Dedalus Labs. All rights reserved.

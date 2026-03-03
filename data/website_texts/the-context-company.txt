@@ -1,0 +1,182 @@
+The Context Company 
+ PRICING DOCS CONTACT 
+
+Backed by 
+Understand How Users 
+Interact With Your AI Agents 
+See where users get confused, frustrated, or stuck so your team can improve your AI with confidence 
+ GET STARTED CHAT WITH US 
+
+ USER FRUSTRATION DETECTION 
+
+ No, you're not doing what I told you to do. I said you... 
+
+ This is the third time I've asked you the same thing... 
+
+ Why do you keep giving me the wrong answer? I need... 
+
+ User Intent Analysis 
+Find user pain points in your AI Agents 
+Detect when users are frustrated, confused, or unhappy with the AI agent. 
+
+ Custom Pattern Monitoring 
+Track patterns that matter to your business 
+Define custom signals—competitor mentions, compliance phrases, escalation keywords—and we'll watch for them across every conversation. 
+
+ Competitor Mentions 
+
+ "Pied Piper" mentioned 23x 
+ "Hooli" mentioned 17x 
+Know when users compare you to alternatives 
+
+ Feature Use 
+
+ 5,185 users used Slack integration 
+ 185 users asked about API key 
+Understand how features are actually used 
+
+ Escalation Signals 
+
+ "manager" +42% this week 
+ "refund" +18% this week 
+Catch rising tensions before they become tickets 
+
+ Refund Requests 847 
+
+ Account Settings 623 
+
+ Shipping Questions 412 
+
+ Password Reset 289 
+
+Topics discovered automatically from 2,171 conversations 
+
+ Topic Clustering 
+See what users actually ask about 
+Stop reading through every conversation to find out what users are asking about. 
+ Auto-discovered topic clusters 
+ Track trending issues before they escalate 
+
+ User Feedback Analysis 
+Every thumbs up and thumbs down, analyzed 
+We analyze every user vote and feedback to identify what your agent does well and where it needs work. 
+
+ This Week's Feedback 1,247 responses 
+
+ 68% positive 20% negative 
+
+ Positive 
+"Finally got my tracking number, thanks!" 
+
+ Negative 
+"This didn't answer my question at all" 
+
+ Silent Failure Detection 
+Be alerted when your AI Agent silently fails 
+Standard monitoring misses the failures that matter most. We catch them all. 
+
+ get_weather 
+0.432s 
+
+Parameters: 
+ place: "Palo Alto" 
+ date: "April 11th" 
+ Arguments are swapped 
+
+Bad Tool Calls 
+Wrong arguments, wrong timing, wrong results. 
+
+ search_database 
+0.23 1 s 
+
+ search_database 
+0.23 2 s 
+
+ search_database 
+0.23 3 s 
+ Same call repeated 12 times 
+
+Infinite Loops 
+Same call, over and over, burning tokens and upsetting users. 
+
+ Agent Response 
+4.913s 
+ "Your order #TK9274 is scheduled to arrive tomorrow by 3pm." 
+ Response contains fabricated information 
+
+Hallucinations 
+Fabricated details presented as facts, leading to user confusion. 
+
+ Alerts & Reports 
+Get notified when it matters 
+Real-time alerts for critical issues. Weekly digests with trends and recommendations. Delivered to Slack, email, or wherever your team lives. 
+
+Instant Alerts 
+Failure spikes, unusual patterns, or custom thresholds 
+
+Weekly Reports 
+Trends, top issues, and actionable recommendations 
+
+ ALERT 
+Failure rate jumped to 12.4% (3x normal) 
+Triggered by: get_inventory tool errors 
+ WEEKLY DIGEST 
+Your AI Agent handled 4,821 conversations 
+ ↓ 11% user frustration ↑ 4% failure rate 
+ INSIGHT 
+67% of negative feedback are related to password resets 
+Review 12 sample conversations → 
+
+ Runs & Latency 
+
+Loading chart... 
+
+ Technical Metrics 
+Tokens, latency, and cost tracking 
+Understand which models perform best, how long they take, and how much they cost. 
+
+ Slack Alerts 
+Get insights delivered to your team 
+Teams get a breakdown of: 
+ where users are stuck, frustrated, or confused 
+ where agents silently failed or upset users 
+ what's starting to get expensive 
+Get daily, weekly, or monthly insights today. 
+
+ Quick Setup 
+5 lines of code to production 
+Drop-in observability without modifying your agent logic. 
+ START FREE READ DOCS 
+
+ instrumentation.ts 
+ export async function register () { 
+ if ( process . env . NEXT_RUNTIME === "nodejs" ) { 
+ const { registerOTelTCC } = await import ( "@contextcompany/otel" ); 
+ registerOTelTCC (); 
+ } 
+ } 
+Works with Vercel AI SDK, LangChain, Mastra, and more 
+
+ Security & Compliance 
+Enterprise-grade security for AI data 
+
+SOC 2 
+Enterprise-grade security controls 
+
+Data Isolation 
+Fully isolated per organization 
+
+Encrypted at Rest & in Transit 
+AES-256 at rest, TLS 1.2+ in transit 
+ VIEW TRUST CENTER 
+
+Start shipping reliable agents today 
+Join teams who build better AI agents with real user insights. 
+ START FREE CHAT WITH US 
+
+ The Context Company © 2026 
+
+ DOCS PRICING TWITTER GITHUB 
+ TRUST PRIVACY TERMS 
+ GET STARTED 
+ The Context Company | Understand User Behavior In Your AI Agents

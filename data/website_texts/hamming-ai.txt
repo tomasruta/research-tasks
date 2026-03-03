@@ -1,0 +1,148 @@
+Hamming AI | Enterprise Voice Agent Testing & Production Monitoring 
+
+ Why Hamming? 
+
+ Product 
+
+ Customers 
+
+ Industries 
+
+ Partners 
+
+ Resources 
+
+ Sign up Book a demo 
+
+ Book a demo 
+
+ Sign up 
+ Why Hamming? 
+ Product Customers 
+ Industries Partners 
+ Resources 
+
+ 🎉 Hamming raised $3.8M Seed Round led by Mischief 
+
+Category leader in voice agent QA 
+ At-scale automated testing 
+ & production monitoring 
+ for voice and chat agents 
+The only complete platform for voice agent QA—from pre-launch testing to production monitoring. Trusted by high-growth startups, banks, and healthtech companies where reliability matters. 
+ Get started with Hamming 
+
+ First test report in under 10 mins • SOC 2 Type II • HIPAA (BAA available) 
+ Auto-generated scenarios • Production call replay • 50+ metrics 
+
+Trusted by industry leading teams 
+
+Hamming AI Platform Statistics 
+
+ under 10 mins to first test Enterprise-grade testing with startup speed 
+
+ 100s of tests auto-generated AI generates test scenarios from your agent prompt 
+
+ 1,000+ calls per minute Scale from first test to enterprise volume 
+
+ 50+ built-in metrics Latency, hallucinations, sentiment, compliance, and custom evaluators 
+
+As Featured In 
+
+Common Voice Agent Testing Challenges 
+Voice AI teams face these challenges every day 
+
+Voice Agent Testing Pain Points 
+ Manual Testing Doesn't Scale : Manual voice agent testing becomes a bottleneck when deploying multiple AI agents weekly. Automated testing enables teams to scale QA without proportionally increasing headcount. 
+ Production Readiness Uncertainty : Teams often lack confidence in voice agent production readiness. Comprehensive pre-deployment testing validates agent behavior across edge cases before going live. 
+ Load Testing at Scale : Voice agents that work perfectly with few users may fail under production load. Load testing simulates thousands of concurrent calls to identify scalability issues. 
+ Regression Testing for Prompt Changes : Prompt engineering requires rapid iteration, but each change risks breaking existing functionality. Automated regression testing enables fast, safe prompt iteration. 
+
+Manual Testing Doesn't Scale 
+“ We're shipping 5 new agents per week. Manual testing doesn't scale. ” 
+
+Production Readiness Uncertainty 
+“ We go live next week. How do I know this agent is production-ready? ” 
+
+Load Testing at Scale 
+“ Our patient numbers are going from 50 to 50,000. What breaks at scale? ” 
+
+Regression Testing for Prompt Changes 
+“ Every prompt change needs testing. We can't iterate fast enough. ” 
+
+There's a better way - first test results in under 10 minutes . 
+
+Built by a team that's been here before 
+We've scaled AI systems at Tesla and built mission-critical infrastructure at Citizen. Now we're applying that expertise to voice agents. 
+
+Proven in bake-offs 
+When teams evaluate voice agent testing platforms head-to-head, they choose Hamming. The best teams recognize the best product. 
+
+Battle-tested at scale 
+Our team scaled ML systems driving 100s of millions in revenue at Tesla. We know how to build observability for non-deterministic systems. 
+
+Mission-critical experience 
+From real-time public safety alerts at Citizen to ML at Tesla, we've built reliability for systems where failure isn't an option. 
+
+Trusted by quality obsessed voice AI teams 
+From healthcare to enterprise—here's what rigorous testing delivers. 
+
+“ Hamming had the lowest friction from 'we should test this' to running actual tests. New engineers onboard quickly and the workflow matches how our team already works. ” 
+
+Simran Khara 
+ Co-founder , NextDimensionAI 
+
+99% 
+production reliability 
+
+40% 
+latency reduction 
+
+15 min 
+engineer onboarding Read case study 
+
+“ Hamming gives us incredible peace of mind. We can confidently test and monitor all of Grace's phone calls for patient safety and quality of care. ” 
+
+Sohit Gatiganti 
+ Co-Founder & CPO , Grove AI 
+
+97% 
+patient satisfaction 
+
+165K+ 
+calls analyzed 
+
+24/7 
+quality monitoring Read case study 
+
+“ By the time customers make their first test call, we've already run 200. They never see the embarrassing bugs—we've already killed them. ” 
+
+Ahmad Rufai Yusuf 
+ Forward Deployed Engineer , Bland Labs 
+
+200+ 
+pre-deployment tests 
+
+0 
+compliance failures 
+
+3x 
+faster deployments Read case study 
+
+Backed by leading investors 
+Supported by industry-leading partners who champion innovation and long-term value. Learn about our Seed Funding Round 
+
+From prompt to production in 4 steps 
+Connect your agent, auto-generate tests, run thousands of calls, and monitor production—all in one platform. 
+
+ 01 
+ Connect your agent 
+Import agents from Vapi, Retell, 11Labs, or any orchestration framework. Paste your prompt or connect via API. Takes under 10 minutes. 
+ 02 
+ Auto-generate tests 
+ 03 
+ Run thousands of calls 
+ 04 
+ Production monitoring 
+
+Easy integration 
+Dial your SIP number or call our number to load-test, or connect straight to LiveKit / Pipecat—no SIP required. One-cl

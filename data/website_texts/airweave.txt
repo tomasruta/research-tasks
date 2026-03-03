@@ -1,0 +1,253 @@
+Airweave | Context Retrieval Layer for AI 
+
+ HOW AIRWEAVE WORKS 
+
+ PRODUCT 
+
+ PRICING 
+
+ DOCS 
+
+ BLOG 
+
+ CAREERS 
+
+ ... 
+
+SIGN UP 
+
+BOOK A DEMO 
+
+ HOW AIRWEAVE WORKS 
+
+ PRODUCT 
+
+ PRICING 
+
+ DOCS 
+
+ BLOG 
+
+ CAREERS 
+
+ ... 
+
+SIGN UP 
+
+BOOK A DEMO 
+
+ HOW AIRWEAVE WORKS 
+
+ PRODUCT 
+
+ PRICING 
+
+ DOCS 
+
+ BLOG 
+
+ CAREERS 
+
+ ... 
+
+SIGN UP 
+
+BOOK A DEMO 
+
+Build smarter agents 
+
+Airweave lets AI agents retrieve relevant context from apps and databases. 
+
+It is the context retrieval layer that sits between AI systems and data sources, enabling grounded and accurate answers on demand.  
+
+START FOR FREE 
+
+START FOR FREE 
+
+START FOR FREE 
+
+BOOK A DEMO 
+
+BOOK A DEMO 
+
+BOOK A DEMO 
+
+ from airweave import AirweaveSDK
+
+client = AirweaveSDK ( api_key= " YOUR_API_KEY " ) 
+
+ # Create a searchable knowledge base 
+collection = client.collections.create ( name= "Acme Corp" ) 
+
+ # Connect to a source and sync data into your collection 
+client.source_connections.create ( 
+ readable_collection_id=collection.readable_id,
+ name= "Acme Stripe Account" ,
+ short_name= "stripe" ,
+ authentication= { 
+ "credentials" : { 
+ "api_key" : "STRIPE_API_KEY" 
+ } 
+ } 
+ ) 
+
+ # Search your collection 
+ response = client.collections.search ( 
+ readable_id=collection.readable_id,
+ query= "Are there any open invoices?" ,
+ ) 
+
+Copy Code 
+
+Copied 
+ Copied! 
+
+# 
+
+Airweave 
+
+# 
+
+Al agents and RAG pipelines query Airweave to retrieve relevant context from multiple apps and databases in a single request. 
+
+# 
+
+Installation 
+
+# 
+
+To install Airweave, run: 
+
+# 
+# 
+
+pip install airweave-sdk
+npm install @Apps Airweave/sdk 
+
+→ 
+
+ Read more on docs.airweave.ai/quickstart 
+
+ from airweave import AirweaveSDK
+
+client = AirweaveSDK ( api_key= " YOUR_API_KEY " ) 
+
+ # Create a searchable knowledge base 
+collection = client.collections.create ( name= "Acme Corp" ) 
+
+ # Connect to a source and sync data into your collection 
+client.source_connections.create ( 
+ readable_collection_id=collection.readable_id,
+ name= "Acme Stripe Account" ,
+ short_name= "stripe" ,
+ authentication= { 
+ "credentials" : { 
+ "api_key" : "STRIPE_API_KEY" 
+ } 
+ } 
+ ) 
+
+ # Search your collection 
+ response = client.collections.search ( 
+ readable_id=collection.readable_id,
+ query= "Are there any open invoices?" ,
+ ) 
+
+Copy Code 
+
+Copied 
+ Copied! 
+
+# 
+
+Airweave 
+
+# 
+
+Al agents and RAG pipelines query Airweave to retrieve relevant context from multiple apps and databases in a single request. 
+
+# 
+
+Installation 
+
+# 
+
+To install Airweave, run: 
+
+# 
+# 
+
+pip install airweave-sdk
+npm install @Apps Airweave/sdk 
+
+→ 
+
+ Read more on docs.airweave.ai/quickstart 
+
+ from airweave import AirweaveSDK
+
+client = AirweaveSDK ( api_key= " YOUR_API_KEY " ) 
+
+ # Create a searchable knowledge base 
+collection = client.collections.create ( name= "Acme Corp" ) 
+
+ # Connect to a source and sync data into your collection 
+client.source_connections.create ( 
+ readable_collection_id=collection.readable_id,
+ name= "Acme Stripe Account" ,
+ short_name= "stripe" ,
+ authentication= { 
+ "credentials" : { 
+ "api_key" : "STRIPE_API_KEY" 
+ } 
+ } 
+ ) 
+
+ # Search your collection 
+ response = client.collections.search ( 
+ readable_id=collection.readable_id,
+ query= "Are there any open invoices?" ,
+ ) 
+
+Copy Code 
+
+Copied 
+ Copied! 
+
+# 
+
+Airweave 
+
+# 
+
+Al agents and RAG pipelines query Airweave to retrieve relevant context from multiple apps and databases in a single request. 
+
+# 
+
+Installation 
+
+# 
+
+To install Airweave, run: 
+
+# 
+# 
+
+pip install airweave-sdk
+npm install @Apps Airweave/sdk 
+
+→ 
+
+ Read more on docs.airweave.ai/quickstart 
+
+Trusted by engineering teams building the future 
+
+ Airweave is a context retrieval layer for AI agents and RAG systems. It connects to apps, tools, and databases, syncs their data in real time, and exposes it through a unified search interface. 
+
+This enables AI systems to reliably retrieve grounded, up-to-date information from real data sources on demand via an LLM-friendly interface. A i r w e a v e i s a c o n t e x t r e t r i e v a l l a y e r f o r A I a g e n t s a n d R A G s y s t e m s . I t c o n n e c t s t o a p p s , t o o l s , a n d d a t a b a s e s , s y n c s t h e i r d a t a i n r e a l t i m e , a n d e x p o s e s i t t h r o u g h a u n i f i e d s e a r c h i n t e r f a c e . 
+
+ T h i s e n a b l e s A I s y s t e m s t o r e l i a b l y r e t r i e v e g r o u n d e d , u p - t o - d a t e i n f o r m a t i o n f r o m r e a l d a t a s o u r c e s o n d e m a n d v i a a n L L M - f r i e n d l y i n t e r f a c e . 
+
+ Airweave is a context retrieval layer for AI agents and RAG systems. It connects to apps, tools, and databases, syncs their data in real time, and exposes it through a unified search interface. 
+
+This enables AI systems to reliably retrieve grounded, up-to-date information from real data sources on demand via an LLM-friendly interface. A i r w e a v e i s a c o n t e x t r e t r i e v a l l a y e r f o r A I a g e n t s a n d R A G s y s t e m s . I t c o n n e

@@ -1,0 +1,86 @@
+Parachute 
+
+Home 
+Highlights 
+Features 
+Integrations 
+Blog 
+Contact 
+
+ Backed by Y Combinator 
+
+Governance Infrastructure for Clinical AI 
+
+AI mistakes cost lives. Deployment delays cost millions. 
+Parachute prevents both. 
+ Book A Demo → Vendor Application → 
+
+KEEPS CLINICAL AI COMPLIANT WITH 
+
+Why Hospitals Choose Parachute 
+
+⚡ 
+Fewer stalled pilots 
+Turn committee reviews into weeks, not quarters. 
+
+🛡️ 
+Lower risk 
+Catch bias, drift, and privacy issues before they escalate. 
+
+📋 
+Proven governance 
+Create an auditable documentation trail. 
+
+⚙️ 
+No extra headcount 
+Get rid of the manual grunt work with AI agents. 
+
+Features 
+
+Phase 1 — Discover & Prioritize 
+Identify best-fit vendors based on your clinical gaps, goals, and budget. 
+
+Phase 2 — Evaluate & Approve 
+Auto-score accuracy, safety, and bias—no manual test scripts. 
+
+Phase 3 — Deploy & Monitor (Hands-Free) 
+Automate tracking and get early warnings before performance or compliance issues reach patients. 
+
+Phase 4 — Audit & Prove 
+Get an audit-ready documentation trail for regulators and litigators. 
+
+Integrates with Your Existing Stack 
+
+Latest News 
+
+AI Needs Specialized Governance 
+AI is revolutionizing healthcare, with nearly 1,000 FDA-cleared medical devices incorporating AI. However, widespread adoption faces significant barriers, including patient safety, privacy, security, bias, transparency, and compliance. 
+ 5 min read 
+
+The White House AI Action Plan 
+The White House AI Action Plan sets strict expectations for AI risk management—especially in safety-critical sectors like healthcare. Hospitals must now implement continuous monitoring, evidence-based approvals, and audit-ready governance to stay compliant and protect patients. 
+ 7 min read 
+
+Parachute Vendor Marketplace 
+Parachute's Vendor Marketplace cuts through AI vendor noise by matching hospital-specific needs with verifiable, evidence-based solutions—ranked by fit, risk, and impact. 
+ 6 min read 
+
+AI Needs Specialized Governance 
+AI is revolutionizing healthcare, with nearly 1,000 FDA-cleared medical devices incorporating AI. However, widespread adoption faces significant barriers, including patient safety, privacy, security, bias, transparency, and compliance. 
+
+5 min read 
+
+The White House AI Action Plan 
+The White House AI Action Plan sets strict expectations for AI risk management—especially in safety-critical sectors like healthcare. Hospitals must now implement continuous monitoring, evidence-based approvals, and audit-ready governance to stay compliant and protect patients. 
+
+7 min read 
+
+Parachute Vendor Marketplace 
+Parachute's Vendor Marketplace cuts through AI vendor noise by matching hospital-specific needs with verifiable, evidence-based solutions—ranked by fit, risk, and impact. 
+
+6 min read 
+
+Escape Pilot Hell Right Now 
+Join leading hospitals in implementing comprehensive AI governance. Book A Demo → 
+
+Copyright © 2025 Parachute, Inc. All rights reserved.

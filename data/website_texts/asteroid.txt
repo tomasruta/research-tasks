@@ -1,0 +1,153 @@
+Asteroid - AI Browser Agents for Enterprise Automation | Build in Minutes 
+
+ Industries 
+
+ Healthcare Automate clinical workflows and EHR data entry Insurance Quote across 50+ carrier portals in minutes Voice Agents Bridge voice AI to legacy systems Offshore data entry Replace offshore teams with an AI workforce you control 
+ Features 
+
+ Astro NEW Builder Turn any SOP into a working agent Environments Run Browser · Linux · Windows Live View Supervise Watch, intervene and guide live Integrations Connect API · Slack · Email · Sheets Pricing 
+ Blog 
+
+ All Posts Browse everything we've published Tutorials Technical deep dives and how-tos Case Studies Customer success stories Product Updates Announcements and releases Docs 
+
+ Book a Demo Build AI Agent 
+
+ Industries 
+ Healthcare Insurance Voice Agents Offshore data entry 
+ Features 
+ Astro 
+· Builder Environments 
+· Run Live View 
+· Supervise Integrations 
+· Connect 
+ Pricing 
+ Blog 
+ All Posts Tutorials Case Studies Product Updates 
+ Docs 
+ Build AI Agent Book a Demo 
+
+New
+
+Automating Prior Auth with AI Browser Agents
+ → 
+
+Platform
+
+AI workforce for healthcare
+ portal operations
+
+Deploy supervised AI agents to run portal workflows in-house — no
+ RPA, no BPOs, no outsourcing.
+
+ Build AI Agent Book a Demo 
+
+ Browser Windows Linux 
+
+Trusted by 100+ teams
+
+Backed by teams at
+
+ 01 
+
+Industries 
+Healthcare, insurance, voice AI. 
+Same bottleneck: browser operations. 
+
+Healthcare 
+Prior auth automation, eligibility verification, and EHR integration 
+Insurance 
+Quoting, renewals, and filings across carrier portals 
+Voice AI 
+Post-call workflows in legacy systems 
+Outsourcing Data Entry 
+Replace offshore teams with an AI workforce you control 
+
+Case Study — Delfa 
+“ Asteroid was a game-changer. We were spending valuable engineering cycles trying to solve the last-mile integration problem with Clinical Trial Management Systems. Asteroid's browser agents handled it out of the box, letting us focus 100% on our core AI platform and deliver value to our customers instead of building Playwright scripts. ” 
+
+Gustav 
+Co-founder and CTO , Delfa 
+
+0% → 100% 
+Form Completion Rate 
+From impossible to fully automated 
+
+95% 
+Engineering Effort Saved 
+Asteroid handled build and maintenance 
+
+100% 
+HIPAA Compliant 
+Enterprise-grade security from day one 
+ Explore industry use cases 
+
+ 02 
+
+Features 
+A full-stack AI workforce for browser operations 
+Build, deploy, and supervise. 
+
+Build 
+
+Turn any SOP into a working agent 
+Run 
+
+Deploy agents in any environment 
+Supervise 
+
+Watch, intervene, and guide agents live 
+Connect 
+
+Connect agents to your entire stack 
+ Explore all features 
+
+Pricing 
+
+Agents that pay for themselves 
+An infinitely scalable workforce. 
+
+Individual 
+$30 /mo 
+Most Popular 
+Startup 
+$300 /mo 
+Scale 
+$3,000 /mo 
+Enterprise 
+Custom 
+ See full pricing 
+
+ 03 
+
+The Shift 
+Your operations shouldn't depend on outsourced teams or brittle scripts. 
+AI agents that run under your credentials, with full visibility — replacing the tradeoff between speed and control. 
+
+The Insight 
+Your screen is the universal API. 
+If a human can see it, an agent can operate it. No APIs, no connectors, no middleware — just the interface that already exists. 
+
+Got questions? + 
+
+ Who is Asteroid for? + 
+
+Asteroid is built for both non-technical teams and engineers who need to automate complex browser workflows. It's used by product managers overseeing inefficient internal processes, heads of operations looking to eliminate repetitive manual tasks, and executives driving large-scale automation across their organizations. 
+ What kind of tasks can I automate? + 
+
+Asteroid automates complex browser tasks like data retrieval and intelligent entry of structured data into legacy systems—especially where no APIs exist and traditional tools fall short.
+
+Real-world use cases include insurance quoting across provider portals, patient data entry into healthcare systems, invoice retrieval from supplier portals, reporting to Google Sheets, large-scale grant applications, and connecting voice agents to legacy workflows 
+ Can you build an agent for me? + 
+
+Yes. Book a demo and tell us about your use case—we'll scope it with you and build a custom browser agent, typically within days to weeks. 
+ Can I customise and supervise my agents? + 
+
+Yes. You have full control—build agents in the platform, customize their logic, and supervise them in real time. 
+ Do I need to write complex code? + 
+
+No.
+
+We believe domain experts—not just developers—should be able to build and manage automation directly. Whether you're pulling quotes across insurer portals, integrating voice agents with legacy systems, or scaling back-office operations, Asteroid gives you the power to move fast—without relying on fragile RPA or slow custom development. 
+ Can Asteroid automate prior authorization? + 
+
+Yes. Asteroid browser agents navigate payer portals to submit prior authorization requests, upload clinical documentation, and track approval s

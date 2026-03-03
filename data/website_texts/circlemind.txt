@@ -1,0 +1,55 @@
+Circlemind AI 
+
+ Circlemind 
+ Try Smooth Request demo 
+
+Backed by Y Combinator 
+
+AI agents that work for you 
+We develop general AI agents that can act in the digital world 
+
+ DEVELOPERS 
+
+Smooth 
+
+Our real-time browser agent API 
+ Automate data scraping and form filling 
+ 5x faster than Browser Use 
+ 7x cheaper than Browser Use 
+ Available worldwide right now 
+ Start building 
+
+ BETA 
+
+Zero 
+
+Our most capable general AI agent, no code needed 
+ Run up to 10 browsers simultaneously 
+ 300+ apps one-click integrations and custom MCPs 
+ Build automations with triggers 
+ Enterprise-ready: autonomy levels, guardrails, and human approvals 
+ Request access 
+
+Get started today 
+Automations with unbelievable ROI 
+ Try Smooth Request demo 
+
+ Circlemind 
+© 2025 Circlemind Inc. 
+San Francisco, CA 
+
+Company 
+ About us 
+ Careers 
+ Terms of service 
+ Privacy policy 
+ Contact us 
+
+Resources 
+ Documentation 
+ API Reference 
+ Help Center 
+
+Community 
+ Discord 
+ GitHub

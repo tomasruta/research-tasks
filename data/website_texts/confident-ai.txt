@@ -1,0 +1,165 @@
+Confident AI - The AI Quality Platform 
+
+ Confident AI 
+
+ Products 
+
+ Core Platform 
+
+LLM Evaluation
+Benchmark LLM systems with metrics powered by DeepEval. 
+
+LLM Observability
+Trace, monitor, and get real-time production alerts with best-in-class LLM evals. 
+ Community 
+
+ Resources 
+
+Blog
+Bedtime stories on AI reliability. 
+
+Knowledge Base
+Manual to navigate the evals landscape. 
+ Open Source 
+
+DeepEval
+The LLM evaluation framework. 
+
+DeepTeam
+The LLM red teaming framework. Docs Pricing Careers 
+
+ 10k+ Sign Up Now 
+
+ Backed by Y Combinator 
+
+The AI Quality Platform 
+By the creators of DeepEval, Confident AI enables engineers, QA teams, and product leaders to build reliable AI with best-in-class evals and observability. 
+ Request a Demo Try Now For Free 
+
+ OPEN-SOURCE & TRUSTED BY TOP COMPANIES AROUND THE WORLD 
+
+ 0 + Daily evaluations 
+ Github stars 
+ 0 + Monthy Downloads 
+
+ USE CASES 
+Build your AI moat.
+Do evals the right way. 
+Confident AI provides an opinionated solution to curate dataset, align metrics, and automate LLM testing with tracing. Teams use it to safeguard AI systems to save hundreds of hours a week on fixing breaking changes, cut inference cost by 80% , and convince stakeholders that their AI is always better than the week before. 
+ READ CASE STUDY TRY IT NOW 
+
+ END-TO-END EVALUATION 
+Build in a weekend, validate in minutes. 
+Measure which prompts and models give the best end-to-end performance using Confident AI's evaluation suite. 
+
+ REGRESSION TESTING 
+Make forward progress. Always. 
+Mitigate LLM regressions by running unit tests in CI/CD pipelines. Go ahead and deploy on Fridays. 
+
+ COMPONENT-LEVEL EVALUATION 
+Dissect, debug, and iterate with tracing. 
+Evaluate and apply tailored metrics to individual components, to pinpoint weaknesses in your LLM pipeline. 
+
+ DEEPEVAL AND PLATFORM 
+Built for developers.
+ Used by everyone to drive product decisions. 
+Easily integrate evals using DeepEval, with intuitive product analytic dashboards for non-technical team members. 
+
+ Testing Reports 
+ Tracing observability 
+ Dataset editor 
+ Prompt management 
+
+evaluate.py 
+
+ 1   
+ 2   
+ 3   
+ 4   
+ 5   
+ 6   
+ 7   
+ 8   
+ 9   
+ 10   
+ 11   
+ 12   
+ 13   
+ 14   
+ 15   
+ 16   
+ 17   
+ 18   
+ Your browser does not support the video tag. Your browser does not support the video tag. Your browser does not support the video tag. Your browser does not support the video tag. 
+
+ How It Works 
+Four steps to setup.
+No credit card required. 
+
+ 1 
+Install DeepEval. 
+Whatever framework you're using, just install DeepEval. 
+
+ 2 
+Choose metrics. 
+30+ LLM-as-a-judge metrics based on your use case. 
+
+ 3 
+Plug it in. 
+Decorate your LLM app to apply your metrics in code. 
+
+ 4 
+Run an evaluation. 
+Generate test reports to catch regressions and debug with traces. 
+ GO TO QUICKSTART 
+
+ ENTERPRISE 
+Secure, reliable, and compliant. 
+Your data, is yours. 
+
+HIPAA, SOCII compliant 
+Our compliance standards meets the requirements of even the most regulated healthcare, insurance, and financial industries. 
+
+Multi-data residency 
+Store and process data in the United States of America (North Carolina) or the European Union (Frankfurt). 
+
+RBAC and data masking 
+Our flexible infrastructure allows data separation between projects, custom permissions control, and masking for LLM traces. 
+
+99.9% uptime SLA 
+We offer enterprise-level guarantees for our services to ensure mission critical workflows are always accessible. 
+
+On-Prem Hosting 
+Optionally deploy Confident AI in your cloud premises, may it be AWS, Azure, or GCP, with tailored hands-on support. 
+
+ OPEN-SOURCE COMMUNITY 
+100,000+ devs already do evals the Confident way. 
+
+Discord 
+2,500+ members 
+
+GitHub 
+10k+ stars 
+
+Docs 
+100,000+ monthly reads 
+
+Get started today. 
+ Request a Demo Try Now For Free 
+
+ Confident AI Copyright @ 2025 Confident AI Inc. All rights reserved. 
+
+Products 
+ LLM Evaluation LLM Observability 
+
+Blog 
+ LLM evaluation metrics LLM-as-a-judge LLM chatbot evaluation LLM testing LLM dataset generation LLM red-teaming 
+
+Resources 
+ Blog QuickStart DeepEval Docs DeepTeam Docs 
+
+Company 
+ Open-source Pricing Careers 
+
+Legal Stuff 
+ Terms of Service Privacy Policy Cookie Policy Sub-Processors Data Processing Agreement Cookie Settings

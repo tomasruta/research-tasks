@@ -1,0 +1,233 @@
+Lucidic AI - The Training Platform for Reliable AI Agents 
+
+View our most recent research article 
+
+LUCIDIC AI 
+
+ How It Works 
+ Case Studies 
+ Research 
+ Careers 
+ Docs 
+
+Talk to us 
+
+Sign In 
+
+The Training Platform for Reliable AI Agents 
+
+Parameterize your agentic systems. Improve them with 
+simulations — without tuning model weights. 
+
+ Talk to us 
+
+Sign In 
+
+Backed by 
+
+Combinator 
+
+AI Agent 
+
+System Prompt 
+
+You are a helpful AI assistant trained to provide accurate and thoughtful responses. You approach each question with care, considering context and nuance. Your goal ... 
+
+Tool Call Descriptions 
+
+search_web(query="latest AI research")
+read_file(path="/data/context.txt")
+write_file(path="/output/result.json", content="{...}")
+execute_code(language="python", code="import numpy...")
+call_api(endpoint="https://api.example.com/v1/...", method="POST") 
+
+Tools 
+
+Search 
+
+Database 
+
+Code 
+
+Tools 
+
+Guardrails 
+
+CRITICAL SAFETY RULES:
+- Never execute destructive commands without confirmation
+- Validate all user inputs for SQL injection patterns
+- Rate limit: max 100 requests per minute
+- No access to production databases
+- Require authentication for sensitive operations
+- Log all security-relevant events 
+
+Policies 
+
+BEHAVIOR POLICIES:
+- Maintain professional, helpful tone
+- Cite sources when providing factual information
+- Admit uncertainty rather than guess
+- Respect user privacy - no data retention
+- Follow ethical AI guidelines
+- Provide explanations for complex decisions 
+
+Context 
+
+CURRENT CONTEXT:
+User: Data Scientist
+Task: Analyze sales trends
+Dataset: Q4_2024_sales.csv
+Environment: Production
+Timestamp: 2024-01-16T14:30:00Z
+Session ID: a8f3d2c1-b4e5-4f6a-9d7e-1c2b3a4d5e6f
+Previous queries: 3 
+
+Memory 
+
+SHORT-TERM MEMORY:
+- User asked about sales trends 2 minutes ago
+- Loaded dataset: 45,000 rows
+- Identified top product: Widget Pro X
+- Found anomaly in December data
+
+LONG-TERM MEMORY:
+- User preferences: Python over R
+- Common visualizations: bar charts
+- Typical workflow: clean → analyze → visualize 
+
+Models 
+
+GPT-4 
+
+Claude 
+
+Gemini 
+
+Llama 
+
+Initializing Training... 
+
+Trusted and supported by engineers at 
+
+Our Philosophy 
+There's a better way to improve AI Agents 
+Today, most AI agent development still relies on manual trial and error. 
+We're building the future where AI Agents automatically improve , learn, and train in the background—not as black boxes, but through visible changes you can see and understand. We'd love to have you join us . 
+
+How It Works 
+
+PHASE 1 
+Parameterize your Agentic Systems 
+Start by choosing which parts of your agent you want to expose. This can include the LLM, memory, system prompts, context, tool management, guardrails, and more. 
+If you currently "tweak settings until it works," those are exactly the parameters we help you formalize and optimize. 
+
+Parameters 
+
+Results 
+
+Logs 
+
+Agent Parameters 
+
+Auto-tune 
+
+Memory 
+
+System Prompt 
+
+Models 
+
+Context 
+
+Tools 
+
+Guardrails 
+
+PHASE 2 
+Run Targeted Simulations 
+Agent behavior depends on many interacting components. Lucidic runs controlled simulations that systematically vary design choices to learn the behavior space. 
+This includes varying prompts, tools, policies, and configurations in isolation and in combination, and learning how these choices relate to similar and different test cases 
+
+Simulations 
+
+History 
+
+Settings 
+
+Decision Tree 
+Exploring optimal paths 
+
+Live 
+
+PHASE 3 
+Make Your Agents Better 
+Our algorithms combine ideas from genetic algorithms and reinforcement learning to systematically search for the optimal configurations of parameters for your AI agents. 
+The optimization is driven by your custom evaluations and datasets, ensuring the resulting agent improvements stay aligned with your goals and metrics. 
+
+Metrics 
+
+Charts 
+
+Export 
+
+Performance Metrics 
+Real-time analytics 
+
+Auto-refresh 
+
+Overview 
+
+Accuracy 
+ 0 % 
+
+Variance 
+ 12 % 
+
+Iterations 
+ 0 
+
+Support 
+
+Deflect Rate 
+ 0 % 
+
+Resolve Rate 
+ 0 % 
+
+Fake Deflect 
+ 3 % 
+
+Better Than State of the Art 
+Benchmarks 
+
+Up to 10x Better than the State of the Art 
+Lucidic's optimization algorithms consistently outperform state-of-the-art prompt engineering frameworks like DSPy across multiple benchmarks. Our automated approach achieves up to 10x better results on complex reasoning tasks, while requiring no manual prompt tuning. These benchmarks include multi-hop question answering, instruction following, and structured output generation. 
+ HotpotQA Benchmark → τ²-bench → IF Bench → PAPILLON (PUPA) → 
+
+ Hotpot QA (EM) τ² Bench Overall Hotpot QA (F1) 
+
+ IF Bench PUPA 
+
+Lucidic AI 
+44.5 % 
+
+DSPy GEPA 
+4.7 % 
+
+Anthropic 
+2 % 
+
+OpenAI 
+2 % 
+
+Baseline 
+2 % 
+*All experiments were conducted with standardized metrics. Model: GPT-4.1 Mini 
+
+Case Studies 
+Real results from agentic training 
+
+ Cresta 
+ Enterprise 
+
+Customer satisfaction rate was a crucial metric that was dangerously low, but after using Lucidic's auto-improvement algorithms, it improved significantl

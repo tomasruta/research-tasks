@@ -1,0 +1,140 @@
+ZeroEval - Build self-improving software 
+
+ ZeroEval 
+ Optimize Docs 
+ Console Book a demo → 
+
+ Backed by Y Combinator 
+Build self-improving agents 
+Calibrated LLM judges score every output. Feedback refines them. Your prompts improve automatically. 
+
+ Book a demo → 
+
+ Built and trusted by AI leaders from 
+
+How it works 
+From install to self-improving agents in minutes 
+
+01 
+
+01 
+Install 
+Two lines to instrument 
+Add the SDK and call ze.init() . Every LLM call gets traced automatically. OpenAI, Anthropic, LangChain, LangGraph, and more. 
+ — No config files, no boilerplate 
+ — Auto-instruments OpenAI, Anthropic, LangChain, more 
+ — Drop into existing codebases in seconds 
+
+ terminal Copy 
+
+ $ pip install zeroeval 
+
+ import zeroeval as ze 
+
+ ze. init () 
+
+02 
+
+02 
+Evaluate 
+Define what “good” looks like 
+Create LLM judges that score your agent outputs in production. Binary pass/fail, rubric-based scoring, sample rates. You decide what to evaluate and how. 
+ — Pass/fail or 1–10 scoring with custom rubrics 
+ — Sample a percentage of traffic to control cost 
+ — Filter by span type, tags, or custom properties 
+
+ judges 
+ active 
+ Judge Result 
+
+ is_helpful binary 
+Pass / Fail evaluation 
+ 94% pass 
+
+ quality_score rubric 
+1–10 scale with criteria 
+
+ 8.2 avg 
+
+ tone_check binary 
+LLM spans only · 10% sample 
+ 87% pass 
+
+ safety_guard binary 
+All spans · 100% sample 
+ 99% pass 
+
+03 
+
+03 
+Calibrate 
+Correct the judge, it learns 
+When a judge gets it wrong, flag it with a reason. Your corrections train the judge to match your quality bar, not a generic one. 
+ — Thumbs up/down with reasoning 
+ — Provide expected output for comparison 
+ — Watch alignment score climb over time 
+
+ calibration 
+
+04 
+
+04 
+Optimize 
+Ship better prompts automatically 
+ZeroEval extracts patterns from feedback and rewrites your prompts to address them. No manual prompt engineering. Just review, approve, and deploy. 
+ — New prompt versions generated from real failures 
+ — Full version history with diff view 
+ — One-click deploy to production 
+
+ optimization 
+
+Feedback in
+ one API call. 
+User complains about a response? Send a thumbs down with the reason. ZeroEval extracts the constraint and bakes it into your next prompt version. 
+ Read the docs Try it free 
+
+ feedback.py Copy 
+
+ import zeroeval as ze 
+
+ ze. init () 
+
+# When user gives feedback on a response 
+ ze. send_feedback ( 
+ prompt_slug = "customer-support" , 
+ completion_id = response.id , 
+ thumbs_up = False , 
+ reason = "Response was too verbose" , 
+ expected_output = "Keep it under 3 sentences" 
+ ) 
+
+ prompt-optimization 
+ v2.4 
+
+ before 
+
+ 78% negative 
+“You are a helpful assistant.” 
+
+ after 
+
+ 94% positive 
+“You are a technical support specialist . Keep answers under 3 sentences . Be direct and specific .” 
+
+ from 127 user signals optimized 
+
+Prompts that improve
+ themselves. 
+127 users said “too verbose.” ZeroEval rewrites your prompt to be concise. Your approval rate jumps from 78% to 94%. 
+ See prompt optimization in action 
+
+Your agents should get better every day. 
+See how ZeroEval turns user feedback into higher-performing prompts, without manual tuning. 
+
+ Book a demo → 
+
+SOC 2 Type II compliant 
+Continuous third-party security audit View report → 
+
+ ZeroEval © 2026 
+ Optimize Docs

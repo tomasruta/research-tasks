@@ -1,0 +1,147 @@
+Osmosis | Forward Deployed Reinforcement Learning Platform 
+
+Home 
+Home 
+
+Platform 
+Platform 
+
+About Us 
+About Us 
+
+Blog 
+Blog 
+ Book a Demo 
+
+ Book a Demo 
+
+Announcement: Osmosis Update 
+Forward Deployed Reinforcement Learning 
+Osmosis helps companies create task-specific models that beat foundation models at a fraction of the cost. 
+
+ Book a Demo Book A Demo 
+
+PLATFORM DETAILS 
+
+PLATFORM DETAILS 
+
+Hands on Deployments 
+
+We work directly with customers to support the entire post-training workflow - from feature engineering to reward function creation. We ensure model performance and adherence to customer specifications through being hands-on with the model training & serving process. 
+
+PLATFORM DETAILS 
+
+Reinforcement Fine-Tuning 
+
+Osmosis is a comprehensive post-training platform that allows engineers to leverage cutting-edge reinforcement learning techniques (GRPO, DAPO, etc.) and capabilities (multi-turn tool training) without any of the infrastructure headache. 
+
+PLATFORM DETAILS 
+
+Continuous Improvement 
+
+We integrate with your evaluation solutions to monitor performance and automatically start re-training runs whenever - without the need for an engineer in the loop. We can ingest real-time data and update your models in as little as every hour. 
+
+Use Cases 
+
+Use Cases 
+
+Build domain-specific extraction models to capture the exact structure and content for any document. 
+
+Osmosis offers the schema precision to get data from point A to B. 
+
+Use Cases 
+
+Teach AI agents to use the exact tools they’ll have in production. Osmosis powers AI agents that stay reliable, even in the most complex multi-step, multi-tool tasks. 
+
+Use Cases 
+
+Use Osmosis to train specialized coding models for blazing fast generation of domain-specific languages, front-end components, and context-aware tests. 
+
+Data Extraction 
+
+TOOL USE EXPERTISE 
+
+Code Generation 
+
+Use Cases 
+
+Platform Details 
+
+Hands on Deployments 
+We work directly with customers to support the entire post-training workflow - from feature engineering to reward function creation. We ensure model performance and adherence to customer specifications through being hands-on with the model training & serving process. 
+
+Platform Details 
+
+Reinforcement Fine-Tuning 
+Osmosis is a comprehensive post-training platform that allows engineers to leverage cutting-edge reinforcement learning techniques (GRPO, DAPO, etc.) and capabilities (multi-turn tool training) without any of the infrastructure headache. 
+
+Platform Details 
+
+Continuous Improvement 
+We integrate with your evaluation solutions to monitor performance and automatically start re-training runs whenever - without the need for an engineer in the loop. We can ingest real-time data and update your models in as little as every hour. 
+
+Deployment 
+
+Fine-Tuning 
+
+Improvement 
+
+Use Cases 
+
+Use Cases 
+
+Build domain-specific extraction models to capture the exact structure and content for any document. 
+
+Osmosis offers the schema precision to get data from point A to B. 
+
+Use Cases 
+
+Teach AI agents to use the exact tools they’ll have in production. Osmosis powers AI agents that stay reliable, even in the most complex multi-step, multi-tool tasks. 
+
+Use Cases 
+
+Use Osmosis to train specialized coding models for blazing fast generation of domain-specific languages, front-end components, and context-aware tests. 
+
+Data Extraction 
+
+TOOL USE EXPERTISE 
+
+Code Generation 
+
+Ⓒ 2025 Gulp AI Inc. 
+All rights reserved. 
+
+Home 
+Home 
+
+Platform 
+Platform 
+
+About Us 
+About Us 
+
+Blog 
+Blog 
+
+Contact Us 
+Contact Us 
+
+Privacy Policy 
+Privacy Policy 
+
+Terms of Service 
+Terms of Service 
+
+Cookie Policy 
+Cookie Policy 
+
+Security 
+Security 
+
+Data Processing Agreement 
+Data Processing Agreement 
+
+Subprocessors 
+Subprocessors 
+
+Ⓒ 2025 Gulp AI Inc. All rights reserved.

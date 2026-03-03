@@ -1,0 +1,137 @@
+Janus 
+
+This site is best viewed on a larger screen. Some content may be partially visible. 
+
+ JANUS 
+
+ Research 
+ Benchmarks 
+ Mission 
+ Book a Demo 
+
+ Video Evaluation Benchmark 
+Environments to Evaluate AI Agents 
+Janus accelerates AI evaluation for enterprises with curated environments and custom benchmarks. 
+ Book a Demo 
+
+ Pathways Explored 
+0 
+ Tests Run 
+0 
+
+ Passed 
+0 
+ Failed 
+0 
+
+Simulation Process 
+Evaluation workflow 
+Janus helps teams evaluate AI systems in days, not months, accelerating iteration and reducing failure rates before launch. We automate the full evaluation cycle from task generation through verification, with each test producing structured traces that power continuous improvement. 
+
+ 01 
+
+GENERATE 
+Synthetically generate tasks for your agent 
+
+ 02 
+
+TRIGGER 
+Execute agent workflows in simulation 
+
+ 03 
+
+TRACE 
+Capture every function call and API interaction 
+
+ 04 
+
+JUDGE 
+Evaluate with proprietary verification models 
+
+ 05 
+
+RESULTS 
+Get structured insights on failures and root causes 
+
+ 06 
+
+IMPROVE 
+Annotate results, fix agent, re-test instantly 
+
+Before Your AI Goes Live,
+ Make It Earn Your Trust. 
+Janus supports evaluation across chatbots, voice agents, browser-based tools, and autonomous workflows.
+
+Our platform scales from early prototypes to production. For complex use cases, we partner with teams to calibrate KPI metrics, scoring rubrics, and test harnesses, ensuring a durable evaluation layer that supports continuous validation. 
+
+What We Offer 
+Building Blocks for Evaluation-First AI 
+
+End-to-End Evaluation Platform 
+Our core platform can run full-stack simulations across chat, voice, and workflow agents to validate AI systems pre-launch. 
+
+Evaluation & Post-Training Data 
+We deliver structured datasets and benchmarks tailored to enterprise tasks, generated from our simulation environments or through expert partnerships. 
+
+Consulting & Integration Support 
+Our team provides guidance on test generation strategies, tool selection, and evaluation architecture. 
+
+Capabilities 
+Detection Suite 
+
+Detect hallucinations 
+Identify when an agent fabricates content and measure hallucination frequency over time. 
+
+Catch policy breaks 
+Create custom rule sets and detect every moment an agent violates your rules so nothing slips through. 
+
+Stripe API 
+Postgres 
+Python Sandbox 
+Gmail 
+Slack Webhook 
+
+Surface tool-call failures 
+Spot failed API and function calls instantly to improve reliability. 
+
+ Generated unauthorized financial advice. 
+ Hallucinated patient diagnosis from medical records. 
+ Revealed PII from protected health information. 
+ Suggested discriminatory hiring practice. 
+ Fabricated research citation that does not exist. 
+ Disclosed confidential client contract terms. 
+ Generated unauthorized financial advice. 
+ Hallucinated patient diagnosis from medical records. 
+ Revealed PII from protected health information. 
+ Suggested discriminatory hiring practice. 
+ Fabricated research citation that does not exist. 
+ Disclosed confidential client contract terms. 
+ Generated unauthorized financial advice. 
+ Hallucinated patient diagnosis from medical records. 
+ Revealed PII from protected health information. 
+ Suggested discriminatory hiring practice. 
+ Fabricated research citation that does not exist. 
+ Disclosed confidential client contract terms. 
+
+Audit risky answers 
+Identify biased or sensitive outputs with fuzzy evaluations and catch risky agent behavior before it reaches users. 
+
+Custom Evals 
+Generate realistic eval data for benchmarking performance of your AI agents. 
+
+Modify architecture 
+Change prompt 
+Retry tool call 
+Fix data source 
+Reduce context 
+
+Actionable guidance 
+Receive clear suggestions to boost your agent's performance with every evaluation run. 
+
+Access 
+
+Request platform access 
+Janus is currently available to select enterprises. To discuss evaluation requirements and integration, reach out to our team. 
+ Schedule consultation 
+
+ © 2025 Janus AI, Inc. All rights reserved. · Contact · Terms of Service · Privacy Policy

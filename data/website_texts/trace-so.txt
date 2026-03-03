@@ -1,0 +1,327 @@
+Trace 
+
+ Features 
+
+ Benefits 
+
+ Testimonials 
+
+Get Started 
+
+BETA 
+
+INTRODUCING CONTEXT-AWARE AUTOMATION 
+
+AI orchestration layer for modern teams 
+
+AI orchestration layer for modern teams 
+
+An operational layer that understands how your company works — aligning AI agents and human judgment across departments to unlock leverage at scale. 
+
+Get In Touch 
+
+BETA 
+
+INTRODUCING CONTEXT-AWARE AUTOMATION 
+
+AI orchestration layer for modern teams 
+
+An operational layer that understands how your company works — aligning AI agents and human judgment across departments to unlock leverage at scale. 
+
+Get In Touch 
+
+ Trace / Client Onboarding / 
+ Workflow Review 
+
+New client onboarding triggered 
+
+ Workflow created for Acme Corp — assigned to Sales & Ops
+
+Overview 
+
+Tasks 
+
+Agents 
+
+Activity 
+
+T 
+
+ Trace Agent completed task · 2 minutes ago
+
+Extract contract terms 
+
+Source 
+
+Acme_MSA.pdf 
+
+Contract value: $85,000 
+
+Term: 12 months 
+
+Auto-renewal: Yes 
+
+ Approval required: contract exceeds $50K threshold. Routing to Finance.
+
+Finance Review 
+
+ Awaiting approval 
+
+Assigned 
+
+@sarah.chen 
+
+Priority 
+
+High 
+
+Context Engine 
+
+Designed for modern complexity 
+
+By modeling how tasks flow between departments, the system builds a persistent understanding of your operations — improving how agents and teams collaborate over time. 
+
+Get In Touch 
+
+ Trace / Client Onboarding / 
+ Workflow Review 
+
+New client onboarding triggered 
+
+ Workflow created for Acme Corp — assigned to Sales & Ops
+
+Overview 
+
+Tasks 
+
+Agents 
+
+Activity 
+
+T 
+
+ Trace Agent completed task · 2 minutes ago
+
+Extract contract terms 
+
+Source 
+
+Acme_MSA.pdf 
+
+Contract value: $85,000 
+
+Term: 12 months 
+
+Auto-renewal: Yes 
+
+ Approval required: contract exceeds $50K threshold. Routing to Finance.
+
+Finance Review 
+
+ Awaiting approval 
+
+Assigned 
+
+@sarah.chen 
+
+Priority 
+
+High 
+
+Context Engine 
+
+Designed for modern complexity 
+
+By modeling how tasks flow between departments, the system builds a persistent understanding of your operations — improving how agents and teams collaborate over time. 
+
+Get In Touch 
+
+ Trace / Client Onboarding / 
+ Workflow Review 
+
+New client onboarding triggered 
+
+ Workflow created for Acme Corp — assigned to Sales & Ops
+
+Overview 
+
+Tasks 
+
+Agents 
+
+Activity 
+
+T 
+
+ Trace Agent completed task · 2 minutes ago
+
+Extract contract terms 
+
+Source 
+
+Acme_MSA.pdf 
+
+Contract value: $85,000 
+
+Term: 12 months 
+
+Auto-renewal: Yes 
+
+ Approval required: contract exceeds $50K threshold. Routing to Finance.
+
+Finance Review 
+
+ Awaiting approval 
+
+Assigned 
+
+@sarah.chen 
+
+Priority 
+
+High 
+
+Context Engine 
+
+Designed for modern complexity 
+
+By modeling how tasks flow between departments, the system builds a persistent understanding of your operations — improving how agents and teams collaborate over time. 
+
+Get In Touch 
+
+ Trace 
+ Workspaces 
+ Workflows 
+ Agents 
+ Runs 
+ Insights 
+
+ $ trace run workflows/sales-pipeline --team=sales
+
+>>> Connecting to knowledge graph... 
+
+ Resolving entities from Slack, HubSpot, Google Drive
+
+ 12 active workflows across 4 departments
+
+ Current agents:
+ 8 running ,
+ 3 awaiting approval 
+
+>>> Executing sales-pipeline... 
+
+ Agent: Lead Qualifier — processing 34 new inbound leads
+
+ Agent: Email Drafter — 12 follow-ups generated
+
+ Human: @james.r (Sales) — 3 proposals awaiting review
+
+ ✓ 847 tasks completed this week 
+
+ ✓ 6 departments connected 
+
+ ✓ Context graph: 14,200 entities mapped 
+
+847 
+
+Tasks this week 
+
+12 
+
+Active workflows 
+
+6 
+
+Departments 
+
+14.2K 
+
+Entities mapped 
+
+Deployment Safeguards 
+
+Built for scale 
+
+From early experimentation to enterprise deployment, workflows scale across teams and systems – without losing structure, visibility, or control. 
+
+Get In Touch 
+
+ Trace 
+ Workspaces 
+ Workflows 
+ Agents 
+ Runs 
+ Insights 
+
+ $ trace run workflows/sales-pipeline --team=sales
+
+>>> Connecting to knowledge graph... 
+
+ Resolving entities from Slack, HubSpot, Google Drive
+
+ 12 active workflows across 4 departments
+
+ Current agents:
+ 8 running ,
+ 3 awaiting approval 
+
+>>> Executing sales-pipeline... 
+
+ Agent: Lead Qualifier — processing 34 new inbound leads
+
+ Agent: Email Drafter — 12 follow-ups generated
+
+ Human: @james.r (Sales) — 3 proposals awaiting review
+
+ ✓ 847 tasks completed this week 
+
+ ✓ 6 departments connected 
+
+ ✓ Context graph: 14,200 entities mapped 
+
+847 
+
+Tasks this week 
+
+12 
+
+Active workflows 
+
+6 
+
+Departments 
+
+14.2K 
+
+Entities mapped 
+
+Deployment Safeguards 
+
+Built for scale 
+
+From early experimentation to enterprise deployment, workflows scale across teams and systems – without losing structure, visibility, or control. 
+
+Get In Touch 
+
+ Trace 
+ Workspaces 
+ Workflows 
+ Agents 
+ Runs 
+ Insights 
+
+ $ trace run workflows/sales-pipeline --team=sales
+
+>>> Connecting to knowledge graph... 
+
+ Resolving entities from Slack, HubSpot, Google Drive
+
+ 12 active workflows across 4 departments
+
+ Current agents:
+ 8 running ,
+ 3 awaiting approval 
+
+>>> Executing sales-pipeline... 
+
+ Agent: Lead Qualifier — processing 34 new 

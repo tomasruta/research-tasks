@@ -1,0 +1,402 @@
+Sourcebot | The Code Understanding Tool 
+
+ Pricing 
+
+ Blog 
+
+ Changelog 
+
+ Contact 
+
+3k 
+
+Docs 
+
+Docs 
+
+The Code Understanding Platform 
+
+The Code Understanding Platform 
+
+ Sourcebot is a self-hosted platform that helps humans and agents understand your codebase. 
+
+ Sourcebot is a self-hosted platform that helps humans and agents understand your codebase. 
+
+Docs 
+
+Docs 
+
+GitHub 
+
+GitHub 
+
+Intelligent 
+
+Search, find, and understand your entire codebase with AI. Bring your own LLM key. 
+
+Self-hosted 
+
+Deployed as a Docker container on-prem. No data leaves the deployment. 
+
+Scalable 
+
+Connect code hosted on GitHub, GitLab, BitBucket, and more. Scales to thousands of repos. 
+
+LOVED BY DEVS AT 
+
+272k+ 
+
+Docker Pulls 
+
+3k+ 
+
+GitHub Stars 
+
+Agentic Search 
+
+Code Search 
+
+MCP 
+
+Agentic Search 
+
+Docs 
+
+Ask mode for your entire codebase 
+
+Ask questions in plain english. The LLM will search, navigate, and find relevant code context from across your codebase. Answers are summarized with inline citations. 
+
+Onboard faster 
+
+Get answers to questions you're too afraid to ask your tech lead. 
+
+Grok complexity at scale 
+
+Untangle large, legacy codebases that span multiple repositories. 
+
+Align with your team 
+
+Share AI answers with team members so everyone is aligned. 
+
+Agentic Search 
+
+Code Search 
+
+MCP 
+
+Agentic Search 
+
+Docs 
+
+Ask mode for your entire codebase 
+
+Ask questions in plain english. The LLM will search, navigate, and find relevant code context from across your codebase. Answers are summarized with inline citations. 
+
+Onboard faster 
+
+Get answers to questions you're too afraid to ask your tech lead. 
+
+Grok complexity at scale 
+
+Untangle large, legacy codebases that span multiple repositories. 
+
+Align with your team 
+
+Share AI answers with team members so everyone is aligned. 
+
+Works with any code host and LLM 
+
+Works with any code host and LLM 
+
+Connect your code, wherever it's hosted. Bring your own LLM API key for Agentic Search and MCP. All hosted securely on-prem. 
+
+ Request a new integration 
+
+GitHub 
+
+GitHub 
+
+GitLab 
+
+GitLab 
+
+Bitbucket 
+
+Bitbucket 
+
+Azure DevOps 
+
+ADO 
+
+Gerrit 
+
+Gerrit 
+
+Gitea 
+
+Gitea 
+
+OpenAI 
+
+OpenAI 
+
+Anthropic 
+
+Anthropic 
+
+Amazon Bedrock 
+
+Bedrock 
+
+Google Vertex 
+
+Vertex 
+
+DeepSeek 
+
+DeepSeek 
+
+Azure OpenAI 
+
+Azure 
+
+Mistral 
+
+Mistral 
+
+OpenRouter 
+
+OpenRouter 
+
+xAI 
+
+xAI 
+
+More 
+
+More 
+
+Self-hosted and Fair Source 
+
+Self-hosted and Fair Source 
+
+Sourcebot is deployed as a single Docker container on-prem. Released under the Fair Source License. 
+
+ Read the roadmap 
+
+Changelog 
+
+ File explorer improvements 
+
+Jan 20, 2026 
+
+ Streamed search 
+
+Nov 24, 2025 
+
+ Account linking 
+
+Nov 4, 2025 
+
+ Performance improvements 
+
+Oct 31, 2025 
+
+ GitHub & GitLab permission syncing 
+
+Oct 30, 2025 
+
+ Ask Sourcebot 
+
+Jul 30, 2025 
+
+ Analytics 
+
+Jun 21, 2025 
+
+ File explorer 
+
+Jun 6, 2025 
+
+ Sourcebot v4 release 
+
+May 28, 2025 
+
+ Bitbucket support 
+
+Apr 25, 2025 
+
+ Sourcebot v3 release 
+
+Mar 31, 2025 
+
+ Syntax reference guide 
+
+Jan 17, 2025 
+
+ Share links 
+
+Jan 10, 2025 
+
+ Read the full changelog… 
+
+Latest release 
+
+Latest release 
+
+Loading... 
+
+# GitHub Stars 
+
+# GitHub Stars 
+
+Loading... 
+
+# Docker pulls 
+
+# Docker pulls 
+
+272K 
+
+# Feature requests 
+
+# Feature requests 
+
+Loading... 
+
+Pricing 
+
+Pricing 
+
+Deploy Sourcebot self-hosted today. Upgrade to Enterprise at any time. 
+
+ Learn more 
+
+Community Edition (CE) 
+
+Self-host Sourcebot for free on your own infrastructure 
+
+Deployment guide 
+
+Free 
+
+Single docker image deploy 
+
+Agentic search with any supported model provider 
+
+Blazingly fast precise code search 
+
+MCP server 
+
+GitHub, Gerrit, Bitbucket and Gitlab connections 
+
+Community support 
+
+Community Edition (CE) 
+
+Self-host Sourcebot for free on your own infrastructure 
+
+Deployment guide 
+
+Free 
+
+Single docker image deploy 
+
+Agentic search with any supported model provider 
+
+Blazingly fast precise code search 
+
+MCP server 
+
+GitHub, Gerrit, Bitbucket and Gitlab connections 
+
+Community support 
+
+Enterprise Edition (EE) 
+
+Enterprise-grade support, navigation and security features 
+
+Request trial license 
+
+Contact Us 
+
+All Community Edition features 
+
+SSO, OAuth, and IAP support 
+
+Code host permission syncing 
+
+Code navigation 
+
+Search contexts 
+
+Dedicated support 
+
+Enterprise Edition (EE) 
+
+Enterprise-grade support, navigation and security features 
+
+Request trial license 
+
+Contact Us 
+
+All Community Edition features 
+
+SSO, OAuth, and IAP support 
+
+Code host permission syncing 
+
+Code navigation 
+
+Search contexts 
+
+Dedicated support 
+
+Understand your codebase today. 
+
+Understand your codebase today. 
+
+Docs 
+
+Docs 
+
+GitHub 
+
+GitHub 
+
+Made w/ ❤️ 
+in SF & 🇨🇦 
+
+Product 
+
+ Docs 
+
+ Docs 
+
+ Pricing 
+
+ Pricing 
+
+ Changelog 
+
+ Changelog 
+
+ Roadmap 
+
+ Roadmap 
+
+Connect 
+
+ Get in touch 
+
+ Get in touch 
+
+ GitHub 
+
+ GitHub 
+
+ X (Twitter) 
+
+ X (Twitter) 
+
+© Taqla, Inc. All rights reserved.

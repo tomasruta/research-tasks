@@ -1,0 +1,96 @@
+Cyberdesk | The computer use agent for Windows 
+
+ Cyberdesk 
+
+The computer use agent for Windows 
+
+Developers in healthcare, finance, and more use Cyberdesk to automate EHRs, ERPs, and other legacy desktop apps. 
+
+ Backed by Y Combinator 
+
+Build faster 
+Dead easy Windows automation 
+
+ 1 Install our driver. Works on any physical / virtual Windows machine, no firewall rules or VPN required 
+
+ 2 Write your workflow. Just in plain English, like explaining to a friend ("Open Epic, add a patient...") 
+
+ 3 Trigger via API. Our computer use engine takes it from there. Typescript and Python SDKs, scheduling, retries, and error handling built in 
+
+Use cases 
+Automate everything 
+Developers in healthcare, finance, logistics, and more rely on Cyberdesk to automate tasks for their clients. 
+
+ Healthcare Automate data entry and extraction into EHRs / EMRs 
+
+ Finance Pull data from financial apps and file forms in accounting software 
+
+ Logistics Read and write data into legacy ERPs and logistics portals 
+
+Features 
+The developer toolkit you've been waiting for 
+
+Observability built in 
+Your command center for desktop automation. Manage workflows, see run logs, and manage your machines. 
+
+Intelligent caching 
+Every repeated desktop task is cheaper, faster, and 100% deterministic, with smart fallbacks for edge cases 
+
+Secure by design 
+No firewalls, no VPNs, no proxies. Minimal exposure to your Windows environment 
+
+Powerful APIs and SDKs 
+Trigger workflows from your code, and we handle the rest 
+
+FileW2.py 
+ExtractPatientData.ts 
+
+import { createCyberdeskClient } from 'cyberdesk';
+
+// Initialize client
+const cyberdesk = createCyberdeskClient('your-api-key');
+
+// Create a workflow run
+const run = await cyberdesk.runs.create({
+ workflow_id: 'wf_123',
+ machine_id: 'machine_456'
+}); 
+
+Enterprise-grade security 
+
+ Security-first approach 
+Security isn't an afterthought at Cyberdesk. Every aspect of our platform is designed with enterprise-grade security standards, ensuring your automations operate in the most secure environment possible. 
+ View our trust center → 
+
+Frequently asked questions 
+Can't find the answer you're looking for? Reach out to the founders today. 
+
+ Who is Cyberdesk for? Cyberdesk is most useful for developers and automation engineers who need to read and write data from legacy Windows software that lacks good APIs. 
+
+ How much does it cost? Hop on a call with us! We'll collaborate with you to build a custom plan that fits your needs. 
+
+ Do I need to be technical to use Cyberdesk? Just enough to be able to write a few lines of code. Creating the workflow is just plain English directions. 
+
+ How is this different than RPA / PyAutoGUI / etc? We're built from the ground up on top of computer use models, AI models that use the computer like a human. You'll never babysit / debug an automation script again. 
+
+ Do you support MacOS? Yes! Our driver works on MacOS as well. 
+
+Book a demo 
+Build your first
+automation today 
+Get started with a demo call 
+ Book a demo 
+ Self Serve Waitlist 
+
+ Cyberdesk 
+
+Product 
+ Docs 
+ Book a demo 
+ Join Self Serve Waitlist 
+
+Legal 
+ Terms of Service 
+ Privacy Policy 
+
+© 2026 Cyberdesk Inc.

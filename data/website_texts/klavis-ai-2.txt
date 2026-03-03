@@ -1,0 +1,321 @@
+Klavis AI is the MCP infrastructure for AI to use tools reliably at any scale. | Klavis AI 
+
+ Home 
+ MCP Servers 
+ Documentation 
+ Blog 
+ Use Cases 
+ Pricing 
+
+ KlavisAI 
+
+ KlavisAI 
+
+ Home 
+ MCP Servers 
+ Documentation 
+ Blog 
+ Use Cases 
+ Pricing 
+
+ Sign In Sign Up 
+
+ KlavisAI US 
+
+ X (Twitter) LinkedIn GitHub Discord YouTube 
+
+© Copyright 2026 Klavis AI. All Rights Reserved. 
+
+ Product 
+ Use Cases 
+ Pricing 
+ FAQ 
+
+ Resources 
+ Documentation 
+ Blog 
+ Community 
+
+ Developers 
+ GitHub 
+ Open Source 
+
+ Company 
+ Contact 
+ Careers 
+
+ Legal 
+ Terms of Service 
+ Privacy Policy 
+ Cookie Policy 
+
+ Backed by Y Combinator 
+
+ MCP Infrastructure for AI 
+
+Train LLMs on real MCP sandboxes
+Ship AI apps with enterprise integrations 
+
+ Start Free Request Demo 
+
+The Foundation 
+Connect LLMs to your favorite tools 
+ IDE AI models Framework Integrations 
+
+ Figma 
+
+ Notion 
+
+ GitHub 
+
+ Gmail 
+
+ Google Drive 
+
+ Google Calendar 
+
+ Salesforce 
+
+ Linear 
+
+ HubSpot 
+
+ Asana 
+
+ Slack 
+
+ Discord 
+
+ Jira 
+
+ Confluence 
+
+ Supabase 
+
+ Stripe 
+
+ Google Sheets 
+
+ Google Docs 
+
+ PostgreSQL 
+
+ Calendly 
+
+ Airtable 
+
+ ClickUp 
+
+ Motion 
+
+ Attio 
+
+ Close 
+
+ Gong 
+
+ OneDrive 
+
+ Outlook 
+
+ Dropbox 
+
+ LinkedIn 
+
+ WhatsApp 
+
+ YouTube 
+
+ Zendesk 
+
+ Cloudflare 
+
+ WordPress 
+
+ Resend 
+
+ PostgREST 
+
+ Firecrawl 
+
+ Affinity 
+
+ Plai 
+
+ Figma 
+
+ Notion 
+
+ GitHub 
+
+ Gmail 
+
+ Google Drive 
+
+ Google Calendar 
+
+ Salesforce 
+
+ Linear 
+
+ HubSpot 
+
+ Asana 
+
+ Slack 
+
+ Discord 
+
+ Jira 
+
+ Confluence 
+
+ Supabase 
+
+ Stripe 
+
+ Google Sheets 
+
+ Google Docs 
+
+ PostgreSQL 
+
+ Calendly 
+
+ Airtable 
+
+ ClickUp 
+
+ Motion 
+
+ Attio 
+
+ Close 
+
+ Gong 
+
+ OneDrive 
+
+ Outlook 
+
+ Dropbox 
+
+ LinkedIn 
+
+ WhatsApp 
+
+ YouTube 
+
+ Zendesk 
+
+ Cloudflare 
+
+ WordPress 
+
+ Resend 
+
+ PostgREST 
+
+ Firecrawl 
+
+ Affinity 
+
+ Plai 
+ View all integrations 
+
+For AI Labs 
+
+ Problems We Solve 
+
+Managing test accounts 
+Streamlined account management 
+
+Hours of test data setup 
+Instant state initialization 
+
+No visibility into AI actions 
+State export for verification 
+
+Slow manual cleanup 
+One-click reset & teardown 
+
+Sequential, blocking runs 
+Isolated, parallel runs 
+
+MCP sandboxes 
+ for LLM training 
+Fully managed sandbox environments for training and evaluating AI models. We handle account pooling, state initialization, and teardown—you focus on building better models. 
+
+300+ MCP Servers 
+
+Full Server Fidelity 
+
+High-Quality Initialization Data 
+
+RL Training Ready View Sandbox API docs 
+
+For AI App Builders 
+
+MCP connections with OAuth 2.0 Handled 
+
+ client = Klavis (api_key= "..." ) 
+resp = client.mcp_server. create_strata_server ( 
+servers=[ "gmail" , "slack" ] 
+) 
+# OAuth handled automatically 
+
+Connect your AI agents 
+ to any app in minutes 
+Stop building integrations from scratch. Access hundreds of prebuilt MCP servers for popular SaaS tools, databases, and APIs. Ship faster with MCP servers that just work. 
+
+Production-ready MCP Servers 
+
+Developer-friendly API 
+
+Enterprise-grade OAuth 
+
+High-Quality Tool Design View Documentation 
+
+Shared Infrastructure 
+ Enterprise-grade infrastructure 
+Whether you're training models or building applications, both offerings share the same robust foundation. 
+
+Enterprise-ready MCP Servers 
+
+SOC2 and GDPR Compliant 
+
+OAuth Handled 
+
+99.9% Uptime 
+
+Loved by builders 
+Discover what our community has to say about their Klavis experience. 
+
+Model Context Protocol (MCP) 
+@MCP_Community 
+“ the entire @Klavis_AI team for turning complex MCP infrastructure into plug-and-play simplicity. Enterprise-grade tools without the enterprise headaches! ” 
+
+Shoya 
+Founder and CEO @ Jinba (YC W26) 
+“ I subscribed because I knew you guys would ship faster than anyone else, and you have. Replies within a minute, even at 2am. That level of commitment from both of you is truly outstanding. ” 
+
+Bill Clerico 
+Former CEO @Wepay 
+“ If you're a VC using @affinity__crm I highly recommend the Klavis MCP server to give Claude access to your Affinity data. You can now get a pretty good investment memo draft with just a simple ask, amongst lots of other stuff! ” 
+
+Fireworks AI 
+“ Today, we are launching and open-sourcing Eval Protocol: a framework to run RL directly on your production agents. EP brings the training loop to your agent wherever it lives—with day-0 integrations including Klavis AI (YC X25)—streams traces back, and computes rewards to update the model. ” 
+
+Justin Lee 
+Co-Founder at Den (YC X25) 
+“ these guys don't just sell the best servers, they answer on the first ring, every time. If you need MCP, use Klavis. ” 
+
+Guillermo Flor 
+Founder @The AI Opportunity 
+“ Xiangkai built the tool-calling infra at Google Gemini — before MCPs even existed 🤯 He saw the limits of traditional APIs for agents. And knew the real unlock wasn't smarter models ” 
+
+CrewAI 
+“ Automate your next sales follow-up! All powered by CrewAI + Klavis AI (YC X25) MCP — no manual coding of OAuth flows, no glue scripts. ” 
+
+CAMEL-AI 
+“ We're excited to announce integration with @Klavis_AI MCP platform Now your Ca

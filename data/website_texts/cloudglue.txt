@@ -1,0 +1,216 @@
+Cloudglue | Videos as context for AI 
+
+ Cloudglue 
+
+ Use Cases 
+
+ Playground 
+
+ Docs 
+
+ Pricing 
+
+Login 
+
+ Cloudglue 
+
+ Use Cases 
+
+ Playground 
+
+ Docs 
+
+ Pricing 
+
+Login 
+
+ Cloudglue 
+
+Purpose-built for AI agents 
+
+Purpose-built for AI agents 
+
+Purpose-built for AI agents 
+
+ Video context engine for AI 
+
+ Turn your videos into structured data, ready for LLMs 
+
+The API to structure, search, and reason over video for developers. 
+
+Try the playground (it's free!) 
+
+Try the playground (it's free!) 
+
+Try the playground (it's free!) 
+
+Used by developers from 
+
+Power incredible applications that understand video content 
+
+Power incredible applications that understand video content 
+
+Power incredible applications that understand video content 
+
+The easiest way to add video as multimodal context. 
+
+Cloudglue makes it effortless to extract insights from video, and for AI to reason across videos at scale. 
+
+Example Application 
+
+Chatbot and RAG on your videos 
+
+Enable your chatbot to answer questions across video content 
+
+Example Application 
+
+Chatbot and RAG on your videos 
+
+Enable your chatbot to answer questions across video content 
+
+Example Application 
+
+Chatbot and RAG on your videos 
+
+Enable your chatbot to answer questions across video content 
+
+Example Application 
+
+Analyze collections of videos 
+
+Run aggregate analysis across videos 
+
+Example Application 
+
+Analyze collections of videos 
+
+Run aggregate analysis across videos 
+
+Example Application 
+
+Analyze collections of videos 
+
+Run aggregate analysis across videos 
+
+Example Application 
+
+Build knowledge graphs 
+
+Undestand the relationship between entities that appear in your videos 
+
+Example Application 
+
+Build knowledge graphs 
+
+Undestand the relationship between entities that appear in your videos 
+
+Example Application 
+
+Extract structured data 
+
+Define schemas and extract entities consistently across videos 
+
+Example Application 
+
+Extract structured data 
+
+Define schemas and extract entities consistently across videos 
+
+Example Application 
+
+Semantic and hybrid search across videos 
+
+Find and retrieve relevant videos and segments 
+
+Example Application 
+
+Semantic and hybrid search across videos 
+
+Find and retrieve relevant videos and segments 
+
+Example Application 
+
+Semantic and hybrid search across videos 
+
+Find and retrieve relevant videos and segments 
+
+Built for developers, by developers. 
+
+Built for developers, by developers. 
+
+Built for developers, by developers. 
+
+Video-native, designed for AI ☁️ 
+
+Video-native, designed for AI ☁️ 
+
+Video-native, designed for AI ☁️ 
+
+Cloudglue is the first API that makes extracting data and reasoning over video as simple as writing a few lines of code. 
+We handle the heavy lifting so you can focus on shipping great products. 
+
+Cloudglue is the first API that makes extracting data and reasoning over video as simple as writing a few lines of code. 
+We handle the heavy lifting so you can focus on shipping great products. 
+
+Cloudglue is the first API that makes extracting data and reasoning over video as simple as writing a few lines of code. 
+We handle the heavy lifting so you can focus on shipping great products. 
+
+🔑 
+
+Effortless Setup, No More Infra Wrangling 
+
+Get structured ETL or video RAG at scale with just a few lines of code. Cut time-to-production from weeks to days. 
+
+🔑 
+
+Effortless Setup, No More Infra Wrangling 
+
+Get structured ETL or video RAG at scale with just a few lines of code. Cut time-to-production from weeks to days. 
+
+🔑 
+
+Effortless Setup, No More Infra Wrangling 
+
+Get structured ETL or video RAG at scale with just a few lines of code. Cut time-to-production from weeks to days. 
+
+⚡ 
+
+Unparalleled Speed & Durations 
+
+Chat across hundreds of videos in seconds. Process 2 hours of video in just 3 minutes. Fast indexing and responses, no matter the collection size. 
+
+⚡ 
+
+Unparalleled Speed & Durations 
+
+Chat across hundreds of videos in seconds. Process 2 hours of video in just 3 minutes. Fast indexing and responses, no matter the collection size. 
+
+⚡ 
+
+Unparalleled Speed & Durations 
+
+Chat across hundreds of videos in seconds. Process 2 hours of video in just 3 minutes. Fast indexing and responses, no matter the collection size. 
+
+🏋️‍♀️ 
+
+Always Get the Best Video Understanding 
+
+Ship with the strongest video-understanding capabilities today—and tomorrow. Cloudglue handles model upgrades and scaling under the hood, so your product stays state-of-the-art by default. 
+
+🏋️‍♀️ 
+
+Always Get the Best Video Understanding 
+
+Ship with the strongest video-understanding capabilities today—and tomorrow. Cloudglue handles model upgrades and scaling under the hood, so your product stays state-of-the-art by default. 
+
+🏋️‍♀️ 
+
+Always Get the Best Video Understanding 
+
+Ship with the strongest video-understanding capabilities today—and tomorrow. Cloudglue handles model upgrades and scaling under the hood, so your product stays state-of-the-art by default. 
+
+📐 
+
+Built For Any Stack 
+
+Cloudglue fits any stack. Add to

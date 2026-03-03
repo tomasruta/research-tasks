@@ -1,0 +1,129 @@
+Lua AI - The Agent OS 
+
+ Developers 
+ Templates 
+ Docs 
+ Log in 
+ Start Building 
+
+ Y Combinator F25 
+Build AI agents
+ that solve real problems 
+Ship enterprise-grade agents without touching infrastructure.
+Deliver true ROI in days. 
+
+I'm a Developer 
+Real TypeScript, not YAML. Write actual code with Zod validation, proper testing, and a modern dev workflow. Quick start 
+
+Build Without Code 
+Create agents for support, sales, HR, research & more. No code needed. Deploy to mobile, web, Slack instantly. Start Building 
+
+Build agents that can 
+ Handle customer support Qualify leads Schedule appointments Analyze data Generate content Conduct research + 
+
+Built on-top of the world's leading AI providers No Lock-In 
+
+ Gemini 
+
+ Perplexity 
+
+ Meta 
+
+0 + 
+Agents Deployed 
+
+0 M+ 
+Messages Processed 
+
+0.000 % 
+Uptime 
+
+< 0 ms 
+Response Time 
+
+ Lua 
+The Agent OS for building enterprise-grade AI agents. 
+
+Product 
+ Agent Builder 
+ Templates 
+
+Developers 
+ Documentation 
+ API Reference 
+ Examples 
+
+Legal 
+ Privacy 
+ Terms 
+
+© 2026 Lua Global Inc. All rights reserved. 
+ SOC 2 Compliant GDPR Ready 
+
+Everything you need to build
+ production-ready agents 
+Lua abstracts the technical complexity so you can focus on what matters — solving business problems with AI. 
+
+Multi-Channel Deployment 
+Multi-Channel Deployment 
+Deploy once, run everywhere. Mobile, Slack, Instagram, Facebook Messenger, email, and web — all managed from one place. 
+
+Real TypeScript, Not YAML 
+Real TypeScript, Not YAML 
+Write actual code with Zod validation, proper testing, and a modern dev workflow. No configuration languages. 
+
+Zero Infrastructure 
+Zero Infrastructure 
+We handle hosting, auto-scaling, load balancing, CDN delivery, and uptime monitoring. You focus on business logic. 
+
+Enterprise Security 
+Enterprise Security 
+SOC 2 compliant with GDPR, CCPA, and industry-specific regulations built in. Your data stays protected. 
+
+Event-Driven Automation 
+Event-Driven Automation 
+HTTP endpoints for Stripe, Shopify, GitHub events. Scheduled tasks with cron patterns. React in real-time. 
+
+30+ Starter Templates 
+30+ Starter Templates 
+Pre-built tools and examples so you can see the pattern right away. From weather APIs to full e-commerce flows. 
+
+Ready to ship your first agent? 
+ Start Building Free View Docs 
+
+Built for real business problems 
+From customer support to e-commerce, see how teams are using Lua to automate their most important workflows. 
+
+ 40% more qualified leads 
+
+Sales & Lead Gen 
+Sales & Lead Gen 
+Turn inbound leads into booked calls automatically Explore templates 
+
+ 67% cost reduction 
+
+Customer Support 
+Customer Support 
+Resolve tickets 24/7 with AI agents that understand your product and can take real actions. Explore templates 
+
+ 3x conversion lift 
+
+E-commerce 
+E-commerce 
+Product recommendations, order tracking, returns — complete shopping experiences via chat. Explore templates 
+
+ 50% reduction in HR tickets 
+
+HR 
+HR 
+Answer employee questions about policies, PTO, and benefits. Explore templates 
+
+Ready to build your first agent ? 
+Join thousands of teams using Lua to automate customer experiences. Start for free, scale when you're ready. 
+
+ Start Building Free 
+ Read the Docs 
+
+ ✓ No credit card required 
+ ✓ Free trial available 
+ ✓ Deploy in minutes

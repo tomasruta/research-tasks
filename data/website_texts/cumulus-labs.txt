@@ -1,0 +1,118 @@
+Cumulus Labs | Fastest Serverless GPU Inference Cloud 
+
+ Blog 
+ Ion 
+
+Coming Soon 
+Lightning fast serverless inference Console Docs 
+
+Cumulus — The Fastest Serverless GPU Cloud for AI Inference 
+Deploy Any Model. The Fastest GPU Cold Starts. 
+Serverless GPU cloud with 12.5s cold starts. Cloud GPU inference that scales to zero — pay only for compute. 
+
+ Request Access Book a Demo Get Started 
+ W26 
+
+Founded by alumni from 
+
+ Performance 
+GPU Cold Start to First Inference 
+Serverless GPU Inference — Flux 2 Diffusion Model 
+
+ Cold Start 
+
+ Model Load 
+ 0.0 x Faster 
+
+ 0 s 20 s 40 s 60 s 
+
+ 16.7 s 
+
+ 12.5 s 
+ 4.2 s 
+
+ Modal 
+ 70 s 
+
+ 60 s 
+ 10 s 
+* Based on internal testing with memory snapshots and torch.compile() enabled on Modal. 
+
+ Process 
+How Serverless GPU Hosting Works 
+
+ 01 
+
+Deploy to GPU Cloud Instantly 
+Deploy your model to serverless GPUs with one function call. Get back a model_id and inference endpoint ready to use. 
+
+ deploy.py 
+
+ from cumulus import deploy 
+
+ # Deploy your model 
+ model = deploy ( "./flux-2-schnell" ) 
+
+ # Returns model_id and endpoint 
+ print ( model . id ) # "flux-2-abc123" 
+ print ( model . endpoint ) # "api.cumulus.io/flux-2-abc123" 
+
+ 02 
+
+Run GPU Inference 
+Use the model_id to run GPU inference, or hit the endpoint directly from any language. 
+
+ inference.py 
+
+ from cumulus import run 
+
+ # Call using model_id 
+ result = run ( "flux-2-abc123" , { 
+ "prompt" : "a watch on marble" 
+ } ) 
+
+ # Or use the endpoint directly 
+ requests . post ( "api.cumulus.io/flux-2-abc123" , ...) 
+
+ 03 
+
+Never Think About GPU Infra 
+We handle GPU selection, replicas, autoscaling, and failover. Fast GPU hosting without the ops. 
+
+ Auto-Scaling any cloud, any region 
+
+ 1 replica 
+
+ 10 replicas 
+
+ 100+ replicas 
+
+Scale from 1 to 100+ replicas instantly 
+You write code. We handle the rest. 
+
+ 04 
+
+Pay Per GPU Compute Cycle 
+Billed by actual GPU compute used, not idle time. Scale to zero, pay nothing when idle. The cheapest way to run GPU inference. 
+
+ Pay-Per-Compute 1 hour sample 
+ 0m 15m 30m 45m 60m 
+
+ 45 % billed 55 % idle — free 
+
+ $0.60/hr 
+ $0.27 ( 55 % saved) 
+
+Cumulus OS 
+
+On-premises GPU hosting for your own private cloud. 
+GPU cluster management powered by Ion . 
+ Explore Cumulus OS 
+
+Cumulus Labs 
+ About Cumulus OS Blog Glossary 
+
+ Share 
+ W26 
+© 2026 Cumulus Compute Labs Corporation. All rights reserved. 
+NVIDIA, the NVIDIA logo, and NVIDIA Inception Program are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries.

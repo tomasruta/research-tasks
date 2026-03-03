@@ -1,0 +1,122 @@
+Mbodi AI | An Embodied AI Platform For Robotics 
+
+ GITHUB DOCS BLOGS CAREERS 
+
+ GET IN TOUCH 
+
+Robots that Learn 
+and operate like humans 
+
+Teach robots new skills through natural conversation. No programming or downtime. 
+
+ github 
+ GET IN TOUCH 
+
+Check out what we're building 
+ explore the language engine 
+
+try it for yourself
+
+We're trying to figure out continual learning to improve your robot, so you don't have to. 
+
+Work moves fast. 
+Robots haven’t.
+
+We enable large scale production systems to be modified and adapted “on the fly”  by everyday operators. 
+
+ try it for yourself 
+Our approach dramatically reduces labor costs, requires no teleoperation data, and unlocks new markets to enable true flexible automation
+
+what you are seeing is a neural network trying to predict the boundary between red and green. 
+
+every interaction shows a live update. when we click here, the boundary changes 
+
+when we click here, it changes again 
+
+try it for yourself
+
+We're trying to figure out continual learning to improve your robot, so you don't have to. 
+
+ AI agents for the physical world 
+‍ 
+Integrate in Minutes 
+Describe a task in plain language, and Mbodi understands. Your team can teach robots new skills directly on the floor. No code, no specialists, no interruptions to production.
+
+ Adapt in real time  
+When conditions change, Mbodi learns. It refines behavior from every interaction, adjusting instantly to new inputs, SKUs, or environments.
+
+‍ Built for production 
+Research demos can be impressive once, but production needs consistent reliability. Mbodi delivers 99% uptime and predictable performance in real-world conditions.
+
+ Scale across fleet
+ When one robot learns, all do. Knowledge transfers seamlessly across fleets and facilities, turning learning into shared capability.
+
+we're building this for hobbyists, researchers, and robotics companies 
+mbodi ai dramatically reduces time, costs, and engineering efforts to teach robots new skills continually, and reliably 
+
+Unique human-robot interface 
+Through intra-context learning and powerful LLMs, mbodi ai enables non-ML experts to teach new skills, provide oversight, and even diagnose problems using only voice and demonstration. 
+
+End-to-end learning 
+Every visual observation and action taken is pipelined to continually train your robot, Agent, or World Model. Iterate through experiments faster, so you can dedicate your time to what matters. 
+
+Generative Data Augmentation 
+Even SOTA models can face up to a 50% failure rate in unfamiliar settings. Early research indicates that generative data augmentation can decrease this failure rate by 80%, significantly improving both reliability and accuracy in unfamiliar settings. 
+
+see it for yourself 
+
+News, Updates & current progress 
+
+Mbodi AI - A New Paradigm for AI Robotics and Our Partnership with ABB 
+
+Our Partners 
+
+read more 
+
+read more 
+
+read more 
+
+Press & News 
+
+Mbodi AI launches on Y Combinator, developing embodied AI for industrial robots — The Robot Report 
+
+Read More → 
+
+Mbodi AI enables robots to learn skills via natural language — The Robot Report 
+
+Read More → 
+
+Mbodi is ABB Robotics’ AI Startup Challenge winners — The Robot Report 
+
+Read More → 
+
+ABB Robotics names T-Robotics and Mbodi as AI Startup Challenge Winners — ABB 
+
+Read More → 
+
+Mbodi AI- Embodied AI for Industrial Robotics — Y Combinator 
+
+Read More → 
+
+Mbodi is ABB Robotics’ AI Startup Challenge winners 
+
+Read More → 
+
+Adaptability has always been the hardest problem in automation.
+
+Embodied intelligence makes it possible for machines to adjust as easily as the people who operate them. 
+
+ GET IN TOUCH 
+
+ GITHUB 
+ BLOGS 
+ CAREERS 
+ BLOGS 
+ DISCORD 
+
+© 2025 mbodi.ai All rights reserved. 
+
+ Privacy Policy 
+ Terms of Service 
+ Cookies Settings

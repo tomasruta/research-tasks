@@ -1,0 +1,151 @@
+Sim - AI Agent Workflow Builder | Open Source Platform 
+
+ Sim Home 
+ Docs 
+ Pricing 
+ Enterprise 
+ Careers 
+ 26.1k 
+ Log in Get started 
+
+ Checking Status... 
+
+More Sim 
+ Docs Pricing Enterprise Sim Studio Changelog Status Careers Privacy Policy Terms of Service 
+
+Blocks 
+ Agent API Condition Evaluator Function Guardrails Human In The Loop Loop Parallel Response Router Starter Webhook Workflow 
+
+Tools 
+
+ Airtable Apify Apollo ArXiv Browser Use Calendly Clay Confluence Discord ElevenLabs Exa Firecrawl GitHub Gmail Google Drive HubSpot HuggingFace Hunter Incidentio Intercom 
+ Jina Jira Knowledge Linear LinkUp LinkedIn Mailchimp Mailgun MCP Mem0 Microsoft Excel Microsoft Planner Microsoft Teams Mistral Parse MongoDB MySQL Neo4j Notion OneDrive 
+ OpenAI Outlook Parallel AI Perplexity Pinecone Pipedrive PostHog PostgreSQL Qdrant Reddit Resend S3 Salesforce SendGrid Serper ServiceNow SharePoint Slack Smtp 
+ Stagehand Stripe Supabase Tavily Telegram Translate Trello Twilio Typeform Vision Wait Wealthbox Webflow WhatsApp Wikipedia X YouTube Zendesk Zep 
+
+Workflows for LLMs 
+Build and deploy AI agent workflows 
+
+ Describe the AI agent you want to build 
+
+Press enter or space to select a node. You can then use the arrow keys to move the node around. Press delete to remove it and escape to cancel. 
+Press enter or space to select an edge. You can then press delete to remove it or escape to cancel. 
+
+Pricing Plans 
+
+ COMMUNITY 
+ Free 
+ $20 usage limit 
+ 5GB file storage 
+ 5 min execution limit 
+ Limited log retention 
+ CLI/SDK Access 
+ Get Started 
+
+ PRO 
+ $20/mo 
+ 150 runs per minute (sync) 
+ 1,000 runs per minute (async) 
+ 50 min sync execution limit 
+ 50GB file storage 
+ Unlimited invites 
+ Unlimited log retention 
+ Get Started 
+
+ TEAM 
+ $40/mo 
+ 300 runs per minute (sync) 
+ 2,500 runs per minute (async) 
+ 50 min sync execution limit 
+ 500GB file storage (pooled) 
+ Unlimited invites 
+ Unlimited log retention 
+ Dedicated Slack channel 
+ Get Started 
+
+ ENTERPRISE 
+ Custom 
+ Custom rate limits 
+ Custom file storage 
+ SSO 
+ SOC2 
+ Dedicated support 
+ Contact Sales 
+
+Integrations 
+Immediately connect to 100+ models and apps 
+
+ Hasan Toor @hasantoxr 515k views 
+🚨 BREAKING: This startup just dropped the fastest way to build AI agents.
+
+This Figma-like canvas to build agents will blow your mind.
+
+Here's why this is the best tool for building AI agents: 
+
+ GitHub Projects @GithubProjects 90.4k views 
+Drag-and-drop AI workflows for devs who'd rather build agents than babysit them. 
+
+ Ryan Lazuka @lazukars 47.4k views 
+🚨 BREAKING: This startup just dropped the fastest way to build AI agents.
+
+This Figma-like canvas to build agents will blow your mind.
+
+Here's why this is the best tool for building AI agents: 
+
+ nizzy @nizzyabi 6,269 views 
+omfggggg this is the zapier of agent building
+
+i always believed that building agents and using ai should not be limited to technical people. i think this solves just that
+
+the fact that this is also open source makes me so optimistic about the future of building with ai :)))
+
+congrats @karabegemir & @typingwala !!! 
+
+ xyflow @xyflowdev 3,246 views 
+A very good looking agent workflow builder 🔥 and open source! 
+
+ samarth @firestorm776 1,256 views 
+One of the best products I've seen in the space, and the hustle and grind I've seen from @karabegemir and @typingwala is insane. Sim is positioned to build something game-changing, and there's no better team for the job.
+
+Congrats on the launch 🚀 🎊 great things ahead! 
+
+ nizzy @nizzyabi 1,762 views 
+lfgg got access to @simstudioai via @zerodotemail 😎 
+
+ Syamraj K @syamrajk 2,784 views 
+Feels like we're finally getting a "Photoshop moment" for AI devs—visual, intuitive, and fast enough to keep up with ideas mid-flow. 
+
+ Daniel Kim @daniel_zkim 103 views 
+The use cases are endless. Great work @simstudioai 
+
+ Hasan Toor @hasantoxr 515k views 
+🚨 BREAKING: This startup just dropped the fastest way to build AI agents.
+
+This Figma-like canvas to build agents will blow your mind.
+
+Here's why this is the best tool for building AI agents: 
+
+ GitHub Projects @GithubProjects 90.4k views 
+Drag-and-drop AI workflows for devs who'd rather build agents than babysit them. 
+
+ Ryan Lazuka @lazukars 47.4k views 
+🚨 BREAKING: This startup just dropped the fastest way to build AI agents.
+
+This Figma-like canvas to build agents will blow your mind.
+
+Here's why this is the best tool for building AI agents: 
+
+ nizzy @nizzyabi 6,269 views 
+omfggggg this is the zapier of agent building
+
+i always believed that building agents and using ai should not be limited to technical people. i think this solves just that
+
+the fact that this is also open source makes me so optimistic about the future of building with ai :)))
+
+congrats @karabegemir & @typingwala !!! 
+
+ xyflow @xyflowdev 3,246 views 
+A very good looking agent workflow builder 🔥 and open source! 
+
+ samarth @firestorm776 1,256 views 
+One of the best products I've seen in the space, and the hustle and grind I've seen from @kara

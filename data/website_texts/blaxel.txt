@@ -1,0 +1,158 @@
+Blaxel: The Persistent Sandbox Platform | Near Instant Latency for AI Agents 
+
+ Platform Docs Blog Pricing 
+ Contact Get started C Toggle menu 
+
+ Backed by Y Combinator 
+The perpetual
+sandbox platform 
+Blaxel lets you keep infinite, secure sandboxes on automatic standby, while co-hosting your agents and context for near instant latency. 
+ Try Blaxel Get a demo 
+ npm install @blaxel/core 
+
+25ms 
+Resume from standby 
+
+50K+ 
+Concurrent sandboxes 
+
+$0 
+When idle on standby 
+
+TRUSTED BY AI BUILDERS FROM HIGH GROWTH COMPANIES 
+
+> Stop treating sandboxes as ephemeral runners. Truly intelligent AI agents should be able to have access to their own computers_ 
+Traditional sandboxes expire in hours to days, destroying context and forcing you to build heavy orchestration just to manage state — or accept a slow, fresh start every run. Meet Blaxel 
+
+ Traditional sandboxes 
+
+Cold start 
+Provision from scratch 
+2-5s 
+
+Running 
+Active compute 
+~1h max 
+
+ Destroyed 
+State & context lost forever 
+ Repeat from scratch 
+
+ Blaxel sandboxes 
+
+Running 
+Active compute 
+any duration 
+
+ Standby 
+State fully preserved, $0 cost 
+$0 
+
+ Resume 
+Full memory + FS restored instantly 
+25ms 
+ Back to running — state intact 
+
+The first sandbox that sleeps, but never dies 
+Blaxel Sandboxes work like your laptop but for agents: close the lid, it suspends; open it, it resumes instantly where you left it. Persist context and state forever — and reach near-instant execution by running your agent logic, context and inference on the same colocated backbone too. 
+
+ 0 ms 
+Resume from standby 
+Full memory + filesystem state restored 
+
+ 0 K+ 
+Concurrent sandboxes 
+Elastic scale on demand 
+
+ 0 s 
+To auto-suspend 
+Scale to zero when idle, pay nothing 
+
+$ 0 
+When on standby 
+Only pay for active compute time 
+
+ Blaxel Sandboxes 
+Give a computer to your agent 
+Run AI code in persistent environments that wait on standby indefinitely when not used, eliminating cold starts without complex orchestration. Instantly scale to 50,000+ concurrent machines. Discover Sandboxes 
+
+┌─ SANDBOX ─────────────────────────────────┐ 
+│ │ 
+│ ID sbx-a7f3 │ 
+│ STATUS ● RUNNING │ 
+│ MEMORY 256 MB ████████ ░░░ 78% │ 
+│ PROCESS node index.js PID 1 │ 
+│ UPTIME 02:41:07 │ 
+│ │ 
+├── LIFECYCLE ──────────────────────────────┤ 
+│ │ 
+│ > idle detected (15s) │ 
+│ > snapshot: memory ............. done │ 
+│ > snapshot: filesystem ......... done │ 
+│ │ 
+│ STATUS ◐ STANDBY $0/hr │ 
+│ │ 
+│ ... 72 hours pass ... │ 
+│ │ 
+│ > resume signal received │ 
+│ > restoring snapshot ........... done │ 
+│ STATUS ● RUNNING 25ms │ 
+│ > process intact: PID 1 │ 
+│ │ 
+└───────────────────────────────────────────┘ 
+
+Auto-suspend sandboxes when they're not used. Persist forever. 
+Our flagship lifecycle handler automatically scales sandboxes to zero when idle, with a full memory + filesystem snapshot. Keep infinite sandboxes in standby forever. Resume instantly with identical process state. 
+
+World-class 25ms boot times 
+Blaxel Sandboxes resume from standby in ~25ms with full memory state. Filesystem runs in memory, for unbeatable performance for almost all sandbox operations. 
+
+Retain context and data for years 
+Block-storage based volumes let you retain data for years with a fully redundant solution. Fork templates for pre-populated volumes. 
+
+Deeply customizable network for your workloads 
+Set up preview URLs with custom domains managed by Blaxel, order dedicated IPs for sandbox egress traffic, and connect workloads to your own VPC. 
+
+All features of Blaxel Sandboxes 
+ See all features Get started 
+
+ Blaxel Hosting 
+Run agents right next to their computers 
+Co-host the agent loop, MCP servers, and batch tasks directly alongside your sandboxes and volumes to eliminate network hops and ensure the lowest possible end-to-end latency. Discover Hosting 
+
+ ┌─ BACKBONE ────────────────────────────────┐ 
+ │ │ 
+ │ ┌───────────┐ │ 
+ │ │ AGENT │ │ 
+ │ │ ● live │ │ 
+ │ └─────┬─────┘ │ 
+ │ <1ms │ <1ms │ 
+ │ ┌────────┴────────┐ │ 
+ │ │ │ │ 
+ │ ┌────┴──────┐ ┌──────┴────┐ │ 
+ │ │ SANDBOX │ │ MCP SRV │ │ 
+ │ │ ● live │ ─── │ ● live │ │ 
+ │ └───────────┘ └───────────┘ │ 
+ │ <1ms │ 
+ │ │ 
+ │ ~> colocated on same backbone │ 
+ │ ~> zero network hops │ 
+ │ ~> local-like latency │ 
+ │ │ 
+ └─────────────────────────────────────────────┘ 
+
+Colocate your agents for ultra low latency 
+Host agents made with any framework on the same backbone as their sandboxes to achieve local-like network latency. 
+
+Run batch jobs on our elastic backbone 
+Spawn thousands of jobs in individual sandboxes in seconds with Blaxel SDK. Instant scale on demand. 
+
+Host MCP servers close to your agents 
+Run remote MCP servers alongside the agent loop and sandboxes, fully HTTP stream compatible. 
+
+Get end-to-end telemetry 
+Get 360° visibility on your agents and their tools throughout Blaxel with a modern AI-native observability suite. 
+
+ Enterprise-grade Security 
+Built for scale and security 
+Hardened security and elastic infrastructure designed to support your most 

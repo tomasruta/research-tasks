@@ -1,0 +1,213 @@
+Alter 
+
+alter 
+
+ Home 
+
+ Compare 
+
+ Features 
+
+ How It Works 
+
+Book A Call 
+
+Backed by 
+
+Zero-Trust Authorization 
+For Agents 
+
+Zero-Trust Authorization 
+For Agents 
+
+Give your agents secure, controlled access to tools, LLMs, and data 
+
+Give your agents secure, controlled access to tools, LLMs, and data 
+
+Give your agents secure, controlled access to tools, LLMs, and data 
+
+Get Early Access 
+
+Get Early Access 
+
+Unified Zero-Trust Authorization 
+
+Unified Zero-Trust Authorization 
+
+Unified Zero-Trust Authorization 
+
+Real-Time Guardrails & Compliance 
+
+Real-Time Guardrails & Compliance 
+
+Real-Time Guardrails & Compliance 
+
+Complete Observability & Auditability 
+
+Complete Observability & Auditability 
+
+Complete Observability & Auditability 
+
+Get Early Access 
+
+Get Early Access 
+
+Get Early Access 
+
+Models 
+
+Models 
+
+Models 
+
+Agents 
+
+Agents 
+
+Agents 
+
+Tools 
+
+Tools 
+
+Tools 
+
+See how Alter AI transforms outdated processes into intelligent workflows. 
+
+Explore Docs 
+
+Old Way 
+
+Fragmented agent & tool authentication: no central control, complicated RBAC 
+
+Manual OAuth management: frequent expiration, user interruptions, insecure handling 
+
+Sensitive data leaks: risky inputs and outputs via LLMs and external tool calls 
+
+New Way 
+
+Centralized agent & tool authentication: single unified identity layer, real-time RBAC enforcement 
+
+Automatic OAuth injection: manage, refresh, and securely inject OAuth tokens into every external API call 
+
+Built-in compliance: Real-time guardrails prevent sensitive data leaks across LLM calls, tool inputs, and outputs—plus tamper-proof audit trails for every interaction. 
+
+Learn More 
+
+See how Alter transforms outdated processes into intelligent workflows. 
+
+Old Way 
+
+Fragmented agent & tool authentication: no central control, complicated RBAC 
+
+Manual OAuth management: frequent expiration, user interruptions, insecure handling 
+
+Sensitive data leaks: risky inputs and outputs via LLMs and external tool calls 
+
+New Way 
+
+Centralized agent & tool authentication: single unified identity layer, real-time RBAC enforcement 
+
+Automatic OAuth injection: manage, refresh, and securely inject OAuth tokens into every external API call 
+
+Built-in compliance: Real-time guardrails prevent sensitive data leaks across LLM calls, tool inputs, and outputs—plus tamper-proof audit trails for every interaction. 
+
+Old Way 
+
+Fragmented agent & tool authentication: no central control, complicated RBAC 
+
+Manual OAuth management: frequent expiration, user interruptions, insecure handling 
+
+Sensitive data leaks: risky inputs and outputs via LLMs and external tool calls 
+
+New Way 
+
+Centralized agent & tool authentication: single unified identity layer, real-time RBAC enforcement 
+
+Automatic OAuth injection: manage, refresh, and securely inject OAuth tokens into every external API call 
+
+Built-in compliance: Real-time guardrails prevent sensitive data leaks across LLM calls, tool inputs, and outputs—plus tamper-proof audit trails for every interaction. 
+
+Learn More 
+
+See how Alter AI transforms outdated processes into intelligent workflows. 
+
+Explore Docs 
+
+Why Alter ? 
+
+We handle all the security so you can stay focused on building great products. 
+
+Unified Agent Security 
+
+Alter secures every interaction between your AI agents, LLMs, and tools, ensuring sensitive data never leaks. 
+
+Identity-Aware Authentication 
+
+Verify who (agent or user) makes every request. 
+
+Fine-Grained Authorization 
+
+Control precisely who accesses which tools, data, or LLM calls. 
+
+Real-Time Guardrails 
+
+Automatically detect and block risky data before it leaves your organization. 
+
+Why Alter AI ? 
+
+Delivering tailored AI solutions that scale with your business needs. 
+
+Explore Docs 
+
+Why Alter AI ? 
+
+Delivering tailored AI solutions that scale with your business needs. 
+
+Unified Agent Security 
+
+Unified Agent Security 
+
+Alter secures every interaction between your AI agents, LLMs, and tools, ensuring sensitive data never leaks. 
+
+Alter secures every interaction between your AI agents, LLMs, and tools, ensuring sensitive data never leaks. 
+
+Unified Agent Security 
+
+Alter secures every interaction between your AI agents, LLMs, and tools, ensuring sensitive data never leaks. 
+
+Identity-Aware Authentication 
+
+Verify who (agent or user) makes every request. 
+
+Identity-Aware Authentication 
+
+Verify who (agent or user) makes every request. 
+
+Identity-Aware Authentication 
+
+Verify who (agent or user) makes every request. 
+
+Fine-Grained Authorization 
+
+Control precisely who accesses which tools, data, or LLM calls. 
+
+Fine-Grained Authorization 
+
+Control precisely who accesses which tools, data, or LLM calls. 
+
+Fine-Grained Authorization 
+
+Control precisely who accesses which tools, data, or LLM calls. 
+
+Real-Time Guardrails 
+
+Automatically detect and block risky data before it leaves your organization. 
+
+Real-Time Guardrails 
+
+Automatically detect and block risky data before it leaves your organization. 
+
+Real-Time Guardrails 
+
+Automatically dete

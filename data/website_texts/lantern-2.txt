@@ -1,0 +1,200 @@
+Lantern 
+
+ Pricing Docs Tutorials Blog About 
+
+Build in 
+ with Postgres 
+Lantern Cloud is an open-source Postgres vector database and toolkit for developers to build production-ready AI applications. 
+
+Get started for free Explore the docs 
+Trusted by companies building for scale 
+
+Owen Colegrove 
+Founder, SciPhi 
+Lantern helped us scale our cloud database infrastructure to support thousands of developers building RAG applications. 
+
+Daksh Gupta 
+Founder, Greptile 
+We love Lantern! They made it easy for us to do search over thousands of repositories and millions of lines of code. 
+
+Kevin Tang 
+Founder, Firebender 
+Lantern is the real deal; They helped fixed our Postgres setup and we were able to scale to 10M+ vectors with <50ms query times. 
+
+Vector search and BM25 in Postgres 
+Get advanced search functionality inside Postgres with extensions -- no separate vector database or search engine required. 
+
+Vector search with pgvector 
+Search over sparse and dense vectors, with support for binary, scalar, and product compression. Scale seamlessly to millions and beyond with serverless indexing. 
+
+BETA 
+
+Text search with BM25 
+Use the BM25 ranking algorithm - the industry standard used in ElasticSearch - for more relevant text search results, surpassing the default full text search capabilities in Postgres. 
+
+BETA 
+
+Hybrid search 
+Combine vector search and BM25 text search using RRF or other reranking algorithms for better results. 
+
+Get started for free 
+
+Scale to millions with serverless indexing 
+Scale effortlessly without compromising database performance by offloading vector index creation to a separate machine from your main database. 
+
+Infinite scalability 
+Use as many or as little resources as you'd like, depending on your needs 
+
+Performance 
+Build or update indexes without slowing down your database 
+
+Seamless integration 
+Simply add external=true to vector index creation 
+Get started for free 
+
+Embedding generation and LLM integrations 
+Simplify AI workflows by generating embeddings and running LLMs directly within your database. 
+
+Generate vectors and run LLMs in Postgres 
+Run simple SQL commands to generate vectors and run LLM models. 
+
+Support for 20+ embedding models and LLMs 
+Access Open AI, Cohere, Jina AI, and other open-source models. 
+
+Automatically generate vector and LLM columns 
+Create new vector or LLM columns based on your existing data. 
+Get started for free 
+
+Table: Products 
+
+ID 
+
+Name 
+
+Description 
+
+Vector 
+
+1 
+Croissant 
+Flaky, buttery, soft breakfast pastry. 
+[0.2, 0.4, 0.7, 0.3, 0.8, 0.1, 0.5] 
+2 
+Baguette 
+Long, thin loaf of French bread. 
+[0.1, 0.3, 0.6, 0.2, 0.7, 0.2, 0.4] 
+3 
+Pain au chocolat 
+Chocolate-filled pastry. 
+Generating... 
+4 
+Brioche 
+Generating... 
+Generating... 
+5 
+Pretzel 
+Generating... 
+Generating... 
+6 
+Sourdough 
+Generating... 
+Generating... 
+
+Easy to use — just use SQL or your favorite ORM 
+No need to learn a new API or framework. Just use SQL or leverage our integrations with your favorite ORMs. 
+
+SQL 
+
+SQL
+
+Javascript 
+
+Sequelize 
+Knex 
+
+Python 
+
+Django Docs 
+
+ -- Create a table with a vector column 
+ CREATE TABLE books (id SERIAL PRIMARY KEY , book_embedding REAL [3]); 
+
+ -- Insert some vectors 
+ INSERT INTO books (book_embedding) VALUES ( '{0,1,0}' ), ( '{3,2,4}' ); 
+
+ -- Create an index for faster queries 
+ CREATE INDEX book_index ON books USING lantern_hnsw(book_embedding dist_l2sq_ops) 
+ WITH (M = 2 , ef_construction = 10 , ef = 4 , dim = 3 ); 
+
+ -- Query the nearest vector 
+ SELECT id FROM books ORDER BY book_embedding <-> '{0,0,0}' LIMIT 1 ; 
+
+ -- Query the nearest vector to a text embedding 
+ SELECT id FROM books ORDER BY book_embedding <-> text_embedding( 'BAAI/bge-base-en' , 'My text input' ) LIMIT 1 ; 
+
+Get started for free Explore the docs 
+
+Lantern Cloud 
+We're open-source, so you can self-host for full control, or use our managed service for easy setup and scaling. 
+
+FREE FOREVER 
+Free tier 
+A multi-tenant setup allows us to set up a free tier that never pauses. 
+
+ $0.00 /month 
+All databases include 
+
+Vector search and indexing 
+
+Vector and LLM generation 
+
+Automatic upgrades 
+
+Query insights 
+
+Community support Get started for free 
+
+BEST CHOICE 
+Production 
+Designed for running high-performance production workloads 
+
+STARTING AT 
+ $44.00 /month 
+Everything in free, plus 
+
+Increased compute and storage 
+
+Automatic backups 
+
+Point-in-time recovery 
+
+Asynchronous tasks 
+
+Priority support Get started 
+
+Start building 
+
+Get started for free Explore the docs 
+
+Developers 
+Documentation 
+API Reference 
+Tutorials 
+Blog 
+
+Company 
+About 
+Pricing 
+Privacy Policy 
+Terms & Conditions 
+
+Contact 
+Github 
+Twitter 
+LinkedIn 
+Email 
+
+© 2024 Lantern Systems, Inc. 
+
+ Pricing Docs Tutorials Blog About 
+ Login Sign Up

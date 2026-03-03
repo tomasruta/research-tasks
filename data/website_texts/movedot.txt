@@ -1,0 +1,106 @@
+MOVEdot - AI Agents 
+
+ Y Backed by Y Combinator 
+
+AI Agents for Hardware 
+ Testing 
+
+Too much data, not enough time?
+
+MOVEdot agents run hardware test data analysis tasks, that take weeks to complete, in minutes.
+
+Explore MOVEcenter for your use case 
+ Select your use case Submit Interest 
+
+Agents that perform hardware engineering tasks like humans 
+
+Trusted by the engineers of the fastest cars in the world 
+Engineers in IndyCar, IMSA, WEC have already achieved 10x efficiency 
+
+What happens when agents process 100% of your data? 
+
+-80% 
+less time analyzing 
+Reports in minutes, not hours 
+
+100% 
+data coverage 
+No blind spots, no missed opportunities 
+
+3x 
+faster iterations 
+Find correlations that take weeks to discover manually 
+
+Connect your data. Get insights in minutes. 
+
+ 1 
+
+Plug in your data sources 
+Connect your telemetry, sensor logs, test standards, and internal documentation. MOVEdot agents start processing immediately. 
+
+ 2 
+
+Agents find what matters 
+Our AI reviews 100% of your data, identifies correlations across sources, and surfaces the patterns that would take you weeks to find manually. 
+
+ 3 
+
+You get reports and answers 
+Detailed analyses highlighting key findings appear in minutes. Ask complex questions in plain English. Review, iterate, and make the final call—you stay in control. 
+
+From race cars to production lines. 
+Same problem. Same solution. 
+
+Motorsports 
+Optimize performance between sessions 
+
+Manufacturing 
+Monitor equipment, predict failures, optimize throughput 
+
+Automotive R&D 
+Accelerate testing, find correlations faster 
+
+Aerospace 
+Analyze flight data and system performance 
+
+Robotics 
+Track anomalies, improve reliability 
+
+End-of-Line Testing 
+Process 100% of test data, surface issues instantly 
+
+Proven in the most demanding engineering environment. 
+Dozens of motorsports engineers already use MOVEdot to make faster, better decisions: 
+
+ 1 of 1 
+
+Technical Director 
+IndyCar Team 
+ Motorsports 
+
+ " MOVEcenter has positively impacted team efficiency by allowing the drivers to function more autonomously in driving analysis, freeing the engineers to spend more time digesting onboard data. " Read full testimonial 
+
+Mike Maurini 
+Team President 
+ HMD Motorsports • Motorsports 
+
+ " MOVEcenter has quickly become an integral part of our race engineering workflow. It has allowed us to spend less time chasing data and more time making meaningful performance improvements on track. " Read full testimonial 
+
+Engineer 
+IndyCar Team 
+ Motorsports 
+
+ " MOVEcenter allowed our drivers to have a guide for specific driving improvements just minutes after a session, displayed in both driver input data traces and synced onboard video. " Read full testimonial 
+
+Now we're bringing that same intelligence to every engineering team building hardware. 
+
+Stop spending days doing manual engineering work. 
+Share your use case and we'll show you how MOVEcenter can help. 
+ Get Started 
+
+MOVEdot 
+AI agents for engineering analysis 
+
+ founders@movedot.ai 
+
+ 2025 MOVEdot. All rights reserved.

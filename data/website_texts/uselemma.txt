@@ -1,0 +1,48 @@
+Lemma: Continuous Learning for AI Agents 
+
+ Lemma 
+ Home 
+ Book a Demo 
+
+ BACKED BY 
+
+Deploy 1x . Learn forever . 
+Monitor your agent's behavior in production and turn real-world failures into automatic improvements. 
+ Book Demo 
+
+Backed by the best 
+
+PROBLEM 
+AI agents fail in unpredictable ways that are hard to catch and even harder to solve. 
+
+SOLUTION 
+Lemma enables AI agents to continuously learn from their mistakes
+by turning user feedback into automated improvements. 
+
+Understand agent behavior at a glance 
+Monitor failures, trace decisions, and improve performance. 
+
+See why agents fail 
+See real breakdowns in production and trace root causes. 
+
+Monitor agent behavior in production 
+Track performance across users and workflows. 
+
+Improve agent reliability faster 
+Turn real failures into improvements automatically. 
+
+Catch failures before users complain 
+Identify patterns before incidents escalate. 
+
+Ready to start improving your agents today? 
+Book a demo appointment to get started. Close the loop between agent deployment and improvement. Book Demo 
+
+ Lemma 
+An applied product and research lab. 
+
+Social 
+ Twitter 
+ LinkedIn 
+
+© 2026 Lemma, Inc. 
+hello@uselemma.ai

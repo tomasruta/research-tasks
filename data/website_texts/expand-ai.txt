@@ -1,0 +1,160 @@
+expand.ai 
+
+expand.ai is hiring! Want to turn the internet into a database? ↗ Come work with us! 
+
+ S c r a p i n g m a d e e a s y 
+ f o r d e v e l o p e r s 
+expand.ai instantly turns any website into a type-safe API you can rely on. 
+ √ Reliable scraping infrastructure 
+ √ High quality with back checking 
+ √ Great developer experience 
+ √ Instant API for any website 
+
+ const companies = await expand ({ 
+ sources: [ 'https://www.ycombinator.com/companies' ], 
+ // auto-generated schema by expand.ai 
+ schema: Model ( 'Company' , { 
+ name: Expand.String, 
+ batch: Expand.String, 
+ url: Expand.String, 
+ industry: Expand.String, 
+ }) 
+ }) 
+
+ Run ► 
+
+ ↗ Join the waitlist 
+
+We previously worked on 
+
+ 1,000,000 ​ ​ 0 1 2 3 4 5 6 7 8 9 , 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 , 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 0 1 2 3 4 5 6 7 8 9 ​ ​ 
+pages extracted 
+
+Expand your AI's knowledge 
+
+ 01 Type-safety 
+Instant type-safe API for any website 
+expand.ai instantly creates a schema and gets the right data for you. 
+ Get Typesafety 
+
+ 02 Customizable 
+Adaptive AI, Your Schema, Your Rules 
+You can customize the schema to your needs. 
+ Customize your schema 
+
+ 03 Data Quality 
+Unparalleled Data Quality 
+All data is checked and traced back to the source, making hallucination impossible. 
+ Get high quality data 
+
+ 04 Speed 
+Up To 10x Faster 
+Our extraction models are up to 10x faster than even GPT4-o mini. 
+ I Need Speed 
+
+ 05 Endless inputs 
+Endless Data Inputs 
+Harness the entire web and your internal documents with ease. 
+ Provide Endless Inputs 
+
+ 06 Scale 
+Webscale Crawling Infra At Your Fingertips 
+Scale to millions of pages from all over the web. So far we scraped 22M pages. 
+ Scale It Up 
+
+ 07 Reliability 
+We Take Care Of The Hard Part 
+We manage stealth mode, proxies, browser infrastructure and auto healing so you don't have to. 
+ Get Reliability 
+
+ 08 Any website, any document 
+Any Public Website 
+No matter, if JavaScript rendering, or bot protection, we get you the data you need. 
+ Get Any Website 
+
+Make the internet
+ your API 
+
+01 
+Save time and let our AI schema designer infer the schema for you. 
+ ↗ Get a type-safe API 
+
+Instant structured data from the web 📦 
+
+ const companies = await expand ({ 
+ sources: [ 'https://www.ycombinator.com/companies' ] 
+ }) 
+
+ Next ► 
+
+02 
+You can also bring your own data, or just use the whole internet as your datasource. 
+ ↗ Bring your own data 
+
+Bring your own data 🎒 
+
+ const companyDescription = await expand ({ 
+ sources: [ 
+ Sources.Internet, 
+ ‘pitch - deck.pdf’ 
+ ], 
+ prompt: 'What is the company about?' , 
+ }) 
+
+ Run ► 
+
+03 
+We provide semantic markdown for your LLM that only contains the essential information. 
+ ↗ Feed your LLM 
+
+Feed your LLM high-quality food 🥒 
+
+ const result = await expand. markdown ({ 
+ sources: [ 'https://expand.ai/' ], 
+ }) 
+
+ // Pass the markdown into an LLM 
+ const llmResponse = await openai.chat.completions. create ({ 
+ model: "gpt-4o" , 
+ messages: [ 
+ { role: "system" , content: "You are a helpful assistant." }, 
+ { role: "user" , content: `Summarize the following markdown: 
+
+ ${ result . markdown }` } 
+ ], 
+ }) 
+
+ Run ► 
+
+04 
+Just one more line and we start syncing the result into a dataset. You can export this to wherever you need it - be it S3, Postgres, or Google Sheets. 
+ ↗ Get custom datasets 
+
+Coming Soon: Create datasets 💾 
+
+ const companies = await expand ({ 
+ const dataset = await expand. dataset ({ 
+ sources: [ 'https://www.ycombinator.com/companies' ], 
+ schema: Model ( 'Company' , { 
+ name: Expand.String, 
+ batch: Expand.String, 
+ url: Expand.String, 
+ industry: Expand.String, 
+ }), 
+ name: 'yc-companies-db' , 
+ }) 
+
+ const companies = await db. findMany ( 'Company' ) 
+
+ Run ► 
+
+Backed by Y Combinator 
+
+ ↗ Join the waitlist 
+
+{ 
+ copyright: "© ExpandAI, Inc. - All rights reserved.", 
+ privacyPolicy: "/privacy-policy" , 
+ termsOfService: "/terms-of-service" 
+ careers: "/careers/founding-engineer" 
+}

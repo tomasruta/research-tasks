@@ -1,0 +1,137 @@
+General Analysis | Security for Agentic AI 
+
+ General Analysis 
+
+ Platform 
+
+Inventory, red-team, and forecast system risk across every AI stack. 
+
+Automated AI Red Teaming 
+Context-aware red-teaming that maps tool graphs and generates multi-step exploits before every release. 
+
+Runtime Guardrails & Observability 
+Apply runtime controls derived from red-team findings while monitoring for poisoning and drift. 
+
+AI Security Asset Management 
+Inventory models, knowledge bases, MCPs, and agent pipelines while scanning for prompt injections, data leaks, etc. 
+ Solutions 
+
+Blueprints for internal, customer, creative, healthcare, legal, and insurance copilots. 
+
+Internal Employee Agents 
+Zero-leak guardrails plus IAM-aware policies keep Slack or HR copilots from leaking sensitive data. 
+
+AI Code Assistants 
+Read-only repo mirrors, auto tests, and IP-safe corpora stop coding copilots from deleting prod or leaking logic. 
+
+Text & Voice Customer Support 
+Ground every support reply in approved KBs, log escalations, and hand off to humans when cases go off-script. 
+
+Content Generation & Moderation 
+Lock creative models to approved templates, run watermark and deepfake checks, and enforce brand controls. 
+
+Media & Marketing 
+Automated fact-check passes and claim substantiation keep campaigns accurate and regulator-ready. 
+
+Healthcare Copilots 
+Tie clinical copilots to curated guidelines, PHI-safe guardrails, and HIPAA-ready audit trails. 
+
+Legal Assistants 
+Force citations from vetted research databases and log every draft for privilege and ethics reviews. 
+
+Financial Copilot 
+Support banking, lending, and insurance workflows without off-policy advice, data leaks, or regulatory drift. 
+
+ Research 
+
+Frontline writeups and benchmarks from the GA research team. 
+
+Blogs 
+Deep dives on AI security and safety trends. 
+
+Benchmarks 
+Compare public LLMs with public adversarial scoring. 
+ Company 
+
+Learn more about us 
+
+About General Analysis 
+Get to know our mission. 
+
+Careers 
+Join our fast-growing team. 
+
+ Get a Consultation 
+
+Loading page... 
+
+ General Analysis 
+General Analysis delivers context-aware red-teaming and vulnerability forecasting for enterprise AI agents, distilling attack findings into practical runtime controls such as custom guardrails. 
+
+Platform 
+ Automated AI Red Teaming Runtime Guardrails & Observability AI Security Asset Management 
+
+Research 
+ Blogs Benchmarks Open Source 
+
+Company 
+ About Book a Demo Email Us Join our Discord 
+
+© 2025 General Analysis. All rights reserved. 
+
+ Your browser does not support the video tag. 
+
+Applied research in adversarial intelligence 
+We train adversarial models to break agentic systems 
+Exploit discovery and forecasting, trained together. 
+
+ Offensive 
+Adversarial Agents 
+RL-trained agents that learn from realistic engagements with agentic systems to simulate adversarial behavior. Context-aware, not random fuzzing: they understand your system and find exploits specific to it. 
+
+ Defensive 
+Forecasting Models 
+Single-pass vulnerability prediction. Fast enough to run on every pull request, accurate enough to catch what full red-teaming campaigns would find. Convert adversarial examples into training data for safeguards. 
+
+ Book a demo ↗ 
+ See our work → 
+
+ built by experts from 
+
+Why This Matters 
+Agent security is a critical, distinct problem 
+
+ The Problem 
+AI Agents Are A New Attack Surface 
+AI systems now have real agency. They execute code, call APIs, and make autonomous decisions. Every tool in the chain is a potential entry point. Traditional security was built for static software, not systems that reason. 
+
+ What We Do 
+Intelligent Attack Path Discovery 
+Our models explore how agents reason, plan, and execute. They find multi-step exploit chains across tools, APIs, and decision points: attack paths that static analysis and pattern matching cannot find. 
+
+ Our Approach 
+Models That Learn to Exploit 
+We leverage proprietary models to simulate adversarial behavior against your system. They discover exploits you did not know existed. Our forecasting models use insights from our simulations to predict vulnerabilities before code ships. A closed loop that compounds. 
+
+ Latest Work 
+ View all blog posts 
+
+ PRODUCT UPDATES 
+
+ 2025-10-01 • 7 min read 
+Guardrail Release 
+Open-source release of the GA Guard series, a family of safety classifiers that have been providing comprehensive protection for enterprise AI deployments for the past year. 
+ Read more 
+
+ RESEARCH 
+
+ 2025-07-16 • 7 min read 
+Claude Jailbroken to Mint Unlimited Stripe Coupons 
+We reveal a powerful metadata-spoofing attack that exploits Claude's iMessage integration to mint unlimited Stripe coupons or invoke any MCP tool with arbitrary parameters, without alerting the user. 
+ Read more 
+
+ RESEARCH 
+
+ 2025-07-07 • 8 min read 
+Exploiting Partial Compliance: The Redact-and-Recover Jailbreak 
+We present the Redact & Recover (RnR) Jailbreak, a novel attack that exploits partial compliance behaviors in frontier LL

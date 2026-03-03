@@ -1,0 +1,109 @@
+Locata - Automated Referral Management 
+
+ Product 
+ About 
+ How it Works Community Health Centers Company Book Demo 
+
+ Backed by 
+Automate Your Referral Loop 
+ Agentic automation for Primary Care Providers 
+ Book Demo Learn More 
+
+Created by AI experts from 
+
+ Supercharge your operations 
+Our platform automates every step of the referral process, allowing your staff to focus on higher-value tasks 
+
+Authorization submission 
+Automatically generate referral authorizations pre-filled with patient data, reducing errors and saving time. 
+
+ Submitted 
+
+ In Review 
+
+ Approved 
+
+Real-time Status Updates 
+Receive authorization results directly into your EHR automatically, reducing delays and keeping care teams aligned. 
+
+Patient Communication 
+Automated communication tools keep patients informed about their referrals, appointments, and follow-ups—improving patient engagement and satisfaction. 
+
+Document Transmission 
+Securely transmit medical documents and referral forms to specialists—ensuring timely access to critical information and reducing administrative burden. 
+
+Consult Note Retrieval 
+Automated collection of specialist notes, streamlining follow-up care and ensuring no important clinical information is missed. 
+
+End-to-End Integration 
+Seamless integration with EHR systems and payor portals—enabling consistent information flow across all stakeholders while reducing administrative overhead. 
+
+How It Works 
+Not a platform or a tool - complete workflow automation 
+
+ Step 1 
+Setup & Integration 
+Connect your EHR and payor portal credentials to Locata. Our platform handles the technical setup, ensuring secure and compliant data exchange. 
+
+ Step 2 
+Automated Processing 
+Our proprietary AI identifies patterns from your historical referrals to learn how your team operates. We then execute on your behalf, automating the workflow at every step. 
+
+ Step 3 
+Referral Tracking 
+Monitor the status of every referral in real-time. Our platform provides automated updates and alerts, ensuring your team receives the latest status of each referral. 
+
+ Step 4 
+Patient Engagement 
+Keep patients informed with automated notifications about their referrals. Leverage Voice AI to increase engagement with patients. 
+
+ Step 5 
+Results & Follow-up 
+Automatically request consultation notes and follow-up reports from specialists, effortlessly closing the referral loop. 
+
+Reduce Administrative Burden by 80% 
+
+ Streamline referral workflows and reduce errors 
+ Improve patient satisfaction and engagement 
+ Audit trails and documentation for compliance 
+ White-glove onboarding and 1:1 support 
+
+ Referrals Today 
+
+247 
++12% vs yesterday 
+
+Avg Time 
+2.1min 
+93% faster 
+
+Success Rate 
+98.5% 
+
+Satisfaction 
+4.9/5 
+
+★ 
+★ 
+★ 
+★ 
+★ 
+
+Weekly Activity 
+
+ Mon Tue Wed Thu Fri Sat Sun 
+
+What Our Partners Say 
+Trusted by leading healthcare providers 
+
+ "Locata is a clear game-changer for healthcare operations. At WMCHC, referral management is one of our most manual, labor-intensive workflows. Locata has automated our most repetitive tasks, streamlining operations and enabling staff to focus on higher-value tasks. Locata's founders provided exceptional personalized service, onboarding us in just a matter of days. Our physicians and staff could not be more excited to have them." 
+
+Grace Floutsis, M.D. 
+CEO, White Memorial Community Health Center 
+
+Focus on care 
+We'll handle the paperwork 
+ Get Started 
+
+© 2025 Locata AI. All rights reserved. 
+ Privacy Policy Terms of Service

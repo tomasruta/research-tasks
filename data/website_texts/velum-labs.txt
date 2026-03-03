@@ -1,0 +1,135 @@
+Velum Labs - The Ontology Engine for Enterprise AI 
+
+ Skip to main content 
+
+ Loading... 
+
+ Platform Research Company Docs 
+ Request demo 
+
+ The ontology engine 
+ for enterprise AI 
+The missing layer between raw data and AI. Velum builds ontologies that power data contracts—whether your data lives in documents or databases. 
+ ONTOLOGIES HYPERGRAPHS DATA CONTRACTS DATA MESH 
+ Become a design partner Explore platform 
+
+BY RESEARCHERS FROM 
+
+ CAPABILITIES 
+
+Two paths to semantic infrastructure 
+
+ 01 
+
+Whether your data is in documents or databases, Velum helps you define ontologies and enforce them through data contracts. Pick your entry point—the destination is the same. Explore platform capabilities 
+
+From Documents 
+Unstructured data → Hypergraphs → Contracts 
+
+Extract entities from documents with zero-shot NER, discover relationships with LLMs, and build rich hypergraphs automatically. 
+
+Self-correcting pipeline ensures ontology conformance. Hypergraphs capture n-ary relationships that traditional graphs can't. 
+
+ Entity Extraction 
+ Relation Discovery 
+ Hypergraphs 
+
+From Databases 
+Relational sources → Ontology mapping → Contracts 
+
+Map existing database schemas to domain ontologies. Align relational sources with your semantic model. 
+
+Generate data contracts from ontology definitions. Enforce consistency across federated data products in your data mesh. 
+
+ Schema Mapping 
+ Data Contracts 
+ Governance 
+
+ INTEGRATIONS 
+
+Connect any enterprise data source 
+
+ 03 
+Velum integrates with your existing enterprise stack—extracting event logs, master data, and transactional records to construct comprehensive operational hypergraphs. 
+ SAP ERP Oracle Cloud Salesforce 
+
+Data extraction capabilities 
+
+ Connect in minutes with pre-built extractors. 
+
+ Supports SAP, Oracle, Salesforce, ServiceNow, and 50+ enterprise systems. 
+
+ Real-time event streaming and batch processing modes. 
+
+ SOC 2 Type II certified with enterprise-grade security. 
+
+S 
+O 
+SF 
+
+ TECHNOLOGY 
+
+Why ontologies? 
+
+ 02 
+
+Raw data doesn't speak for itself. Ontologies define what your data means—the entities, relationships, and rules that turn information into knowledge. They're the semantic layer that lets systems understand context, enforce consistency, and power intelligent applications across your entire data landscape. Explore our approach 
+
+From data to meaning 
+Ontologies capture what entities are and how they relate—turning raw records into structured knowledge your systems can reason about. 
+
+Enforceable consistency 
+Derive data contracts from ontology definitions. Validate at ingestion, catch drift automatically, govern quality across the mesh. 
+
+One language, many sources 
+Bridge documents, databases, and APIs under a unified semantic model. Same concepts, same meaning, regardless of origin. 
+
+Knowledge AI can use 
+Structured, semantically-rich data that LLMs and agents can query, reason over, and ground their outputs in. 
+
+ TEAM 
+
+Researchers building for enterprise 
+
+ 03 
+
+We're researchers with backgrounds across knowledge representation, distributed systems, and machine learning—now building the semantic infrastructure that modern data platforms need. Backed by Y Combinator (W26). Become a design partner 
+ FOUNDERS 
+
+Alen Rubilar-Muñoz 
+Co-founder 
+
+Benjamin Muñoz-Cerro 
+Co-founder 
+
+ RESEARCH AFFILIATIONS 
+ Harvard University Stanford University Vanderbilt University Leipzig University Minerva University Max Planck Institute for Intelligent Systems Max Planck Institute for Software Systems Meiler Lab 
+
+ DESIGN PARTNERS 
+
+Build with us 
+
+We're looking for data platform teams who want to shape the future of semantic data infrastructure. Join our design partner program and get early access to Velum. Get in touch 
+
+PLATFORM 
+ Overview 
+ From Documents 
+ From Databases 
+ Data Contracts 
+ Documentation 
+
+RESEARCH 
+ Overview 
+ Publications 
+
+COMPANY 
+ About 
+ Contact 
+ Trust Center 
+
+LEGAL 
+ Privacy 
+ Terms 
+
+Velum Labs, Inc. 
+ Terms Privacy Security Trust Center

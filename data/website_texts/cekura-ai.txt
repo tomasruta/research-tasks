@@ -1,0 +1,189 @@
+Cekura | Automated QA for Voice AI and Chat AI Agents 
+
+ Cekura has raised $2.4M to help make conversational agents reliable reliable 
+ Learn more 
+
+ Contact 
+ Careers 
+ Pricing 
+ Resources
+
+ Partners
+
+ Login 
+
+ Request a Demo 
+
+Monitor and Test
+ Voice & Chat AI Agents 
+Launch in minutes not weeks by ensuring your agents deliver a seamless experience in every conversational scenario 
+ Start Free Trial Request a Demo 
+
+Backed by 
+YCombinator 
+
+#1 on Product Hunt 
+Product Hunt 
+
+Simple. Seamless. Smart. 
+Discover how Cekura transforms your commands into action in three easy steps 
+
+Tired of calling agents? Automate it today. 
+
+Thousands of scenarios 
+
+We have a library of thousands of scenarios that we use to test your agent. We can also create custom scenarios for you. 
+
+Parallel Calling 
+
+Actionable evaluation in minutes 
+
+Integrates directly with 
+
+ Synthflow 
+
+ Bland 
+
+ Vapi 
+
+ Retell 
+
+ Cisco 
+
+ LiveKit 
+
+ Pipecat 
+
+ ElevenLabs 
+
+ Synthflow 
+
+ Bland 
+
+ Vapi 
+
+ Retell 
+
+ Cisco 
+
+ LiveKit 
+
+ Pipecat 
+
+ ElevenLabs 
+
+How Cekura Works 
+End-to-end testing and observability for Conversational AI. Run pre-production simulations across diverse personas. 
+
+simulate scenarios 
+
+Start Call: Greet Customer 
+Outbound Call 
+You are calling a customer back about a problem they were having with one of our products. 
+
+Customer is confused
+
+Customer is asking for guidance
+
+Ask the customer to try and.. 
+
+Your new prompt broke appointment cancellation? 
+Quickly test how prompt changes impact core user flows like cancellations, reschedules, or follow-ups. 
+
+Personalities 
+
+ Hannah 
+Female, American Accent, Professional 
+
+ Chris 
+Male, British Accent, Professional 
+
+ Ananya 
+Female, Indian Accent, Pleasant 
+
+ Nick 
+Male, German Accent, Angry 
+
+An impatient, interruptive user causing issues? 
+Test how your agent handles interrupts and off-script users. 
+
+Replay Real Conversations 
+
+An old conversation that always causes issues? 
+Replay known trouble spots to prevent recurring failures. 
+
+Evaluations 
+
+ Empathy 0 % 
+
+ Responsiveness 0 % 
+
+ Hallucinations 0 % 
+
+Skipping compliance checks suddenly? 
+Test key flows for missing disclaimers or checks — catch issues before they go live. 
+
+Observability 
+Monitor production conversations to test instruction-following, tool calls, and conversational quality. 
+
+ Monitor Every Call 
+Real-time insights, detailed logs, and trend analysis for optimal performance 
+
+Alerting 
+Instant notifications for errors, failures, and performance drops to ensure swift action. 
+
+Overview 
+Intuitive dashboard, performance visualization, and data-driven decision-making for continuous improvement. 
+
+Where Leading Teams Test Smarter 
+View all 
+
+HEALTHCARE TECHNOLOGY 
+ How Twin Health's Al agent delivers precision onboarding at scale with Cekura 
+ Read case study 
+
+AI AUTOMATION 
+ How Lindy is shipping reliable Voice AI Employee with automated quality engineering 
+ Read case study 
+
+Works for everyone 
+Test any workflow with various personalities and evaluate based on your needs 
+
+Blog posts 
+View all 
+
+Conditional Actions: Robust Testing of Chatbots and Voice Agents 
+Learn how Conditional Actions in Cekura enables dynamic, rule-based testing that adapts to agent responses in real-time, solving LLM hallucination and test flakiness problems. 
+
+Lavish Gulati 
+Wed Feb 25 2026 
+
+How We Built an Autoscalable Infrastructure for Voice AI Agents 
+Learn how Cekura built a custom autoscaling engine using Redis, Celery, and AWS ECS to handle unpredictable spikes, enforce multi-tenant fairness, and scale from one to hundreds of workers. 
+
+Adarsh Raj 
+Sat Feb 21 2026 
+
+The Silence Between Words: Architecting Resilient Voice AI Systems 
+Most voice AI failures don't happen because of hallucinations or mispronunciations. They happen during silence. Learn how to engineer resilient voice AI systems that handle the milliseconds between words. 
+
+Dileep Chagam 
+Tue Feb 17 2026 
+
+Ready to ship voice
+ agents fast?  Book a demo 
+
+Tatva Labs Inc. © 2026 . 
+
+Cekura 
+ Contact Careers Pricing Blogs Docs 
+
+Contact 
+ founders@cekura.ai 
+710 Lakeway Drive, Suite 200 Sunnyvale, CA 94085 
+
+Partners 
+ Cisco Retell AI Cartesia Pipecat 
+
+Legal 
+ Terms of Service Privacy Policy
